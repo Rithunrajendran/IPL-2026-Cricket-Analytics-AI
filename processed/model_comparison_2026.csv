@@ -1,0 +1,5 @@
+model,mean_accuracy,std_accuracy
+Random Forest,57.62,12.47
+Extra Trees,56.5,11.91
+Logistic Regression,53.16,12.12
+Gradient Boosting,52.82,9.12

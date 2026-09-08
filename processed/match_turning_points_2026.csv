@@ -1,0 +1,2804 @@
+match_id,innings,batting_team,over,over_runs,legal_balls,wickets,over_run_rate,wicket_over,high_scoring_over,momentum
+1527674,1,Sunrisers Hyderabad,0,7,6,0,7.0,0,0,Medium
+1527674,1,Sunrisers Hyderabad,1,10,6,0,10.0,0,0,High
+1527674,1,Sunrisers Hyderabad,2,6,6,2,6.0,1,0,Medium
+1527674,1,Sunrisers Hyderabad,3,6,6,0,6.0,0,0,Medium
+1527674,1,Sunrisers Hyderabad,4,4,6,1,4.0,1,0,Low
+1527674,1,Sunrisers Hyderabad,5,16,6,0,16.0,0,1,Very High
+1527674,1,Sunrisers Hyderabad,6,5,6,0,5.0,0,0,Low
+1527674,1,Sunrisers Hyderabad,7,16,6,0,16.0,0,1,Very High
+1527674,1,Sunrisers Hyderabad,8,9,6,0,9.0,0,0,Medium
+1527674,1,Sunrisers Hyderabad,9,8,6,0,8.0,0,0,Medium
+1527674,1,Sunrisers Hyderabad,10,5,6,0,5.0,0,0,Low
+1527674,1,Sunrisers Hyderabad,11,13,6,0,13.0,0,0,High
+1527674,1,Sunrisers Hyderabad,12,21,6,0,21.0,0,1,Very High
+1527674,1,Sunrisers Hyderabad,13,9,6,1,9.0,1,0,Medium
+1527674,1,Sunrisers Hyderabad,14,7,6,1,7.0,1,0,Medium
+1527674,1,Sunrisers Hyderabad,15,13,6,1,13.0,1,0,High
+1527674,1,Sunrisers Hyderabad,16,12,6,1,12.0,1,0,High
+1527674,1,Sunrisers Hyderabad,17,8,6,1,8.0,1,0,Medium
+1527674,1,Sunrisers Hyderabad,18,17,6,1,17.0,1,1,Very High
+1527674,1,Sunrisers Hyderabad,19,9,6,0,9.0,0,0,Medium
+1527674,2,Royal Challengers Bengaluru,0,9,6,0,9.0,0,0,Medium
+1527674,2,Royal Challengers Bengaluru,1,12,6,1,12.0,1,0,High
+1527674,2,Royal Challengers Bengaluru,2,12,6,0,12.0,0,0,High
+1527674,2,Royal Challengers Bengaluru,3,18,6,0,18.0,0,1,Very High
+1527674,2,Royal Challengers Bengaluru,4,16,6,0,16.0,0,1,Very High
+1527674,2,Royal Challengers Bengaluru,5,9,6,0,9.0,0,0,Medium
+1527674,2,Royal Challengers Bengaluru,6,13,6,0,13.0,0,0,High
+1527674,2,Royal Challengers Bengaluru,7,10,6,0,10.0,0,0,High
+1527674,2,Royal Challengers Bengaluru,8,12,6,1,12.0,1,0,High
+1527674,2,Royal Challengers Bengaluru,9,15,6,0,15.0,0,1,Very High
+1527674,2,Royal Challengers Bengaluru,10,14,6,0,14.0,0,0,High
+1527674,2,Royal Challengers Bengaluru,11,22,6,0,22.0,0,1,Very High
+1527674,2,Royal Challengers Bengaluru,12,2,6,2,2.0,1,0,Low
+1527674,2,Royal Challengers Bengaluru,13,6,6,0,6.0,0,0,Medium
+1527674,2,Royal Challengers Bengaluru,14,15,6,0,15.0,0,1,Very High
+1527674,2,Royal Challengers Bengaluru,15,18,4,0,27.0,0,1,Very High
+1527675,1,Kolkata Knight Riders,0,10,6,0,10.0,0,0,High
+1527675,1,Kolkata Knight Riders,1,4,6,0,4.0,0,0,Low
+1527675,1,Kolkata Knight Riders,2,17,6,0,17.0,0,1,Very High
+1527675,1,Kolkata Knight Riders,3,26,6,0,26.0,0,1,Very High
+1527675,1,Kolkata Knight Riders,4,11,6,0,11.0,0,0,High
+1527675,1,Kolkata Knight Riders,5,10,6,1,10.0,1,0,High
+1527675,1,Kolkata Knight Riders,6,16,6,0,16.0,0,1,Very High
+1527675,1,Kolkata Knight Riders,7,7,6,0,7.0,0,0,Medium
+1527675,1,Kolkata Knight Riders,8,9,6,1,9.0,1,0,Medium
+1527675,1,Kolkata Knight Riders,9,10,6,0,10.0,0,0,High
+1527675,1,Kolkata Knight Riders,10,11,6,0,11.0,0,0,High
+1527675,1,Kolkata Knight Riders,11,5,6,0,5.0,0,0,Low
+1527675,1,Kolkata Knight Riders,12,8,6,0,8.0,0,0,Medium
+1527675,1,Kolkata Knight Riders,13,6,6,1,6.0,1,0,Medium
+1527675,1,Kolkata Knight Riders,14,17,6,0,17.0,0,1,Very High
+1527675,1,Kolkata Knight Riders,15,10,6,0,10.0,0,0,High
+1527675,1,Kolkata Knight Riders,16,14,6,0,14.0,0,0,High
+1527675,1,Kolkata Knight Riders,17,8,6,0,8.0,0,0,Medium
+1527675,1,Kolkata Knight Riders,18,10,6,1,10.0,1,0,High
+1527675,1,Kolkata Knight Riders,19,11,6,0,11.0,0,0,High
+1527675,2,Mumbai Indians,0,6,6,0,6.0,0,0,Medium
+1527675,2,Mumbai Indians,1,9,6,0,9.0,0,0,Medium
+1527675,2,Mumbai Indians,2,19,6,0,19.0,0,1,Very High
+1527675,2,Mumbai Indians,3,15,6,0,15.0,0,1,Very High
+1527675,2,Mumbai Indians,4,15,6,0,15.0,0,1,Very High
+1527675,2,Mumbai Indians,5,16,6,0,16.0,0,1,Very High
+1527675,2,Mumbai Indians,6,8,6,0,8.0,0,0,Medium
+1527675,2,Mumbai Indians,7,8,6,0,8.0,0,0,Medium
+1527675,2,Mumbai Indians,8,14,6,0,14.0,0,0,High
+1527675,2,Mumbai Indians,9,12,6,0,12.0,0,0,High
+1527675,2,Mumbai Indians,10,13,6,0,13.0,0,0,High
+1527675,2,Mumbai Indians,11,17,6,1,17.0,1,1,Very High
+1527675,2,Mumbai Indians,12,11,6,0,11.0,0,0,High
+1527675,2,Mumbai Indians,13,12,6,0,12.0,0,0,High
+1527675,2,Mumbai Indians,14,8,6,1,8.0,1,0,Medium
+1527675,2,Mumbai Indians,15,10,6,1,10.0,1,0,High
+1527675,2,Mumbai Indians,16,8,6,0,8.0,0,0,Medium
+1527675,2,Mumbai Indians,17,11,6,0,11.0,0,0,High
+1527675,2,Mumbai Indians,18,8,6,1,8.0,1,0,Medium
+1527675,2,Mumbai Indians,19,4,1,0,24.0,0,0,Low
+1527676,1,Chennai Super Kings,0,7,6,0,7.0,0,0,Medium
+1527676,1,Chennai Super Kings,1,7,6,1,7.0,1,0,Medium
+1527676,1,Chennai Super Kings,2,5,6,1,5.0,1,0,Low
+1527676,1,Chennai Super Kings,3,11,6,1,11.0,1,0,High
+1527676,1,Chennai Super Kings,4,6,6,0,6.0,0,0,Medium
+1527676,1,Chennai Super Kings,5,5,6,1,5.0,1,0,Low
+1527676,1,Chennai Super Kings,6,10,6,0,10.0,0,0,High
+1527676,1,Chennai Super Kings,7,6,6,2,6.0,1,0,Medium
+1527676,1,Chennai Super Kings,8,5,6,0,5.0,0,0,Low
+1527676,1,Chennai Super Kings,9,8,6,0,8.0,0,0,Medium
+1527676,1,Chennai Super Kings,10,4,6,1,4.0,1,0,Low
+1527676,1,Chennai Super Kings,11,5,6,0,5.0,0,0,Low
+1527676,1,Chennai Super Kings,12,3,6,1,3.0,1,0,Low
+1527676,1,Chennai Super Kings,13,4,6,0,4.0,0,0,Low
+1527676,1,Chennai Super Kings,14,7,6,0,7.0,0,0,Medium
+1527676,1,Chennai Super Kings,15,1,6,1,1.0,1,0,Low
+1527676,1,Chennai Super Kings,16,5,6,0,5.0,0,0,Low
+1527676,1,Chennai Super Kings,17,9,6,0,9.0,0,0,Medium
+1527676,1,Chennai Super Kings,18,10,6,0,10.0,0,0,High
+1527676,1,Chennai Super Kings,19,9,4,1,13.5,1,0,Medium
+1527676,2,Rajasthan Royals,0,18,6,0,18.0,0,1,Very High
+1527676,2,Rajasthan Royals,1,6,6,0,6.0,0,0,Medium
+1527676,2,Rajasthan Royals,2,10,6,0,10.0,0,0,High
+1527676,2,Rajasthan Royals,3,6,6,0,6.0,0,0,Medium
+1527676,2,Rajasthan Royals,4,15,6,0,15.0,0,1,Very High
+1527676,2,Rajasthan Royals,5,19,6,0,19.0,0,1,Very High
+1527676,2,Rajasthan Royals,6,3,6,1,3.0,1,0,Low
+1527676,2,Rajasthan Royals,7,14,6,0,14.0,0,0,High
+1527676,2,Rajasthan Royals,8,9,6,1,9.0,1,0,Medium
+1527676,2,Rajasthan Royals,9,6,6,0,6.0,0,0,Medium
+1527676,2,Rajasthan Royals,10,9,6,0,9.0,0,0,Medium
+1527676,2,Rajasthan Royals,11,12,6,0,12.0,0,0,High
+1527676,2,Rajasthan Royals,12,1,1,0,6.0,0,0,Low
+1527677,1,Gujarat Titans,0,9,6,0,9.0,0,0,Medium
+1527677,1,Gujarat Titans,1,14,6,0,14.0,0,0,High
+1527677,1,Gujarat Titans,2,12,6,0,12.0,0,0,High
+1527677,1,Gujarat Titans,3,2,6,1,2.0,1,0,Low
+1527677,1,Gujarat Titans,4,10,6,0,10.0,0,0,High
+1527677,1,Gujarat Titans,5,7,6,0,7.0,0,0,Medium
+1527677,1,Gujarat Titans,6,11,6,0,11.0,0,0,High
+1527677,1,Gujarat Titans,7,5,6,0,5.0,0,0,Low
+1527677,1,Gujarat Titans,8,6,6,0,6.0,0,0,Medium
+1527677,1,Gujarat Titans,9,8,6,1,8.0,1,0,Medium
+1527677,1,Gujarat Titans,10,5,6,0,5.0,0,0,Low
+1527677,1,Gujarat Titans,11,13,6,0,13.0,0,0,High
+1527677,1,Gujarat Titans,12,9,6,0,9.0,0,0,Medium
+1527677,1,Gujarat Titans,13,8,6,1,8.0,1,0,Medium
+1527677,1,Gujarat Titans,14,9,6,0,9.0,0,0,Medium
+1527677,1,Gujarat Titans,15,3,6,1,3.0,1,0,Low
+1527677,1,Gujarat Titans,16,6,6,0,6.0,0,0,Medium
+1527677,1,Gujarat Titans,17,7,6,0,7.0,0,0,Medium
+1527677,1,Gujarat Titans,18,6,6,2,6.0,1,0,Medium
+1527677,1,Gujarat Titans,19,12,6,0,12.0,0,0,High
+1527677,2,Punjab Kings,0,7,6,0,7.0,0,0,Medium
+1527677,2,Punjab Kings,1,3,6,1,3.0,1,0,Low
+1527677,2,Punjab Kings,2,8,6,0,8.0,0,0,Medium
+1527677,2,Punjab Kings,3,19,6,0,19.0,0,1,Very High
+1527677,2,Punjab Kings,4,13,6,0,13.0,0,0,High
+1527677,2,Punjab Kings,5,5,6,0,5.0,0,0,Low
+1527677,2,Punjab Kings,6,9,6,0,9.0,0,0,Medium
+1527677,2,Punjab Kings,7,8,6,0,8.0,0,0,Medium
+1527677,2,Punjab Kings,8,9,6,0,9.0,0,0,Medium
+1527677,2,Punjab Kings,9,5,6,1,5.0,1,0,Low
+1527677,2,Punjab Kings,10,13,6,0,13.0,0,0,High
+1527677,2,Punjab Kings,11,11,6,0,11.0,0,0,High
+1527677,2,Punjab Kings,12,3,6,1,3.0,1,0,Low
+1527677,2,Punjab Kings,13,5,6,1,5.0,1,0,Low
+1527677,2,Punjab Kings,14,3,6,2,3.0,1,0,Low
+1527677,2,Punjab Kings,15,12,6,0,12.0,0,0,High
+1527677,2,Punjab Kings,16,9,6,0,9.0,0,0,Medium
+1527677,2,Punjab Kings,17,5,6,1,5.0,1,0,Low
+1527677,2,Punjab Kings,18,14,6,0,14.0,0,0,High
+1527677,2,Punjab Kings,19,4,1,0,24.0,0,0,Low
+1527678,1,Lucknow Super Giants,0,6,6,0,6.0,0,0,Medium
+1527678,1,Lucknow Super Giants,1,10,6,0,10.0,0,0,High
+1527678,1,Lucknow Super Giants,2,3,6,1,3.0,1,0,Low
+1527678,1,Lucknow Super Giants,3,6,6,0,6.0,0,0,Medium
+1527678,1,Lucknow Super Giants,4,12,6,0,12.0,0,0,High
+1527678,1,Lucknow Super Giants,5,11,6,1,11.0,1,0,High
+1527678,1,Lucknow Super Giants,6,2,6,1,2.0,1,0,Low
+1527678,1,Lucknow Super Giants,7,7,6,0,7.0,0,0,Medium
+1527678,1,Lucknow Super Giants,8,8,6,1,8.0,1,0,Medium
+1527678,1,Lucknow Super Giants,9,15,6,1,15.0,1,1,Very High
+1527678,1,Lucknow Super Giants,10,4,6,0,4.0,0,0,Low
+1527678,1,Lucknow Super Giants,11,12,6,0,12.0,0,0,High
+1527678,1,Lucknow Super Giants,12,9,6,0,9.0,0,0,Medium
+1527678,1,Lucknow Super Giants,13,3,6,1,3.0,1,0,Low
+1527678,1,Lucknow Super Giants,14,13,6,0,13.0,0,0,High
+1527678,1,Lucknow Super Giants,15,6,6,0,6.0,0,0,Medium
+1527678,1,Lucknow Super Giants,16,8,6,0,8.0,0,0,Medium
+1527678,1,Lucknow Super Giants,17,5,6,2,5.0,1,0,Low
+1527678,1,Lucknow Super Giants,18,1,4,2,1.5,1,0,Low
+1527678,2,Delhi Capitals,0,5,6,1,5.0,1,0,Low
+1527678,2,Delhi Capitals,1,7,6,0,7.0,0,0,Medium
+1527678,2,Delhi Capitals,2,7,6,0,7.0,0,0,Medium
+1527678,2,Delhi Capitals,3,3,6,1,3.0,1,0,Low
+1527678,2,Delhi Capitals,4,7,6,2,7.0,1,0,Medium
+1527678,2,Delhi Capitals,5,3,6,0,3.0,0,0,Low
+1527678,2,Delhi Capitals,6,7,6,0,7.0,0,0,Medium
+1527678,2,Delhi Capitals,7,13,6,0,13.0,0,0,High
+1527678,2,Delhi Capitals,8,8,6,0,8.0,0,0,Medium
+1527678,2,Delhi Capitals,9,16,6,0,16.0,0,1,Very High
+1527678,2,Delhi Capitals,10,6,6,0,6.0,0,0,Medium
+1527678,2,Delhi Capitals,11,4,6,0,4.0,0,0,Low
+1527678,2,Delhi Capitals,12,6,6,0,6.0,0,0,Medium
+1527678,2,Delhi Capitals,13,13,6,0,13.0,0,0,High
+1527678,2,Delhi Capitals,14,7,6,0,7.0,0,0,Medium
+1527678,2,Delhi Capitals,15,13,6,0,13.0,0,0,High
+1527678,2,Delhi Capitals,16,13,6,0,13.0,0,0,High
+1527678,2,Delhi Capitals,17,6,1,0,36.0,0,0,Medium
+1527679,1,Sunrisers Hyderabad,0,6,6,0,6.0,0,0,Medium
+1527679,1,Sunrisers Hyderabad,1,16,6,0,16.0,0,1,Very High
+1527679,1,Sunrisers Hyderabad,2,21,6,0,21.0,0,1,Very High
+1527679,1,Sunrisers Hyderabad,3,3,6,0,3.0,0,0,Low
+1527679,1,Sunrisers Hyderabad,4,25,6,0,25.0,0,1,Very High
+1527679,1,Sunrisers Hyderabad,5,13,6,1,13.0,1,0,High
+1527679,1,Sunrisers Hyderabad,6,14,6,0,14.0,0,0,High
+1527679,1,Sunrisers Hyderabad,7,12,6,0,12.0,0,0,High
+1527679,1,Sunrisers Hyderabad,8,8,6,2,8.0,1,0,Medium
+1527679,1,Sunrisers Hyderabad,9,5,6,1,5.0,1,0,Low
+1527679,1,Sunrisers Hyderabad,10,6,6,0,6.0,0,0,Medium
+1527679,1,Sunrisers Hyderabad,11,11,6,0,11.0,0,0,High
+1527679,1,Sunrisers Hyderabad,12,9,6,0,9.0,0,0,Medium
+1527679,1,Sunrisers Hyderabad,13,6,6,0,6.0,0,0,Medium
+1527679,1,Sunrisers Hyderabad,14,13,6,0,13.0,0,0,High
+1527679,1,Sunrisers Hyderabad,15,7,6,0,7.0,0,0,Medium
+1527679,1,Sunrisers Hyderabad,16,9,6,0,9.0,0,0,Medium
+1527679,1,Sunrisers Hyderabad,17,16,6,0,16.0,0,1,Very High
+1527679,1,Sunrisers Hyderabad,18,11,6,2,11.0,1,0,High
+1527679,1,Sunrisers Hyderabad,19,15,6,2,15.0,1,1,Very High
+1527679,2,Kolkata Knight Riders,0,25,6,0,25.0,0,1,Very High
+1527679,2,Kolkata Knight Riders,1,8,6,1,8.0,1,0,Medium
+1527679,2,Kolkata Knight Riders,2,15,6,0,15.0,0,1,Very High
+1527679,2,Kolkata Knight Riders,3,9,6,0,9.0,0,0,Medium
+1527679,2,Kolkata Knight Riders,4,10,6,1,10.0,1,0,High
+1527679,2,Kolkata Knight Riders,5,7,6,1,7.0,1,0,Medium
+1527679,2,Kolkata Knight Riders,6,5,6,0,5.0,0,0,Low
+1527679,2,Kolkata Knight Riders,7,9,6,0,9.0,0,0,Medium
+1527679,2,Kolkata Knight Riders,8,12,6,0,12.0,0,0,High
+1527679,2,Kolkata Knight Riders,9,10,6,0,10.0,0,0,High
+1527679,2,Kolkata Knight Riders,10,10,6,1,10.0,1,0,High
+1527679,2,Kolkata Knight Riders,11,3,6,1,3.0,1,0,Low
+1527679,2,Kolkata Knight Riders,12,14,6,0,14.0,0,0,High
+1527679,2,Kolkata Knight Riders,13,14,6,1,14.0,1,0,High
+1527679,2,Kolkata Knight Riders,14,7,6,2,7.0,1,0,Medium
+1527679,2,Kolkata Knight Riders,15,2,6,2,2.0,1,0,Low
+1527680,1,Chennai Super Kings,0,5,6,0,5.0,0,0,Low
+1527680,1,Chennai Super Kings,1,9,6,1,9.0,1,0,Medium
+1527680,1,Chennai Super Kings,2,10,6,0,10.0,0,0,High
+1527680,1,Chennai Super Kings,3,15,6,0,15.0,0,1,Very High
+1527680,1,Chennai Super Kings,4,10,6,0,10.0,0,0,High
+1527680,1,Chennai Super Kings,5,8,6,0,8.0,0,0,Medium
+1527680,1,Chennai Super Kings,6,14,6,0,14.0,0,0,High
+1527680,1,Chennai Super Kings,7,6,6,0,6.0,0,0,Medium
+1527680,1,Chennai Super Kings,8,17,6,0,17.0,0,1,Very High
+1527680,1,Chennai Super Kings,9,7,6,0,7.0,0,0,Medium
+1527680,1,Chennai Super Kings,10,9,6,0,9.0,0,0,Medium
+1527680,1,Chennai Super Kings,11,8,6,1,8.0,1,0,Medium
+1527680,1,Chennai Super Kings,12,7,6,1,7.0,1,0,Medium
+1527680,1,Chennai Super Kings,13,5,6,1,5.0,1,0,Low
+1527680,1,Chennai Super Kings,14,15,6,0,15.0,0,1,Very High
+1527680,1,Chennai Super Kings,15,11,6,0,11.0,0,0,High
+1527680,1,Chennai Super Kings,16,12,6,1,12.0,1,0,High
+1527680,1,Chennai Super Kings,17,14,6,0,14.0,0,0,High
+1527680,1,Chennai Super Kings,18,13,6,0,13.0,0,0,High
+1527680,1,Chennai Super Kings,19,14,6,0,14.0,0,0,High
+1527680,2,Punjab Kings,0,13,6,0,13.0,0,0,High
+1527680,2,Punjab Kings,1,20,6,0,20.0,0,1,Very High
+1527680,2,Punjab Kings,2,9,6,0,9.0,0,0,Medium
+1527680,2,Punjab Kings,3,12,6,0,12.0,0,0,High
+1527680,2,Punjab Kings,4,8,6,1,8.0,1,0,Medium
+1527680,2,Punjab Kings,5,5,6,0,5.0,0,0,Low
+1527680,2,Punjab Kings,6,12,6,0,12.0,0,0,High
+1527680,2,Punjab Kings,7,8,6,0,8.0,0,0,Medium
+1527680,2,Punjab Kings,8,7,6,1,7.0,1,0,Medium
+1527680,2,Punjab Kings,9,8,6,0,8.0,0,0,Medium
+1527680,2,Punjab Kings,10,14,6,0,14.0,0,0,High
+1527680,2,Punjab Kings,11,10,6,1,10.0,1,0,High
+1527680,2,Punjab Kings,12,16,6,0,16.0,0,1,Very High
+1527680,2,Punjab Kings,13,5,6,0,5.0,0,0,Low
+1527680,2,Punjab Kings,14,15,6,0,15.0,0,1,Very High
+1527680,2,Punjab Kings,15,14,6,0,14.0,0,0,High
+1527680,2,Punjab Kings,16,9,6,1,9.0,1,0,Medium
+1527680,2,Punjab Kings,17,12,6,1,12.0,1,0,High
+1527680,2,Punjab Kings,18,12,4,0,18.0,0,0,High
+1527681,1,Mumbai Indians,0,8,6,0,8.0,0,0,Medium
+1527681,1,Mumbai Indians,1,10,6,0,10.0,0,0,High
+1527681,1,Mumbai Indians,2,4,6,2,4.0,1,0,Low
+1527681,1,Mumbai Indians,3,3,6,0,3.0,0,0,Low
+1527681,1,Mumbai Indians,4,7,6,0,7.0,0,0,Medium
+1527681,1,Mumbai Indians,5,9,6,0,9.0,0,0,Medium
+1527681,1,Mumbai Indians,6,11,6,0,11.0,0,0,High
+1527681,1,Mumbai Indians,7,9,6,0,9.0,0,0,Medium
+1527681,1,Mumbai Indians,8,8,6,0,8.0,0,0,Medium
+1527681,1,Mumbai Indians,9,4,6,1,4.0,1,0,Low
+1527681,1,Mumbai Indians,10,7,6,0,7.0,0,0,Medium
+1527681,1,Mumbai Indians,11,6,6,1,6.0,1,0,Medium
+1527681,1,Mumbai Indians,12,6,6,0,6.0,0,0,Medium
+1527681,1,Mumbai Indians,13,8,6,0,8.0,0,0,Medium
+1527681,1,Mumbai Indians,14,17,6,0,17.0,0,1,Very High
+1527681,1,Mumbai Indians,15,7,6,1,7.0,1,0,Medium
+1527681,1,Mumbai Indians,16,12,6,0,12.0,0,0,High
+1527681,1,Mumbai Indians,17,8,6,0,8.0,0,0,Medium
+1527681,1,Mumbai Indians,18,4,6,1,4.0,1,0,Low
+1527681,1,Mumbai Indians,19,14,6,0,14.0,0,0,High
+1527681,2,Delhi Capitals,0,2,6,1,2.0,1,0,Low
+1527681,2,Delhi Capitals,1,6,6,1,6.0,1,0,Medium
+1527681,2,Delhi Capitals,2,5,6,0,5.0,0,0,Low
+1527681,2,Delhi Capitals,3,10,6,0,10.0,0,0,High
+1527681,2,Delhi Capitals,4,16,6,0,16.0,0,1,Very High
+1527681,2,Delhi Capitals,5,3,6,0,3.0,0,0,Low
+1527681,2,Delhi Capitals,6,6,6,0,6.0,0,0,Medium
+1527681,2,Delhi Capitals,7,6,6,0,6.0,0,0,Medium
+1527681,2,Delhi Capitals,8,12,6,0,12.0,0,0,High
+1527681,2,Delhi Capitals,9,7,6,1,7.0,1,0,Medium
+1527681,2,Delhi Capitals,10,20,6,0,20.0,0,1,Very High
+1527681,2,Delhi Capitals,11,14,6,0,14.0,0,0,High
+1527681,2,Delhi Capitals,12,1,6,0,1.0,0,0,Low
+1527681,2,Delhi Capitals,13,13,6,0,13.0,0,0,High
+1527681,2,Delhi Capitals,14,17,6,0,17.0,0,1,Very High
+1527681,2,Delhi Capitals,15,11,6,0,11.0,0,0,High
+1527681,2,Delhi Capitals,16,3,6,1,3.0,1,0,Low
+1527681,2,Delhi Capitals,17,8,6,0,8.0,0,0,Medium
+1527681,2,Delhi Capitals,18,4,1,0,24.0,0,0,Low
+1527682,1,Rajasthan Royals,0,10,6,0,10.0,0,0,High
+1527682,1,Rajasthan Royals,1,7,6,0,7.0,0,0,Medium
+1527682,1,Rajasthan Royals,2,15,6,0,15.0,0,1,Very High
+1527682,1,Rajasthan Royals,3,12,6,0,12.0,0,0,High
+1527682,1,Rajasthan Royals,4,13,6,0,13.0,0,0,High
+1527682,1,Rajasthan Royals,5,12,6,0,12.0,0,0,High
+1527682,1,Rajasthan Royals,6,5,6,1,5.0,1,0,Low
+1527682,1,Rajasthan Royals,7,6,6,0,6.0,0,0,Medium
+1527682,1,Rajasthan Royals,8,12,6,0,12.0,0,0,High
+1527682,1,Rajasthan Royals,9,5,6,0,5.0,0,0,Low
+1527682,1,Rajasthan Royals,10,10,6,0,10.0,0,0,High
+1527682,1,Rajasthan Royals,11,15,6,0,15.0,0,1,Very High
+1527682,1,Rajasthan Royals,12,12,6,1,12.0,1,0,High
+1527682,1,Rajasthan Royals,13,14,6,1,14.0,1,0,High
+1527682,1,Rajasthan Royals,14,12,6,0,12.0,0,0,High
+1527682,1,Rajasthan Royals,15,6,6,1,6.0,1,0,Medium
+1527682,1,Rajasthan Royals,16,11,6,1,11.0,1,0,High
+1527682,1,Rajasthan Royals,17,13,6,0,13.0,0,0,High
+1527682,1,Rajasthan Royals,18,11,6,0,11.0,0,0,High
+1527682,1,Rajasthan Royals,19,9,6,1,9.0,1,0,Medium
+1527682,2,Gujarat Titans,0,15,6,0,15.0,0,1,Very High
+1527682,2,Gujarat Titans,1,7,6,0,7.0,0,0,Medium
+1527682,2,Gujarat Titans,2,10,6,0,10.0,0,0,High
+1527682,2,Gujarat Titans,3,8,6,0,8.0,0,0,Medium
+1527682,2,Gujarat Titans,4,5,6,0,5.0,0,0,Low
+1527682,2,Gujarat Titans,5,11,6,0,11.0,0,0,High
+1527682,2,Gujarat Titans,6,11,6,0,11.0,0,0,High
+1527682,2,Gujarat Titans,7,11,6,1,11.0,1,0,High
+1527682,2,Gujarat Titans,8,14,6,0,14.0,0,0,High
+1527682,2,Gujarat Titans,9,11,6,0,11.0,0,0,High
+1527682,2,Gujarat Titans,10,9,6,1,9.0,1,0,Medium
+1527682,2,Gujarat Titans,11,15,6,0,15.0,0,1,Very High
+1527682,2,Gujarat Titans,12,6,6,2,6.0,1,0,Medium
+1527682,2,Gujarat Titans,13,12,6,1,12.0,1,0,High
+1527682,2,Gujarat Titans,14,16,6,2,16.0,1,1,Very High
+1527682,2,Gujarat Titans,15,10,6,0,10.0,0,0,High
+1527682,2,Gujarat Titans,16,10,6,0,10.0,0,0,High
+1527682,2,Gujarat Titans,17,15,6,0,15.0,0,1,Very High
+1527682,2,Gujarat Titans,18,4,6,0,4.0,0,0,Low
+1527682,2,Gujarat Titans,19,4,6,1,4.0,1,0,Low
+1527683,1,Sunrisers Hyderabad,0,1,6,1,1.0,1,0,Low
+1527683,1,Sunrisers Hyderabad,1,7,6,0,7.0,0,0,Medium
+1527683,1,Sunrisers Hyderabad,2,2,6,1,2.0,1,0,Low
+1527683,1,Sunrisers Hyderabad,3,1,6,1,1.0,1,0,Low
+1527683,1,Sunrisers Hyderabad,4,4,6,0,4.0,0,0,Low
+1527683,1,Sunrisers Hyderabad,5,7,6,0,7.0,0,0,Medium
+1527683,1,Sunrisers Hyderabad,6,4,6,0,4.0,0,0,Low
+1527683,1,Sunrisers Hyderabad,7,3,6,1,3.0,1,0,Low
+1527683,1,Sunrisers Hyderabad,8,2,6,0,2.0,0,0,Low
+1527683,1,Sunrisers Hyderabad,9,4,6,0,4.0,0,0,Low
+1527683,1,Sunrisers Hyderabad,10,16,6,0,16.0,0,1,Very High
+1527683,1,Sunrisers Hyderabad,11,14,6,0,14.0,0,0,High
+1527683,1,Sunrisers Hyderabad,12,8,6,0,8.0,0,0,Medium
+1527683,1,Sunrisers Hyderabad,13,19,6,0,19.0,0,1,Very High
+1527683,1,Sunrisers Hyderabad,14,22,6,0,22.0,0,1,Very High
+1527683,1,Sunrisers Hyderabad,15,9,6,0,9.0,0,0,Medium
+1527683,1,Sunrisers Hyderabad,16,11,6,0,11.0,0,0,High
+1527683,1,Sunrisers Hyderabad,17,10,6,1,10.0,1,0,High
+1527683,1,Sunrisers Hyderabad,18,2,6,2,2.0,1,0,Low
+1527683,1,Sunrisers Hyderabad,19,10,6,2,10.0,1,0,High
+1527683,2,Lucknow Super Giants,0,2,6,0,2.0,0,0,Low
+1527683,2,Lucknow Super Giants,1,14,6,0,14.0,0,0,High
+1527683,2,Lucknow Super Giants,2,8,6,0,8.0,0,0,Medium
+1527683,2,Lucknow Super Giants,3,9,6,0,9.0,0,0,Medium
+1527683,2,Lucknow Super Giants,4,5,6,1,5.0,1,0,Low
+1527683,2,Lucknow Super Giants,5,15,6,0,15.0,0,1,Very High
+1527683,2,Lucknow Super Giants,6,4,6,0,4.0,0,0,Low
+1527683,2,Lucknow Super Giants,7,10,6,0,10.0,0,0,High
+1527683,2,Lucknow Super Giants,8,9,6,0,9.0,0,0,Medium
+1527683,2,Lucknow Super Giants,9,5,6,1,5.0,1,0,Low
+1527683,2,Lucknow Super Giants,10,8,6,0,8.0,0,0,Medium
+1527683,2,Lucknow Super Giants,11,13,6,0,13.0,0,0,High
+1527683,2,Lucknow Super Giants,12,3,6,1,3.0,1,0,Low
+1527683,2,Lucknow Super Giants,13,3,6,1,3.0,1,0,Low
+1527683,2,Lucknow Super Giants,14,6,6,0,6.0,0,0,Medium
+1527683,2,Lucknow Super Giants,15,14,6,0,14.0,0,0,High
+1527683,2,Lucknow Super Giants,16,10,6,0,10.0,0,0,High
+1527683,2,Lucknow Super Giants,17,6,6,1,6.0,1,0,Medium
+1527683,2,Lucknow Super Giants,18,4,6,0,4.0,0,0,Low
+1527683,2,Lucknow Super Giants,19,12,5,0,14.4,0,0,High
+1527684,1,Royal Challengers Bengaluru,0,5,6,0,5.0,0,0,Low
+1527684,1,Royal Challengers Bengaluru,1,6,6,0,6.0,0,0,Medium
+1527684,1,Royal Challengers Bengaluru,2,6,6,0,6.0,0,0,Medium
+1527684,1,Royal Challengers Bengaluru,3,16,6,0,16.0,0,1,Very High
+1527684,1,Royal Challengers Bengaluru,4,10,6,1,10.0,1,0,High
+1527684,1,Royal Challengers Bengaluru,5,8,6,0,8.0,0,0,Medium
+1527684,1,Royal Challengers Bengaluru,6,15,6,0,15.0,0,1,Very High
+1527684,1,Royal Challengers Bengaluru,7,10,6,0,10.0,0,0,High
+1527684,1,Royal Challengers Bengaluru,8,11,6,0,11.0,0,0,High
+1527684,1,Royal Challengers Bengaluru,9,4,6,0,4.0,0,0,Low
+1527684,1,Royal Challengers Bengaluru,10,7,6,1,7.0,1,0,Medium
+1527684,1,Royal Challengers Bengaluru,11,16,6,0,16.0,0,1,Very High
+1527684,1,Royal Challengers Bengaluru,12,23,6,0,23.0,0,1,Very High
+1527684,1,Royal Challengers Bengaluru,13,14,6,0,14.0,0,0,High
+1527684,1,Royal Challengers Bengaluru,14,2,6,1,2.0,1,0,Low
+1527684,1,Royal Challengers Bengaluru,15,19,6,0,19.0,0,1,Very High
+1527684,1,Royal Challengers Bengaluru,16,21,6,0,21.0,0,1,Very High
+1527684,1,Royal Challengers Bengaluru,17,14,6,0,14.0,0,0,High
+1527684,1,Royal Challengers Bengaluru,18,30,6,0,30.0,0,1,Very High
+1527684,1,Royal Challengers Bengaluru,19,13,6,0,13.0,0,0,High
+1527684,2,Chennai Super Kings,0,10,6,1,10.0,1,0,High
+1527684,2,Chennai Super Kings,1,8,6,1,8.0,1,0,Medium
+1527684,2,Chennai Super Kings,2,12,6,1,12.0,1,0,High
+1527684,2,Chennai Super Kings,3,11,6,0,11.0,0,0,High
+1527684,2,Chennai Super Kings,4,23,6,0,23.0,0,1,Very High
+1527684,2,Chennai Super Kings,5,13,6,0,13.0,0,0,High
+1527684,2,Chennai Super Kings,6,7,6,2,7.0,1,0,Medium
+1527684,2,Chennai Super Kings,7,10,6,0,10.0,0,0,High
+1527684,2,Chennai Super Kings,8,11,6,0,11.0,0,0,High
+1527684,2,Chennai Super Kings,9,4,6,1,4.0,1,0,Low
+1527684,2,Chennai Super Kings,10,8,6,0,8.0,0,0,Medium
+1527684,2,Chennai Super Kings,11,19,6,0,19.0,0,1,Very High
+1527684,2,Chennai Super Kings,12,3,6,0,3.0,0,0,Low
+1527684,2,Chennai Super Kings,13,18,6,0,18.0,0,1,Very High
+1527684,2,Chennai Super Kings,14,8,6,0,8.0,0,0,Medium
+1527684,2,Chennai Super Kings,15,13,6,1,13.0,1,0,High
+1527684,2,Chennai Super Kings,16,2,6,1,2.0,1,0,Low
+1527684,2,Chennai Super Kings,17,10,6,1,10.0,1,0,High
+1527684,2,Chennai Super Kings,18,14,6,0,14.0,0,0,High
+1527684,2,Chennai Super Kings,19,3,4,1,4.5,1,0,Low
+1527685,1,Kolkata Knight Riders,0,12,6,0,12.0,0,0,High
+1527685,1,Kolkata Knight Riders,1,4,6,2,4.0,1,0,Low
+1527685,1,Kolkata Knight Riders,2,4,6,0,4.0,0,0,Low
+1527685,1,Kolkata Knight Riders,3,5,4,0,7.5,0,0,Low
+1527686,1,Rajasthan Royals,0,22,6,0,22.0,0,1,Very High
+1527686,1,Rajasthan Royals,1,14,6,0,14.0,0,0,High
+1527686,1,Rajasthan Royals,2,22,6,0,22.0,0,1,Very High
+1527686,1,Rajasthan Royals,3,4,6,0,4.0,0,0,Low
+1527686,1,Rajasthan Royals,4,18,6,1,18.0,1,1,Very High
+1527686,1,Rajasthan Royals,5,9,6,1,9.0,1,0,Medium
+1527686,1,Rajasthan Royals,6,8,6,0,8.0,0,0,Medium
+1527686,1,Rajasthan Royals,7,13,6,0,13.0,0,0,High
+1527686,1,Rajasthan Royals,8,12,6,1,12.0,1,0,High
+1527686,1,Rajasthan Royals,9,10,6,0,10.0,0,0,High
+1527686,1,Rajasthan Royals,10,18,6,0,18.0,0,1,Very High
+1527686,2,Mumbai Indians,0,10,6,1,10.0,1,0,High
+1527686,2,Mumbai Indians,1,12,6,1,12.0,1,0,High
+1527686,2,Mumbai Indians,2,3,6,1,3.0,1,0,Low
+1527686,2,Mumbai Indians,3,11,6,0,11.0,0,0,High
+1527686,2,Mumbai Indians,4,10,6,2,10.0,1,0,High
+1527686,2,Mumbai Indians,5,14,6,0,14.0,0,0,High
+1527686,2,Mumbai Indians,6,15,6,0,15.0,0,1,Very High
+1527686,2,Mumbai Indians,7,19,6,1,19.0,1,1,Very High
+1527686,2,Mumbai Indians,8,13,6,1,13.0,1,0,High
+1527686,2,Mumbai Indians,9,9,6,1,9.0,1,0,Medium
+1527686,2,Mumbai Indians,10,7,6,1,7.0,1,0,Medium
+1527687,1,Gujarat Titans,0,11,6,0,11.0,0,0,High
+1527687,1,Gujarat Titans,1,7,6,0,7.0,0,0,Medium
+1527687,1,Gujarat Titans,2,9,6,1,9.0,1,0,Medium
+1527687,1,Gujarat Titans,3,13,6,0,13.0,0,0,High
+1527687,1,Gujarat Titans,4,23,6,0,23.0,0,1,Very High
+1527687,1,Gujarat Titans,5,5,6,0,5.0,0,0,Low
+1527687,1,Gujarat Titans,6,9,6,0,9.0,0,0,Medium
+1527687,1,Gujarat Titans,7,8,6,1,8.0,1,0,Medium
+1527687,1,Gujarat Titans,8,5,6,0,5.0,0,0,Low
+1527687,1,Gujarat Titans,9,11,6,0,11.0,0,0,High
+1527687,1,Gujarat Titans,10,9,6,0,9.0,0,0,Medium
+1527687,1,Gujarat Titans,11,23,6,0,23.0,0,1,Very High
+1527687,1,Gujarat Titans,12,9,6,0,9.0,0,0,Medium
+1527687,1,Gujarat Titans,13,10,6,0,10.0,0,0,High
+1527687,1,Gujarat Titans,14,9,6,0,9.0,0,0,Medium
+1527687,1,Gujarat Titans,15,7,6,0,7.0,0,0,Medium
+1527687,1,Gujarat Titans,16,14,6,0,14.0,0,0,High
+1527687,1,Gujarat Titans,17,3,6,1,3.0,1,0,Low
+1527687,1,Gujarat Titans,18,13,6,0,13.0,0,0,High
+1527687,1,Gujarat Titans,19,12,6,1,12.0,1,0,High
+1527687,2,Delhi Capitals,0,14,6,0,14.0,0,0,High
+1527687,2,Delhi Capitals,1,6,6,0,6.0,0,0,Medium
+1527687,2,Delhi Capitals,2,7,6,0,7.0,0,0,Medium
+1527687,2,Delhi Capitals,3,9,6,0,9.0,0,0,Medium
+1527687,2,Delhi Capitals,4,4,6,0,4.0,0,0,Low
+1527687,2,Delhi Capitals,5,23,6,0,23.0,0,1,Very High
+1527687,2,Delhi Capitals,6,8,6,0,8.0,0,0,Medium
+1527687,2,Delhi Capitals,7,5,6,0,5.0,0,0,Low
+1527687,2,Delhi Capitals,8,21,6,1,21.0,1,1,Very High
+1527687,2,Delhi Capitals,9,4,6,2,4.0,1,0,Low
+1527687,2,Delhi Capitals,10,11,6,0,11.0,0,0,High
+1527687,2,Delhi Capitals,11,6,6,0,6.0,0,0,Medium
+1527687,2,Delhi Capitals,12,12,6,0,12.0,0,0,High
+1527687,2,Delhi Capitals,13,4,6,1,4.0,1,0,Low
+1527687,2,Delhi Capitals,14,8,6,0,8.0,0,0,Medium
+1527687,2,Delhi Capitals,15,16,6,0,16.0,0,1,Very High
+1527687,2,Delhi Capitals,16,7,6,2,7.0,1,0,Medium
+1527687,2,Delhi Capitals,17,9,6,0,9.0,0,0,Medium
+1527687,2,Delhi Capitals,18,23,6,0,23.0,0,1,Very High
+1527687,2,Delhi Capitals,19,11,6,2,11.0,1,0,High
+1527688,1,Kolkata Knight Riders,0,6,6,0,6.0,0,0,Medium
+1527688,1,Kolkata Knight Riders,1,10,6,1,10.0,1,0,High
+1527688,1,Kolkata Knight Riders,2,5,6,0,5.0,0,0,Low
+1527688,1,Kolkata Knight Riders,3,9,6,0,9.0,0,0,Medium
+1527688,1,Kolkata Knight Riders,4,10,6,0,10.0,0,0,High
+1527688,1,Kolkata Knight Riders,5,16,6,0,16.0,0,1,Very High
+1527688,1,Kolkata Knight Riders,6,9,6,0,9.0,0,0,Medium
+1527688,1,Kolkata Knight Riders,7,9,6,0,9.0,0,0,Medium
+1527688,1,Kolkata Knight Riders,8,15,6,0,15.0,0,1,Very High
+1527688,1,Kolkata Knight Riders,9,9,6,0,9.0,0,0,Medium
+1527688,1,Kolkata Knight Riders,10,4,6,1,4.0,1,0,Low
+1527688,1,Kolkata Knight Riders,11,4,6,1,4.0,1,0,Low
+1527688,1,Kolkata Knight Riders,12,5,6,0,5.0,0,0,Low
+1527688,1,Kolkata Knight Riders,13,1,6,1,1.0,1,0,Low
+1527688,1,Kolkata Knight Riders,14,3,6,0,3.0,0,0,Low
+1527688,1,Kolkata Knight Riders,15,12,6,0,12.0,0,0,High
+1527688,1,Kolkata Knight Riders,16,17,6,0,17.0,0,1,Very High
+1527688,1,Kolkata Knight Riders,17,13,6,0,13.0,0,0,High
+1527688,1,Kolkata Knight Riders,18,12,6,0,12.0,0,0,High
+1527688,1,Kolkata Knight Riders,19,12,6,0,12.0,0,0,High
+1527688,2,Lucknow Super Giants,0,6,6,0,6.0,0,0,Medium
+1527688,2,Lucknow Super Giants,1,7,6,0,7.0,0,0,Medium
+1527688,2,Lucknow Super Giants,2,18,6,0,18.0,0,1,Very High
+1527688,2,Lucknow Super Giants,3,10,6,0,10.0,0,0,High
+1527688,2,Lucknow Super Giants,4,8,6,2,8.0,1,0,Medium
+1527688,2,Lucknow Super Giants,5,7,6,0,7.0,0,0,Medium
+1527688,2,Lucknow Super Giants,6,12,6,0,12.0,0,0,High
+1527688,2,Lucknow Super Giants,7,4,6,0,4.0,0,0,Low
+1527688,2,Lucknow Super Giants,8,12,6,1,12.0,1,0,High
+1527688,2,Lucknow Super Giants,9,1,6,0,1.0,0,0,Low
+1527688,2,Lucknow Super Giants,10,5,6,0,5.0,0,0,Low
+1527688,2,Lucknow Super Giants,11,6,6,1,6.0,1,0,Medium
+1527688,2,Lucknow Super Giants,12,8,6,1,8.0,1,0,Medium
+1527688,2,Lucknow Super Giants,13,15,6,0,15.0,0,1,Very High
+1527688,2,Lucknow Super Giants,14,8,6,1,8.0,1,0,Medium
+1527688,2,Lucknow Super Giants,15,1,6,1,1.0,1,0,Low
+1527688,2,Lucknow Super Giants,16,11,6,0,11.0,0,0,High
+1527688,2,Lucknow Super Giants,17,13,6,0,13.0,0,0,High
+1527688,2,Lucknow Super Giants,18,16,6,0,16.0,0,1,Very High
+1527688,2,Lucknow Super Giants,19,14,6,0,14.0,0,0,High
+1527689,1,Royal Challengers Bengaluru,0,13,6,1,13.0,1,0,High
+1527689,1,Royal Challengers Bengaluru,1,19,6,0,19.0,0,1,Very High
+1527689,1,Royal Challengers Bengaluru,2,13,6,1,13.0,1,0,High
+1527689,1,Royal Challengers Bengaluru,3,10,6,0,10.0,0,0,High
+1527689,1,Royal Challengers Bengaluru,4,3,6,1,3.0,1,0,Low
+1527689,1,Royal Challengers Bengaluru,5,3,6,0,3.0,0,0,Low
+1527689,1,Royal Challengers Bengaluru,6,4,6,1,4.0,1,0,Low
+1527689,1,Royal Challengers Bengaluru,7,8,6,0,8.0,0,0,Medium
+1527689,1,Royal Challengers Bengaluru,8,9,6,1,9.0,1,0,Medium
+1527689,1,Royal Challengers Bengaluru,9,7,6,0,7.0,0,0,Medium
+1527689,1,Royal Challengers Bengaluru,10,5,6,1,5.0,1,0,Low
+1527689,1,Royal Challengers Bengaluru,11,10,6,0,10.0,0,0,High
+1527689,1,Royal Challengers Bengaluru,12,15,6,0,15.0,0,1,Very High
+1527689,1,Royal Challengers Bengaluru,13,6,6,1,6.0,1,0,Medium
+1527689,1,Royal Challengers Bengaluru,14,14,6,0,14.0,0,0,High
+1527689,1,Royal Challengers Bengaluru,15,11,6,0,11.0,0,0,High
+1527689,1,Royal Challengers Bengaluru,16,16,6,0,16.0,0,1,Very High
+1527689,1,Royal Challengers Bengaluru,17,5,6,1,5.0,1,0,Low
+1527689,1,Royal Challengers Bengaluru,18,9,6,0,9.0,0,0,Medium
+1527689,1,Royal Challengers Bengaluru,19,21,6,0,21.0,0,1,Very High
+1527689,2,Rajasthan Royals,0,9,6,0,9.0,0,0,Medium
+1527689,2,Rajasthan Royals,1,12,6,1,12.0,1,0,High
+1527689,2,Rajasthan Royals,2,16,6,0,16.0,0,1,Very High
+1527689,2,Rajasthan Royals,3,19,6,0,19.0,0,1,Very High
+1527689,2,Rajasthan Royals,4,17,6,0,17.0,0,1,Very High
+1527689,2,Rajasthan Royals,5,24,6,0,24.0,0,1,Very High
+1527689,2,Rajasthan Royals,6,14,6,0,14.0,0,0,High
+1527689,2,Rajasthan Royals,7,18,6,0,18.0,0,1,Very High
+1527689,2,Rajasthan Royals,8,3,6,2,3.0,1,0,Low
+1527689,2,Rajasthan Royals,9,5,6,1,5.0,1,0,Low
+1527689,2,Rajasthan Royals,10,4,6,0,4.0,0,0,Low
+1527689,2,Rajasthan Royals,11,4,6,0,4.0,0,0,Low
+1527689,2,Rajasthan Royals,12,9,6,0,9.0,0,0,Medium
+1527689,2,Rajasthan Royals,13,9,6,0,9.0,0,0,Medium
+1527689,2,Rajasthan Royals,14,14,6,0,14.0,0,0,High
+1527689,2,Rajasthan Royals,15,7,6,0,7.0,0,0,Medium
+1527689,2,Rajasthan Royals,16,7,6,0,7.0,0,0,Medium
+1527689,2,Rajasthan Royals,17,11,6,0,11.0,0,0,High
+1527690,1,Sunrisers Hyderabad,0,9,6,0,9.0,0,0,Medium
+1527690,1,Sunrisers Hyderabad,1,11,6,0,11.0,0,0,High
+1527690,1,Sunrisers Hyderabad,2,22,6,0,22.0,0,1,Very High
+1527690,1,Sunrisers Hyderabad,3,16,6,0,16.0,0,1,Very High
+1527690,1,Sunrisers Hyderabad,4,24,6,0,24.0,0,1,Very High
+1527690,1,Sunrisers Hyderabad,5,21,6,0,21.0,0,1,Very High
+1527690,1,Sunrisers Hyderabad,6,6,6,0,6.0,0,0,Medium
+1527690,1,Sunrisers Hyderabad,7,9,6,0,9.0,0,0,Medium
+1527690,1,Sunrisers Hyderabad,8,3,6,2,3.0,1,0,Low
+1527690,1,Sunrisers Hyderabad,9,8,6,0,8.0,0,0,Medium
+1527690,1,Sunrisers Hyderabad,10,11,6,0,11.0,0,0,High
+1527690,1,Sunrisers Hyderabad,11,8,6,0,8.0,0,0,Medium
+1527690,1,Sunrisers Hyderabad,12,9,6,0,9.0,0,0,Medium
+1527690,1,Sunrisers Hyderabad,13,9,6,1,9.0,1,0,Medium
+1527690,1,Sunrisers Hyderabad,14,7,6,0,7.0,0,0,Medium
+1527690,1,Sunrisers Hyderabad,15,6,6,0,6.0,0,0,Medium
+1527690,1,Sunrisers Hyderabad,16,15,6,1,15.0,1,1,Very High
+1527690,1,Sunrisers Hyderabad,17,9,6,0,9.0,0,0,Medium
+1527690,1,Sunrisers Hyderabad,18,8,6,1,8.0,1,0,Medium
+1527690,1,Sunrisers Hyderabad,19,5,6,1,5.0,1,0,Low
+1527690,2,Punjab Kings,0,18,6,0,18.0,0,1,Very High
+1527690,2,Punjab Kings,1,11,6,0,11.0,0,0,High
+1527690,2,Punjab Kings,2,11,6,0,11.0,0,0,High
+1527690,2,Punjab Kings,3,15,6,0,15.0,0,1,Very High
+1527690,2,Punjab Kings,4,17,6,0,17.0,0,1,Very High
+1527690,2,Punjab Kings,5,21,6,0,21.0,0,1,Very High
+1527690,2,Punjab Kings,6,8,6,1,8.0,1,0,Medium
+1527690,2,Punjab Kings,7,8,6,0,8.0,0,0,Medium
+1527690,2,Punjab Kings,8,9,6,1,9.0,1,0,Medium
+1527690,2,Punjab Kings,9,6,6,0,6.0,0,0,Medium
+1527690,2,Punjab Kings,10,12,6,1,12.0,1,0,High
+1527690,2,Punjab Kings,11,14,6,0,14.0,0,0,High
+1527690,2,Punjab Kings,12,4,6,0,4.0,0,0,Low
+1527690,2,Punjab Kings,13,7,6,0,7.0,0,0,Medium
+1527690,2,Punjab Kings,14,18,6,0,18.0,0,1,Very High
+1527690,2,Punjab Kings,15,18,6,0,18.0,0,1,Very High
+1527690,2,Punjab Kings,16,5,6,1,5.0,1,0,Low
+1527690,2,Punjab Kings,17,14,6,0,14.0,0,0,High
+1527690,2,Punjab Kings,18,7,5,0,8.4,0,0,Medium
+1527691,1,Chennai Super Kings,0,10,6,0,10.0,0,0,High
+1527691,1,Chennai Super Kings,1,10,6,0,10.0,0,0,High
+1527691,1,Chennai Super Kings,2,7,6,0,7.0,0,0,Medium
+1527691,1,Chennai Super Kings,3,13,6,0,13.0,0,0,High
+1527691,1,Chennai Super Kings,4,9,6,0,9.0,0,0,Medium
+1527691,1,Chennai Super Kings,5,12,6,0,12.0,0,0,High
+1527691,1,Chennai Super Kings,6,4,6,1,4.0,1,0,Low
+1527691,1,Chennai Super Kings,7,8,6,0,8.0,0,0,Medium
+1527691,1,Chennai Super Kings,8,4,6,0,4.0,0,0,Low
+1527691,1,Chennai Super Kings,9,11,6,0,11.0,0,0,High
+1527691,1,Chennai Super Kings,10,15,6,0,15.0,0,1,Very High
+1527691,1,Chennai Super Kings,11,16,6,0,16.0,0,1,Very High
+1527691,1,Chennai Super Kings,12,11,6,0,11.0,0,0,High
+1527691,1,Chennai Super Kings,13,11,6,0,11.0,0,0,High
+1527691,1,Chennai Super Kings,14,19,6,0,19.0,0,1,Very High
+1527691,1,Chennai Super Kings,15,8,6,0,8.0,0,0,Medium
+1527691,1,Chennai Super Kings,16,5,6,0,5.0,0,0,Low
+1527691,1,Chennai Super Kings,17,11,6,1,11.0,1,0,High
+1527691,1,Chennai Super Kings,18,13,6,0,13.0,0,0,High
+1527691,1,Chennai Super Kings,19,15,6,0,15.0,0,1,Very High
+1527691,2,Delhi Capitals,0,8,6,0,8.0,0,0,Medium
+1527691,2,Delhi Capitals,1,16,6,0,16.0,0,1,Very High
+1527691,2,Delhi Capitals,2,12,6,0,12.0,0,0,High
+1527691,2,Delhi Capitals,3,16,6,0,16.0,0,1,Very High
+1527691,2,Delhi Capitals,4,9,6,1,9.0,1,0,Medium
+1527691,2,Delhi Capitals,5,5,6,1,5.0,1,0,Low
+1527691,2,Delhi Capitals,6,7,6,1,7.0,1,0,Medium
+1527691,2,Delhi Capitals,7,3,6,1,3.0,1,0,Low
+1527691,2,Delhi Capitals,8,6,6,0,6.0,0,0,Medium
+1527691,2,Delhi Capitals,9,9,6,0,9.0,0,0,Medium
+1527691,2,Delhi Capitals,10,15,6,0,15.0,0,1,Very High
+1527691,2,Delhi Capitals,11,15,6,0,15.0,0,1,Very High
+1527691,2,Delhi Capitals,12,9,6,1,9.0,1,0,Medium
+1527691,2,Delhi Capitals,13,8,6,0,8.0,0,0,Medium
+1527691,2,Delhi Capitals,14,15,6,1,15.0,1,1,Very High
+1527691,2,Delhi Capitals,15,3,6,1,3.0,1,0,Low
+1527691,2,Delhi Capitals,16,15,6,0,15.0,0,1,Very High
+1527691,2,Delhi Capitals,17,10,6,0,10.0,0,0,High
+1527691,2,Delhi Capitals,18,4,6,1,4.0,1,0,Low
+1527691,2,Delhi Capitals,19,4,6,2,4.0,1,0,Low
+1527692,1,Lucknow Super Giants,0,4,6,0,4.0,0,0,Low
+1527692,1,Lucknow Super Giants,1,19,6,1,19.0,1,1,Very High
+1527692,1,Lucknow Super Giants,2,7,6,0,7.0,0,0,Medium
+1527692,1,Lucknow Super Giants,3,15,6,0,15.0,0,1,Very High
+1527692,1,Lucknow Super Giants,4,3,6,1,3.0,1,0,Low
+1527692,1,Lucknow Super Giants,5,12,6,0,12.0,0,0,High
+1527692,1,Lucknow Super Giants,6,9,6,1,9.0,1,0,Medium
+1527692,1,Lucknow Super Giants,7,5,6,0,5.0,0,0,Low
+1527692,1,Lucknow Super Giants,8,3,6,1,3.0,1,0,Low
+1527692,1,Lucknow Super Giants,9,3,6,0,3.0,0,0,Low
+1527692,1,Lucknow Super Giants,10,3,6,0,3.0,0,0,Low
+1527692,1,Lucknow Super Giants,11,4,6,0,4.0,0,0,Low
+1527692,1,Lucknow Super Giants,12,9,6,0,9.0,0,0,Medium
+1527692,1,Lucknow Super Giants,13,13,6,0,13.0,0,0,High
+1527692,1,Lucknow Super Giants,14,1,6,1,1.0,1,0,Low
+1527692,1,Lucknow Super Giants,15,7,6,0,7.0,0,0,Medium
+1527692,1,Lucknow Super Giants,16,3,6,1,3.0,1,0,Low
+1527692,1,Lucknow Super Giants,17,11,6,0,11.0,0,0,High
+1527692,1,Lucknow Super Giants,18,15,6,1,15.0,1,1,Very High
+1527692,1,Lucknow Super Giants,19,18,6,1,18.0,1,1,Very High
+1527692,2,Gujarat Titans,0,8,6,0,8.0,0,0,Medium
+1527692,2,Gujarat Titans,1,9,6,0,9.0,0,0,Medium
+1527692,2,Gujarat Titans,2,2,6,0,2.0,0,0,Low
+1527692,2,Gujarat Titans,3,6,6,0,6.0,0,0,Medium
+1527692,2,Gujarat Titans,4,20,6,0,20.0,0,1,Very High
+1527692,2,Gujarat Titans,5,7,6,1,7.0,1,0,Medium
+1527692,2,Gujarat Titans,6,12,6,0,12.0,0,0,High
+1527692,2,Gujarat Titans,7,5,6,0,5.0,0,0,Low
+1527692,2,Gujarat Titans,8,9,6,0,9.0,0,0,Medium
+1527692,2,Gujarat Titans,9,8,6,0,8.0,0,0,Medium
+1527692,2,Gujarat Titans,10,8,6,0,8.0,0,0,Medium
+1527692,2,Gujarat Titans,11,16,6,0,16.0,0,1,Very High
+1527692,2,Gujarat Titans,12,11,6,0,11.0,0,0,High
+1527692,2,Gujarat Titans,13,7,6,0,7.0,0,0,Medium
+1527692,2,Gujarat Titans,14,2,6,1,2.0,1,0,Low
+1527692,2,Gujarat Titans,15,6,6,1,6.0,1,0,Medium
+1527692,2,Gujarat Titans,16,9,6,0,9.0,0,0,Medium
+1527692,2,Gujarat Titans,17,14,6,0,14.0,0,0,High
+1527692,2,Gujarat Titans,18,6,4,0,9.0,0,0,Medium
+1527693,1,Royal Challengers Bengaluru,0,13,6,0,13.0,0,0,High
+1527693,1,Royal Challengers Bengaluru,1,9,6,0,9.0,0,0,Medium
+1527693,1,Royal Challengers Bengaluru,2,11,6,0,11.0,0,0,High
+1527693,1,Royal Challengers Bengaluru,3,10,6,0,10.0,0,0,High
+1527693,1,Royal Challengers Bengaluru,4,22,6,0,22.0,0,1,Very High
+1527693,1,Royal Challengers Bengaluru,5,6,6,0,6.0,0,0,Medium
+1527693,1,Royal Challengers Bengaluru,6,4,6,0,4.0,0,0,Low
+1527693,1,Royal Challengers Bengaluru,7,20,6,0,20.0,0,1,Very High
+1527693,1,Royal Challengers Bengaluru,8,10,6,0,10.0,0,0,High
+1527693,1,Royal Challengers Bengaluru,9,10,6,0,10.0,0,0,High
+1527693,1,Royal Challengers Bengaluru,10,9,6,1,9.0,1,0,Medium
+1527693,1,Royal Challengers Bengaluru,11,20,6,0,20.0,0,1,Very High
+1527693,1,Royal Challengers Bengaluru,12,22,6,0,22.0,0,1,Very High
+1527693,1,Royal Challengers Bengaluru,13,16,6,0,16.0,0,1,Very High
+1527693,1,Royal Challengers Bengaluru,14,4,6,1,4.0,1,0,Low
+1527693,1,Royal Challengers Bengaluru,15,7,6,1,7.0,1,0,Medium
+1527693,1,Royal Challengers Bengaluru,16,7,6,0,7.0,0,0,Medium
+1527693,1,Royal Challengers Bengaluru,17,16,6,0,16.0,0,1,Very High
+1527693,1,Royal Challengers Bengaluru,18,13,6,0,13.0,0,0,High
+1527693,1,Royal Challengers Bengaluru,19,10,6,1,10.0,1,0,High
+1527693,2,Mumbai Indians,0,10,6,0,10.0,0,0,High
+1527693,2,Mumbai Indians,1,11,6,0,11.0,0,0,High
+1527693,2,Mumbai Indians,2,18,6,0,18.0,0,1,Very High
+1527693,2,Mumbai Indians,3,9,6,0,9.0,0,0,Medium
+1527693,2,Mumbai Indians,4,8,6,0,8.0,0,0,Medium
+1527693,2,Mumbai Indians,5,6,6,1,6.0,1,0,Medium
+1527693,2,Mumbai Indians,6,10,6,0,10.0,0,0,High
+1527693,2,Mumbai Indians,7,8,6,2,8.0,1,0,Medium
+1527693,2,Mumbai Indians,8,5,6,0,5.0,0,0,Low
+1527693,2,Mumbai Indians,9,14,6,0,14.0,0,0,High
+1527693,2,Mumbai Indians,10,9,6,0,9.0,0,0,Medium
+1527693,2,Mumbai Indians,11,11,6,0,11.0,0,0,High
+1527693,2,Mumbai Indians,12,5,6,1,5.0,1,0,Low
+1527693,2,Mumbai Indians,13,14,6,0,14.0,0,0,High
+1527693,2,Mumbai Indians,14,9,6,1,9.0,1,0,Medium
+1527693,2,Mumbai Indians,15,10,6,1,10.0,1,0,High
+1527693,2,Mumbai Indians,16,9,6,0,9.0,0,0,Medium
+1527693,2,Mumbai Indians,17,21,6,0,21.0,0,1,Very High
+1527693,2,Mumbai Indians,18,9,6,0,9.0,0,0,Medium
+1527693,2,Mumbai Indians,19,26,6,0,26.0,0,1,Very High
+1529264,1,Sunrisers Hyderabad,0,2,6,1,2.0,1,0,Low
+1529264,1,Sunrisers Hyderabad,1,4,6,0,4.0,0,0,Low
+1529264,1,Sunrisers Hyderabad,2,10,6,0,10.0,0,0,High
+1529264,1,Sunrisers Hyderabad,3,12,6,0,12.0,0,0,High
+1529264,1,Sunrisers Hyderabad,4,12,6,0,12.0,0,0,High
+1529264,1,Sunrisers Hyderabad,5,11,6,0,11.0,0,0,High
+1529264,1,Sunrisers Hyderabad,6,5,6,1,5.0,1,0,Low
+1529264,1,Sunrisers Hyderabad,7,6,6,0,6.0,0,0,Medium
+1529264,1,Sunrisers Hyderabad,8,11,6,0,11.0,0,0,High
+1529264,1,Sunrisers Hyderabad,9,16,6,0,16.0,0,1,Very High
+1529264,1,Sunrisers Hyderabad,10,21,6,0,21.0,0,1,Very High
+1529264,1,Sunrisers Hyderabad,11,13,6,0,13.0,0,0,High
+1529264,1,Sunrisers Hyderabad,12,17,6,0,17.0,0,1,Very High
+1529264,1,Sunrisers Hyderabad,13,4,6,1,4.0,1,0,Low
+1529264,1,Sunrisers Hyderabad,14,9,6,0,9.0,0,0,Medium
+1529264,1,Sunrisers Hyderabad,15,9,6,1,9.0,1,0,Medium
+1529264,1,Sunrisers Hyderabad,16,7,6,0,7.0,0,0,Medium
+1529264,1,Sunrisers Hyderabad,17,24,6,0,24.0,0,1,Very High
+1529264,1,Sunrisers Hyderabad,18,8,6,1,8.0,1,0,Medium
+1529264,1,Sunrisers Hyderabad,19,14,6,1,14.0,1,0,High
+1529264,2,Rajasthan Royals,0,1,6,3,1.0,1,0,Low
+1529264,2,Rajasthan Royals,1,3,6,1,3.0,1,0,Low
+1529264,2,Rajasthan Royals,2,5,6,1,5.0,1,0,Low
+1529264,2,Rajasthan Royals,3,11,6,0,11.0,0,0,High
+1529264,2,Rajasthan Royals,4,12,6,0,12.0,0,0,High
+1529264,2,Rajasthan Royals,5,8,6,0,8.0,0,0,Medium
+1529264,2,Rajasthan Royals,6,11,6,0,11.0,0,0,High
+1529264,2,Rajasthan Royals,7,7,6,0,7.0,0,0,Medium
+1529264,2,Rajasthan Royals,8,4,6,0,4.0,0,0,Low
+1529264,2,Rajasthan Royals,9,8,6,0,8.0,0,0,Medium
+1529264,2,Rajasthan Royals,10,13,6,0,13.0,0,0,High
+1529264,2,Rajasthan Royals,11,14,6,0,14.0,0,0,High
+1529264,2,Rajasthan Royals,12,12,6,0,12.0,0,0,High
+1529264,2,Rajasthan Royals,13,11,6,0,11.0,0,0,High
+1529264,2,Rajasthan Royals,14,7,6,1,7.0,1,0,Medium
+1529264,2,Rajasthan Royals,15,10,6,1,10.0,1,0,High
+1529264,2,Rajasthan Royals,16,3,6,2,3.0,1,0,Low
+1529264,2,Rajasthan Royals,17,16,6,0,16.0,0,1,Very High
+1529264,2,Rajasthan Royals,18,3,6,1,3.0,1,0,Low
+1529265,1,Chennai Super Kings,0,14,6,0,14.0,0,0,High
+1529265,1,Chennai Super Kings,1,10,6,0,10.0,0,0,High
+1529265,1,Chennai Super Kings,2,7,6,1,7.0,1,0,Medium
+1529265,1,Chennai Super Kings,3,21,6,0,21.0,0,1,Very High
+1529265,1,Chennai Super Kings,4,8,6,0,8.0,0,0,Medium
+1529265,1,Chennai Super Kings,5,12,6,1,12.0,1,0,High
+1529265,1,Chennai Super Kings,6,9,6,0,9.0,0,0,Medium
+1529265,1,Chennai Super Kings,7,8,6,0,8.0,0,0,Medium
+1529265,1,Chennai Super Kings,8,5,6,0,5.0,0,0,Low
+1529265,1,Chennai Super Kings,9,8,6,0,8.0,0,0,Medium
+1529265,1,Chennai Super Kings,10,3,6,0,3.0,0,0,Low
+1529265,1,Chennai Super Kings,11,13,6,1,13.0,1,0,High
+1529265,1,Chennai Super Kings,12,3,6,0,3.0,0,0,Low
+1529265,1,Chennai Super Kings,13,15,6,0,15.0,0,1,Very High
+1529265,1,Chennai Super Kings,14,6,6,0,6.0,0,0,Medium
+1529265,1,Chennai Super Kings,15,20,6,0,20.0,0,1,Very High
+1529265,1,Chennai Super Kings,16,7,6,1,7.0,1,0,Medium
+1529265,1,Chennai Super Kings,17,6,6,1,6.0,1,0,Medium
+1529265,1,Chennai Super Kings,18,8,6,0,8.0,0,0,Medium
+1529265,1,Chennai Super Kings,19,8,6,0,8.0,0,0,Medium
+1529265,2,Kolkata Knight Riders,0,7,6,0,7.0,0,0,Medium
+1529265,2,Kolkata Knight Riders,1,7,6,1,7.0,1,0,Medium
+1529265,2,Kolkata Knight Riders,2,8,6,0,8.0,0,0,Medium
+1529265,2,Kolkata Knight Riders,3,6,6,0,6.0,0,0,Medium
+1529265,2,Kolkata Knight Riders,4,3,6,1,3.0,1,0,Low
+1529265,2,Kolkata Knight Riders,5,5,6,0,5.0,0,0,Low
+1529265,2,Kolkata Knight Riders,6,10,6,0,10.0,0,0,High
+1529265,2,Kolkata Knight Riders,7,12,6,0,12.0,0,0,High
+1529265,2,Kolkata Knight Riders,8,19,6,0,19.0,0,1,Very High
+1529265,2,Kolkata Knight Riders,9,4,6,1,4.0,1,0,Low
+1529265,2,Kolkata Knight Riders,10,4,6,2,4.0,1,0,Low
+1529265,2,Kolkata Knight Riders,11,5,6,0,5.0,0,0,Low
+1529265,2,Kolkata Knight Riders,12,1,6,1,1.0,1,0,Low
+1529265,2,Kolkata Knight Riders,13,9,6,0,9.0,0,0,Medium
+1529265,2,Kolkata Knight Riders,14,7,6,0,7.0,0,0,Medium
+1529265,2,Kolkata Knight Riders,15,13,6,0,13.0,0,0,High
+1529265,2,Kolkata Knight Riders,16,11,6,0,11.0,0,0,High
+1529265,2,Kolkata Knight Riders,17,7,6,0,7.0,0,0,Medium
+1529265,2,Kolkata Knight Riders,18,10,6,0,10.0,0,0,High
+1529265,2,Kolkata Knight Riders,19,12,6,1,12.0,1,0,High
+1529266,1,Lucknow Super Giants,0,9,6,0,9.0,0,0,Medium
+1529266,1,Lucknow Super Giants,1,5,6,0,5.0,0,0,Low
+1529266,1,Lucknow Super Giants,2,8,6,0,8.0,0,0,Medium
+1529266,1,Lucknow Super Giants,3,10,6,1,10.0,1,0,High
+1529266,1,Lucknow Super Giants,4,1,6,0,1.0,0,0,Low
+1529266,1,Lucknow Super Giants,5,2,6,0,2.0,0,0,Low
+1529266,1,Lucknow Super Giants,6,5,6,1,5.0,1,0,Low
+1529266,1,Lucknow Super Giants,7,15,6,0,15.0,0,1,Very High
+1529266,1,Lucknow Super Giants,8,8,6,0,8.0,0,0,Medium
+1529266,1,Lucknow Super Giants,9,8,6,1,8.0,1,0,Medium
+1529266,1,Lucknow Super Giants,10,11,6,0,11.0,0,0,High
+1529266,1,Lucknow Super Giants,11,8,6,1,8.0,1,0,Medium
+1529266,1,Lucknow Super Giants,12,5,6,0,5.0,0,0,Low
+1529266,1,Lucknow Super Giants,13,7,6,0,7.0,0,0,Medium
+1529266,1,Lucknow Super Giants,14,10,6,0,10.0,0,0,High
+1529266,1,Lucknow Super Giants,15,6,6,1,6.0,1,0,Medium
+1529266,1,Lucknow Super Giants,16,6,6,1,6.0,1,0,Medium
+1529266,1,Lucknow Super Giants,17,11,6,0,11.0,0,0,High
+1529266,1,Lucknow Super Giants,18,4,6,2,4.0,1,0,Low
+1529266,1,Lucknow Super Giants,19,7,6,2,7.0,1,0,Medium
+1529266,2,Royal Challengers Bengaluru,0,6,6,0,6.0,0,0,Medium
+1529266,2,Royal Challengers Bengaluru,1,7,6,1,7.0,1,0,Medium
+1529266,2,Royal Challengers Bengaluru,2,15,6,0,15.0,0,1,Very High
+1529266,2,Royal Challengers Bengaluru,3,17,6,0,17.0,0,1,Very High
+1529266,2,Royal Challengers Bengaluru,4,10,6,0,10.0,0,0,High
+1529266,2,Royal Challengers Bengaluru,5,5,6,0,5.0,0,0,Low
+1529266,2,Royal Challengers Bengaluru,6,5,6,0,5.0,0,0,Low
+1529266,2,Royal Challengers Bengaluru,7,3,6,1,3.0,1,0,Low
+1529266,2,Royal Challengers Bengaluru,8,13,6,0,13.0,0,0,High
+1529266,2,Royal Challengers Bengaluru,9,5,6,0,5.0,0,0,Low
+1529266,2,Royal Challengers Bengaluru,10,6,6,1,6.0,1,0,Medium
+1529266,2,Royal Challengers Bengaluru,11,23,6,0,23.0,0,1,Very High
+1529266,2,Royal Challengers Bengaluru,12,8,6,2,8.0,1,0,Medium
+1529266,2,Royal Challengers Bengaluru,13,13,6,0,13.0,0,0,High
+1529266,2,Royal Challengers Bengaluru,14,9,6,0,9.0,0,0,Medium
+1529266,2,Royal Challengers Bengaluru,15,4,1,0,24.0,0,0,Low
+1529267,1,Mumbai Indians,0,1,6,0,1.0,0,0,Low
+1529267,1,Mumbai Indians,1,11,6,0,11.0,0,0,High
+1529267,1,Mumbai Indians,2,3,6,2,3.0,1,0,Low
+1529267,1,Mumbai Indians,3,10,6,0,10.0,0,0,High
+1529267,1,Mumbai Indians,4,8,6,0,8.0,0,0,Medium
+1529267,1,Mumbai Indians,5,15,6,0,15.0,0,1,Very High
+1529267,1,Mumbai Indians,6,19,6,0,19.0,0,1,Very High
+1529267,1,Mumbai Indians,7,7,6,0,7.0,0,0,Medium
+1529267,1,Mumbai Indians,8,12,6,0,12.0,0,0,High
+1529267,1,Mumbai Indians,9,11,6,0,11.0,0,0,High
+1529267,1,Mumbai Indians,10,13,6,0,13.0,0,0,High
+1529267,1,Mumbai Indians,11,15,6,0,15.0,0,1,Very High
+1529267,1,Mumbai Indians,12,7,6,0,7.0,0,0,Medium
+1529267,1,Mumbai Indians,13,4,6,1,4.0,1,0,Low
+1529267,1,Mumbai Indians,14,9,6,0,9.0,0,0,Medium
+1529267,1,Mumbai Indians,15,15,6,0,15.0,0,1,Very High
+1529267,1,Mumbai Indians,16,9,6,0,9.0,0,0,Medium
+1529267,1,Mumbai Indians,17,8,6,1,8.0,1,0,Medium
+1529267,1,Mumbai Indians,18,9,6,1,9.0,1,0,Medium
+1529267,1,Mumbai Indians,19,9,6,1,9.0,1,0,Medium
+1529267,2,Punjab Kings,0,21,6,0,21.0,0,1,Very High
+1529267,2,Punjab Kings,1,5,6,0,5.0,0,0,Low
+1529267,2,Punjab Kings,2,1,6,1,1.0,1,0,Low
+1529267,2,Punjab Kings,3,12,6,0,12.0,0,0,High
+1529267,2,Punjab Kings,4,13,6,1,13.0,1,0,High
+1529267,2,Punjab Kings,5,9,6,0,9.0,0,0,Medium
+1529267,2,Punjab Kings,6,8,6,0,8.0,0,0,Medium
+1529267,2,Punjab Kings,7,14,6,0,14.0,0,0,High
+1529267,2,Punjab Kings,8,5,6,0,5.0,0,0,Low
+1529267,2,Punjab Kings,9,12,6,0,12.0,0,0,High
+1529267,2,Punjab Kings,10,18,6,0,18.0,0,1,Very High
+1529267,2,Punjab Kings,11,12,6,0,12.0,0,0,High
+1529267,2,Punjab Kings,12,16,6,0,16.0,0,1,Very High
+1529267,2,Punjab Kings,13,15,6,0,15.0,0,1,Very High
+1529267,2,Punjab Kings,14,11,6,0,11.0,0,0,High
+1529267,2,Punjab Kings,15,16,6,1,16.0,1,1,Very High
+1529267,2,Punjab Kings,16,10,3,0,20.0,0,0,High
+1529268,1,Kolkata Knight Riders,0,9,6,1,9.0,1,0,Medium
+1529268,1,Kolkata Knight Riders,1,12,6,1,12.0,1,0,High
+1529268,1,Kolkata Knight Riders,2,3,6,0,3.0,0,0,Low
+1529268,1,Kolkata Knight Riders,3,8,6,1,8.0,1,0,Medium
+1529268,1,Kolkata Knight Riders,4,4,6,0,4.0,0,0,Low
+1529268,1,Kolkata Knight Riders,5,1,6,0,1.0,0,0,Low
+1529268,1,Kolkata Knight Riders,6,11,6,0,11.0,0,0,High
+1529268,1,Kolkata Knight Riders,7,11,6,0,11.0,0,0,High
+1529268,1,Kolkata Knight Riders,8,10,6,0,10.0,0,0,High
+1529268,1,Kolkata Knight Riders,9,11,6,0,11.0,0,0,High
+1529268,1,Kolkata Knight Riders,10,7,6,1,7.0,1,0,Medium
+1529268,1,Kolkata Knight Riders,11,16,6,0,16.0,0,1,Very High
+1529268,1,Kolkata Knight Riders,12,19,6,0,19.0,0,1,Very High
+1529268,1,Kolkata Knight Riders,13,17,6,0,17.0,0,1,Very High
+1529268,1,Kolkata Knight Riders,14,9,6,1,9.0,1,0,Medium
+1529268,1,Kolkata Knight Riders,15,9,6,1,9.0,1,0,Medium
+1529268,1,Kolkata Knight Riders,16,8,6,1,8.0,1,0,Medium
+1529268,1,Kolkata Knight Riders,17,7,6,1,7.0,1,0,Medium
+1529268,1,Kolkata Knight Riders,18,2,6,1,2.0,1,0,Low
+1529268,1,Kolkata Knight Riders,19,6,6,1,6.0,1,0,Medium
+1529268,2,Gujarat Titans,0,9,6,0,9.0,0,0,Medium
+1529268,2,Gujarat Titans,1,11,6,0,11.0,0,0,High
+1529268,2,Gujarat Titans,2,20,6,0,20.0,0,1,Very High
+1529268,2,Gujarat Titans,3,5,6,0,5.0,0,0,Low
+1529268,2,Gujarat Titans,4,12,6,0,12.0,0,0,High
+1529268,2,Gujarat Titans,5,14,6,1,14.0,1,0,High
+1529268,2,Gujarat Titans,6,12,6,0,12.0,0,0,High
+1529268,2,Gujarat Titans,7,10,6,0,10.0,0,0,High
+1529268,2,Gujarat Titans,8,2,6,0,2.0,0,0,Low
+1529268,2,Gujarat Titans,9,4,6,1,4.0,1,0,Low
+1529268,2,Gujarat Titans,10,5,6,0,5.0,0,0,Low
+1529268,2,Gujarat Titans,11,15,6,0,15.0,0,1,Very High
+1529268,2,Gujarat Titans,12,4,6,0,4.0,0,0,Low
+1529268,2,Gujarat Titans,13,16,6,0,16.0,0,1,Very High
+1529268,2,Gujarat Titans,14,5,6,1,5.0,1,0,Low
+1529268,2,Gujarat Titans,15,5,6,0,5.0,0,0,Low
+1529268,2,Gujarat Titans,16,9,6,1,9.0,1,0,Medium
+1529268,2,Gujarat Titans,17,12,6,0,12.0,0,0,High
+1529268,2,Gujarat Titans,18,6,6,0,6.0,0,0,Medium
+1529268,2,Gujarat Titans,19,5,4,1,7.5,1,0,Low
+1529269,1,Royal Challengers Bengaluru,0,13,6,0,13.0,0,0,High
+1529269,1,Royal Challengers Bengaluru,1,8,6,0,8.0,0,0,Medium
+1529269,1,Royal Challengers Bengaluru,2,6,6,0,6.0,0,0,Medium
+1529269,1,Royal Challengers Bengaluru,3,7,6,0,7.0,0,0,Medium
+1529269,1,Royal Challengers Bengaluru,4,18,6,0,18.0,0,1,Very High
+1529269,1,Royal Challengers Bengaluru,5,7,6,1,7.0,1,0,Medium
+1529269,1,Royal Challengers Bengaluru,6,6,6,0,6.0,0,0,Medium
+1529269,1,Royal Challengers Bengaluru,7,14,6,0,14.0,0,0,High
+1529269,1,Royal Challengers Bengaluru,8,11,6,0,11.0,0,0,High
+1529269,1,Royal Challengers Bengaluru,9,9,6,1,9.0,1,0,Medium
+1529269,1,Royal Challengers Bengaluru,10,11,6,1,11.0,1,0,High
+1529269,1,Royal Challengers Bengaluru,11,12,6,0,12.0,0,0,High
+1529269,1,Royal Challengers Bengaluru,12,10,6,1,10.0,1,0,High
+1529269,1,Royal Challengers Bengaluru,13,7,6,0,7.0,0,0,Medium
+1529269,1,Royal Challengers Bengaluru,14,7,6,0,7.0,0,0,Medium
+1529269,1,Royal Challengers Bengaluru,15,2,6,1,2.0,1,0,Low
+1529269,1,Royal Challengers Bengaluru,16,5,6,1,5.0,1,0,Low
+1529269,1,Royal Challengers Bengaluru,17,14,6,0,14.0,0,0,High
+1529269,1,Royal Challengers Bengaluru,18,2,6,0,2.0,0,0,Low
+1529269,1,Royal Challengers Bengaluru,19,6,6,2,6.0,1,0,Medium
+1529269,2,Delhi Capitals,0,2,6,1,2.0,1,0,Low
+1529269,2,Delhi Capitals,1,13,6,0,13.0,0,0,High
+1529269,2,Delhi Capitals,2,7,6,2,7.0,1,0,Medium
+1529269,2,Delhi Capitals,3,9,6,0,9.0,0,0,Medium
+1529269,2,Delhi Capitals,4,14,6,0,14.0,0,0,High
+1529269,2,Delhi Capitals,5,5,6,0,5.0,0,0,Low
+1529269,2,Delhi Capitals,6,6,6,0,6.0,0,0,Medium
+1529269,2,Delhi Capitals,7,14,6,0,14.0,0,0,High
+1529269,2,Delhi Capitals,8,6,6,0,6.0,0,0,Medium
+1529269,2,Delhi Capitals,9,11,6,0,11.0,0,0,High
+1529269,2,Delhi Capitals,10,7,6,1,7.0,1,0,Medium
+1529269,2,Delhi Capitals,11,7,6,0,7.0,0,0,Medium
+1529269,2,Delhi Capitals,12,16,6,0,16.0,0,1,Very High
+1529269,2,Delhi Capitals,13,8,6,0,8.0,0,0,Medium
+1529269,2,Delhi Capitals,14,5,6,0,5.0,0,0,Low
+1529269,2,Delhi Capitals,15,5,6,1,5.0,1,0,Low
+1529269,2,Delhi Capitals,16,4,6,0,4.0,0,0,Low
+1529269,2,Delhi Capitals,17,12,6,0,12.0,0,0,High
+1529269,2,Delhi Capitals,18,10,6,0,10.0,0,0,High
+1529269,2,Delhi Capitals,19,18,5,0,21.6,0,1,Very High
+1529270,1,Sunrisers Hyderabad,0,4,6,0,4.0,0,0,Low
+1529270,1,Sunrisers Hyderabad,1,10,6,0,10.0,0,0,High
+1529270,1,Sunrisers Hyderabad,2,9,6,0,9.0,0,0,Medium
+1529270,1,Sunrisers Hyderabad,3,15,6,0,15.0,0,1,Very High
+1529270,1,Sunrisers Hyderabad,4,25,6,0,25.0,0,1,Very High
+1529270,1,Sunrisers Hyderabad,5,12,6,2,12.0,1,0,High
+1529270,1,Sunrisers Hyderabad,6,9,6,0,9.0,0,0,Medium
+1529270,1,Sunrisers Hyderabad,7,9,6,1,9.0,1,0,Medium
+1529270,1,Sunrisers Hyderabad,8,7,6,0,7.0,0,0,Medium
+1529270,1,Sunrisers Hyderabad,9,12,6,0,12.0,0,0,High
+1529270,1,Sunrisers Hyderabad,10,6,6,1,6.0,1,0,Medium
+1529270,1,Sunrisers Hyderabad,11,13,6,0,13.0,0,0,High
+1529270,1,Sunrisers Hyderabad,12,8,6,0,8.0,0,0,Medium
+1529270,1,Sunrisers Hyderabad,13,9,6,1,9.0,1,0,Medium
+1529270,1,Sunrisers Hyderabad,14,6,6,0,6.0,0,0,Medium
+1529270,1,Sunrisers Hyderabad,15,9,6,0,9.0,0,0,Medium
+1529270,1,Sunrisers Hyderabad,16,14,6,0,14.0,0,0,High
+1529270,1,Sunrisers Hyderabad,17,2,6,1,2.0,1,0,Low
+1529270,1,Sunrisers Hyderabad,18,8,6,1,8.0,1,0,Medium
+1529270,1,Sunrisers Hyderabad,19,7,6,2,7.0,1,0,Medium
+1529270,2,Chennai Super Kings,0,15,6,0,15.0,0,1,Very High
+1529270,2,Chennai Super Kings,1,8,6,1,8.0,1,0,Medium
+1529270,2,Chennai Super Kings,2,23,6,0,23.0,0,1,Very High
+1529270,2,Chennai Super Kings,3,13,6,0,13.0,0,0,High
+1529270,2,Chennai Super Kings,4,6,6,1,6.0,1,0,Medium
+1529270,2,Chennai Super Kings,5,10,6,1,10.0,1,0,High
+1529270,2,Chennai Super Kings,6,7,6,0,7.0,0,0,Medium
+1529270,2,Chennai Super Kings,7,13,6,0,13.0,0,0,High
+1529270,2,Chennai Super Kings,8,8,6,0,8.0,0,0,Medium
+1529270,2,Chennai Super Kings,9,7,6,0,7.0,0,0,Medium
+1529270,2,Chennai Super Kings,10,1,6,1,1.0,1,0,Low
+1529270,2,Chennai Super Kings,11,3,6,1,3.0,1,0,Low
+1529270,2,Chennai Super Kings,12,5,6,0,5.0,0,0,Low
+1529270,2,Chennai Super Kings,13,15,6,0,15.0,0,1,Very High
+1529270,2,Chennai Super Kings,14,6,6,0,6.0,0,0,Medium
+1529270,2,Chennai Super Kings,15,8,6,1,8.0,1,0,Medium
+1529270,2,Chennai Super Kings,16,6,6,1,6.0,1,0,Medium
+1529270,2,Chennai Super Kings,17,10,6,0,10.0,0,0,High
+1529270,2,Chennai Super Kings,18,12,6,0,12.0,0,0,High
+1529270,2,Chennai Super Kings,19,7,6,1,7.0,1,0,Medium
+1529271,1,Rajasthan Royals,0,6,6,0,6.0,0,0,Medium
+1529271,1,Rajasthan Royals,1,9,6,0,9.0,0,0,Medium
+1529271,1,Rajasthan Royals,2,5,6,0,5.0,0,0,Low
+1529271,1,Rajasthan Royals,3,15,6,0,15.0,0,1,Very High
+1529271,1,Rajasthan Royals,4,6,6,0,6.0,0,0,Medium
+1529271,1,Rajasthan Royals,5,21,6,0,21.0,0,1,Very High
+1529271,1,Rajasthan Royals,6,8,6,0,8.0,0,0,Medium
+1529271,1,Rajasthan Royals,7,8,6,0,8.0,0,0,Medium
+1529271,1,Rajasthan Royals,8,2,6,1,2.0,1,0,Low
+1529271,1,Rajasthan Royals,9,14,6,0,14.0,0,0,High
+1529271,1,Rajasthan Royals,10,3,6,1,3.0,1,0,Low
+1529271,1,Rajasthan Royals,11,6,6,1,6.0,1,0,Medium
+1529271,1,Rajasthan Royals,12,5,6,0,5.0,0,0,Low
+1529271,1,Rajasthan Royals,13,4,6,0,4.0,0,0,Low
+1529271,1,Rajasthan Royals,14,5,6,1,5.0,1,0,Low
+1529271,1,Rajasthan Royals,15,6,6,1,6.0,1,0,Medium
+1529271,1,Rajasthan Royals,16,8,6,0,8.0,0,0,Medium
+1529271,1,Rajasthan Royals,17,11,6,0,11.0,0,0,High
+1529271,1,Rajasthan Royals,18,2,6,3,2.0,1,0,Low
+1529271,1,Rajasthan Royals,19,9,6,1,9.0,1,0,Medium
+1529271,2,Kolkata Knight Riders,0,5,6,1,5.0,1,0,Low
+1529271,2,Kolkata Knight Riders,1,10,6,1,10.0,1,0,High
+1529271,2,Kolkata Knight Riders,2,6,6,0,6.0,0,0,Medium
+1529271,2,Kolkata Knight Riders,3,10,6,0,10.0,0,0,High
+1529271,2,Kolkata Knight Riders,4,8,6,1,8.0,1,0,Medium
+1529271,2,Kolkata Knight Riders,5,12,6,0,12.0,0,0,High
+1529271,2,Kolkata Knight Riders,6,1,6,1,1.0,1,0,Low
+1529271,2,Kolkata Knight Riders,7,7,6,0,7.0,0,0,Medium
+1529271,2,Kolkata Knight Riders,8,4,6,0,4.0,0,0,Low
+1529271,2,Kolkata Knight Riders,9,7,6,0,7.0,0,0,Medium
+1529271,2,Kolkata Knight Riders,10,3,6,1,3.0,1,0,Low
+1529271,2,Kolkata Knight Riders,11,3,6,0,3.0,0,0,Low
+1529271,2,Kolkata Knight Riders,12,8,6,0,8.0,0,0,Medium
+1529271,2,Kolkata Knight Riders,13,3,6,1,3.0,1,0,Low
+1529271,2,Kolkata Knight Riders,14,10,6,0,10.0,0,0,High
+1529271,2,Kolkata Knight Riders,15,19,6,0,19.0,0,1,Very High
+1529271,2,Kolkata Knight Riders,16,12,6,0,12.0,0,0,High
+1529271,2,Kolkata Knight Riders,17,7,6,0,7.0,0,0,Medium
+1529271,2,Kolkata Knight Riders,18,12,6,0,12.0,0,0,High
+1529271,2,Kolkata Knight Riders,19,14,4,0,21.0,0,0,High
+1529272,1,Punjab Kings,0,7,6,1,7.0,1,0,Medium
+1529272,1,Punjab Kings,1,8,6,0,8.0,0,0,Medium
+1529272,1,Punjab Kings,2,11,6,0,11.0,0,0,High
+1529272,1,Punjab Kings,3,13,6,0,13.0,0,0,High
+1529272,1,Punjab Kings,4,4,6,0,4.0,0,0,Low
+1529272,1,Punjab Kings,5,20,6,0,20.0,0,1,Very High
+1529272,1,Punjab Kings,6,14,6,0,14.0,0,0,High
+1529272,1,Punjab Kings,7,14,6,0,14.0,0,0,High
+1529272,1,Punjab Kings,8,10,6,0,10.0,0,0,High
+1529272,1,Punjab Kings,9,9,6,0,9.0,0,0,Medium
+1529272,1,Punjab Kings,10,19,6,0,19.0,0,1,Very High
+1529272,1,Punjab Kings,11,18,6,0,18.0,0,1,Very High
+1529272,1,Punjab Kings,12,32,6,0,32.0,0,1,Very High
+1529272,1,Punjab Kings,13,7,6,1,7.0,1,0,Medium
+1529272,1,Punjab Kings,14,7,6,1,7.0,1,0,Medium
+1529272,1,Punjab Kings,15,3,6,1,3.0,1,0,Low
+1529272,1,Punjab Kings,16,18,6,1,18.0,1,1,Very High
+1529272,1,Punjab Kings,17,15,6,0,15.0,0,1,Very High
+1529272,1,Punjab Kings,18,19,6,0,19.0,0,1,Very High
+1529272,1,Punjab Kings,19,5,6,2,5.0,1,0,Low
+1529272,2,Lucknow Super Giants,0,2,6,0,2.0,0,0,Low
+1529272,2,Lucknow Super Giants,1,10,6,0,10.0,0,0,High
+1529272,2,Lucknow Super Giants,2,17,6,0,17.0,0,1,Very High
+1529272,2,Lucknow Super Giants,3,15,6,0,15.0,0,1,Very High
+1529272,2,Lucknow Super Giants,4,11,6,0,11.0,0,0,High
+1529272,2,Lucknow Super Giants,5,6,6,1,6.0,1,0,Medium
+1529272,2,Lucknow Super Giants,6,15,6,0,15.0,0,1,Very High
+1529272,2,Lucknow Super Giants,7,13,6,0,13.0,0,0,High
+1529272,2,Lucknow Super Giants,8,8,6,0,8.0,0,0,Medium
+1529272,2,Lucknow Super Giants,9,5,6,0,5.0,0,0,Low
+1529272,2,Lucknow Super Giants,10,7,6,0,7.0,0,0,Medium
+1529272,2,Lucknow Super Giants,11,14,6,1,14.0,1,0,High
+1529272,2,Lucknow Super Giants,12,10,6,1,10.0,1,0,High
+1529272,2,Lucknow Super Giants,13,5,6,0,5.0,0,0,Low
+1529272,2,Lucknow Super Giants,14,4,6,1,4.0,1,0,Low
+1529272,2,Lucknow Super Giants,15,16,6,0,16.0,0,1,Very High
+1529272,2,Lucknow Super Giants,16,9,6,0,9.0,0,0,Medium
+1529272,2,Lucknow Super Giants,17,12,6,0,12.0,0,0,High
+1529272,2,Lucknow Super Giants,18,13,6,0,13.0,0,0,High
+1529272,2,Lucknow Super Giants,19,8,6,1,8.0,1,0,Medium
+1529273,1,Mumbai Indians,0,2,6,0,2.0,0,0,Low
+1529273,1,Mumbai Indians,1,9,6,1,9.0,1,0,Medium
+1529273,1,Mumbai Indians,2,10,6,0,10.0,0,0,High
+1529273,1,Mumbai Indians,3,6,6,1,6.0,1,0,Medium
+1529273,1,Mumbai Indians,4,5,6,0,5.0,0,0,Low
+1529273,1,Mumbai Indians,5,14,6,1,14.0,1,0,High
+1529273,1,Mumbai Indians,6,8,6,0,8.0,0,0,Medium
+1529273,1,Mumbai Indians,7,4,6,0,4.0,0,0,Low
+1529273,1,Mumbai Indians,8,10,6,0,10.0,0,0,High
+1529273,1,Mumbai Indians,9,7,6,0,7.0,0,0,Medium
+1529273,1,Mumbai Indians,10,13,6,0,13.0,0,0,High
+1529273,1,Mumbai Indians,11,7,6,0,7.0,0,0,Medium
+1529273,1,Mumbai Indians,12,3,6,1,3.0,1,0,Low
+1529273,1,Mumbai Indians,13,5,6,0,5.0,0,0,Low
+1529273,1,Mumbai Indians,14,19,6,0,19.0,0,1,Very High
+1529273,1,Mumbai Indians,15,4,6,0,4.0,0,0,Low
+1529273,1,Mumbai Indians,16,15,6,0,15.0,0,1,Very High
+1529273,1,Mumbai Indians,17,26,6,0,26.0,0,1,Very High
+1529273,1,Mumbai Indians,18,10,6,1,10.0,1,0,High
+1529273,1,Mumbai Indians,19,22,6,0,22.0,0,1,Very High
+1529273,2,Gujarat Titans,0,1,6,1,1.0,1,0,Low
+1529273,2,Gujarat Titans,1,18,6,1,18.0,1,1,Very High
+1529273,2,Gujarat Titans,2,10,6,0,10.0,0,0,High
+1529273,2,Gujarat Titans,3,6,6,0,6.0,0,0,Medium
+1529273,2,Gujarat Titans,4,6,6,1,6.0,1,0,Medium
+1529273,2,Gujarat Titans,5,4,6,0,4.0,0,0,Low
+1529273,2,Gujarat Titans,6,8,6,0,8.0,0,0,Medium
+1529273,2,Gujarat Titans,7,3,6,2,3.0,1,0,Low
+1529273,2,Gujarat Titans,8,8,6,0,8.0,0,0,Medium
+1529273,2,Gujarat Titans,9,7,6,0,7.0,0,0,Medium
+1529273,2,Gujarat Titans,10,8,6,1,8.0,1,0,Medium
+1529273,2,Gujarat Titans,11,6,6,0,6.0,0,0,Medium
+1529273,2,Gujarat Titans,12,1,6,2,1.0,1,0,Low
+1529273,2,Gujarat Titans,13,4,6,0,4.0,0,0,Low
+1529273,2,Gujarat Titans,14,9,6,0,9.0,0,0,Medium
+1529273,2,Gujarat Titans,15,1,5,2,1.2,1,0,Low
+1529274,1,Sunrisers Hyderabad,0,9,6,0,9.0,0,0,Medium
+1529274,1,Sunrisers Hyderabad,1,6,6,0,6.0,0,0,Medium
+1529274,1,Sunrisers Hyderabad,2,11,6,0,11.0,0,0,High
+1529274,1,Sunrisers Hyderabad,3,10,6,0,10.0,0,0,High
+1529274,1,Sunrisers Hyderabad,4,20,6,0,20.0,0,1,Very High
+1529274,1,Sunrisers Hyderabad,5,11,6,0,11.0,0,0,High
+1529274,1,Sunrisers Hyderabad,6,7,6,0,7.0,0,0,Medium
+1529274,1,Sunrisers Hyderabad,7,8,6,0,8.0,0,0,Medium
+1529274,1,Sunrisers Hyderabad,8,16,6,1,16.0,1,1,Very High
+1529274,1,Sunrisers Hyderabad,9,6,6,0,6.0,0,0,Medium
+1529274,1,Sunrisers Hyderabad,10,22,6,0,22.0,0,1,Very High
+1529274,1,Sunrisers Hyderabad,11,12,6,0,12.0,0,0,High
+1529274,1,Sunrisers Hyderabad,12,13,6,0,13.0,0,0,High
+1529274,1,Sunrisers Hyderabad,13,9,6,0,9.0,0,0,Medium
+1529274,1,Sunrisers Hyderabad,14,23,6,1,23.0,1,1,Very High
+1529274,1,Sunrisers Hyderabad,15,6,6,0,6.0,0,0,Medium
+1529274,1,Sunrisers Hyderabad,16,13,6,0,13.0,0,0,High
+1529274,1,Sunrisers Hyderabad,17,14,6,0,14.0,0,0,High
+1529274,1,Sunrisers Hyderabad,18,6,6,0,6.0,0,0,Medium
+1529274,1,Sunrisers Hyderabad,19,20,6,0,20.0,0,1,Very High
+1529274,2,Delhi Capitals,0,8,6,0,8.0,0,0,Medium
+1529274,2,Delhi Capitals,1,13,6,0,13.0,0,0,High
+1529274,2,Delhi Capitals,2,8,6,1,8.0,1,0,Medium
+1529274,2,Delhi Capitals,3,16,6,0,16.0,0,1,Very High
+1529274,2,Delhi Capitals,4,9,6,0,9.0,0,0,Medium
+1529274,2,Delhi Capitals,5,5,6,0,5.0,0,0,Low
+1529274,2,Delhi Capitals,6,7,6,0,7.0,0,0,Medium
+1529274,2,Delhi Capitals,7,19,6,0,19.0,0,1,Very High
+1529274,2,Delhi Capitals,8,12,6,0,12.0,0,0,High
+1529274,2,Delhi Capitals,9,9,6,1,9.0,1,0,Medium
+1529274,2,Delhi Capitals,10,2,6,2,2.0,1,0,Low
+1529274,2,Delhi Capitals,11,9,6,0,9.0,0,0,Medium
+1529274,2,Delhi Capitals,12,12,6,0,12.0,0,0,High
+1529274,2,Delhi Capitals,13,16,6,0,16.0,0,1,Very High
+1529274,2,Delhi Capitals,14,9,6,0,9.0,0,0,Medium
+1529274,2,Delhi Capitals,15,12,6,1,12.0,1,0,High
+1529274,2,Delhi Capitals,16,10,6,0,10.0,0,0,High
+1529274,2,Delhi Capitals,17,8,6,1,8.0,1,0,Medium
+1529274,2,Delhi Capitals,18,6,6,0,6.0,0,0,Medium
+1529274,2,Delhi Capitals,19,3,6,3,3.0,1,0,Low
+1529275,1,Rajasthan Royals,0,7,6,0,7.0,0,0,Medium
+1529275,1,Rajasthan Royals,1,13,6,0,13.0,0,0,High
+1529275,1,Rajasthan Royals,2,12,6,2,12.0,1,0,High
+1529275,1,Rajasthan Royals,3,0,6,1,0.0,1,0,Low
+1529275,1,Rajasthan Royals,4,5,6,0,5.0,0,0,Low
+1529275,1,Rajasthan Royals,5,7,6,0,7.0,0,0,Medium
+1529275,1,Rajasthan Royals,6,10,6,0,10.0,0,0,High
+1529275,1,Rajasthan Royals,7,6,6,0,6.0,0,0,Medium
+1529275,1,Rajasthan Royals,8,2,6,1,2.0,1,0,Low
+1529275,1,Rajasthan Royals,9,14,6,0,14.0,0,0,High
+1529275,1,Rajasthan Royals,10,4,6,1,4.0,1,0,Low
+1529275,1,Rajasthan Royals,11,3,6,0,3.0,0,0,Low
+1529275,1,Rajasthan Royals,12,6,6,0,6.0,0,0,Medium
+1529275,1,Rajasthan Royals,13,6,6,0,6.0,0,0,Medium
+1529275,1,Rajasthan Royals,14,12,6,0,12.0,0,0,High
+1529275,1,Rajasthan Royals,15,3,6,1,3.0,1,0,Low
+1529275,1,Rajasthan Royals,16,6,6,0,6.0,0,0,Medium
+1529275,1,Rajasthan Royals,17,11,6,0,11.0,0,0,High
+1529275,1,Rajasthan Royals,18,12,6,0,12.0,0,0,High
+1529275,1,Rajasthan Royals,19,20,6,0,20.0,0,1,Very High
+1529275,2,Lucknow Super Giants,0,9,6,1,9.0,1,0,Medium
+1529275,2,Lucknow Super Giants,1,1,6,1,1.0,1,0,Low
+1529275,2,Lucknow Super Giants,2,6,6,1,6.0,1,0,Medium
+1529275,2,Lucknow Super Giants,3,6,6,0,6.0,0,0,Medium
+1529275,2,Lucknow Super Giants,4,0,6,0,0.0,0,0,Low
+1529275,2,Lucknow Super Giants,5,9,6,0,9.0,0,0,Medium
+1529275,2,Lucknow Super Giants,6,9,6,0,9.0,0,0,Medium
+1529275,2,Lucknow Super Giants,7,4,6,0,4.0,0,0,Low
+1529275,2,Lucknow Super Giants,8,6,6,0,6.0,0,0,Medium
+1529275,2,Lucknow Super Giants,9,5,6,1,5.0,1,0,Low
+1529275,2,Lucknow Super Giants,10,7,6,0,7.0,0,0,Medium
+1529275,2,Lucknow Super Giants,11,12,6,0,12.0,0,0,High
+1529275,2,Lucknow Super Giants,12,6,6,0,6.0,0,0,Medium
+1529275,2,Lucknow Super Giants,13,9,6,0,9.0,0,0,Medium
+1529275,2,Lucknow Super Giants,14,10,6,1,10.0,1,0,High
+1529275,2,Lucknow Super Giants,15,12,6,1,12.0,1,0,High
+1529275,2,Lucknow Super Giants,16,3,6,2,3.0,1,0,Low
+1529275,2,Lucknow Super Giants,17,5,6,2,5.0,1,0,Low
+1529276,1,Chennai Super Kings,0,7,6,0,7.0,0,0,Medium
+1529276,1,Chennai Super Kings,1,19,6,0,19.0,0,1,Very High
+1529276,1,Chennai Super Kings,2,6,6,1,6.0,1,0,Medium
+1529276,1,Chennai Super Kings,3,19,6,0,19.0,0,1,Very High
+1529276,1,Chennai Super Kings,4,13,6,0,13.0,0,0,High
+1529276,1,Chennai Super Kings,5,9,6,1,9.0,1,0,Medium
+1529276,1,Chennai Super Kings,6,10,6,0,10.0,0,0,High
+1529276,1,Chennai Super Kings,7,8,6,0,8.0,0,0,Medium
+1529276,1,Chennai Super Kings,8,5,6,1,5.0,1,0,Low
+1529276,1,Chennai Super Kings,9,15,6,0,15.0,0,1,Very High
+1529276,1,Chennai Super Kings,10,11,6,1,11.0,1,0,High
+1529276,1,Chennai Super Kings,11,6,6,0,6.0,0,0,Medium
+1529276,1,Chennai Super Kings,12,3,6,0,3.0,0,0,Low
+1529276,1,Chennai Super Kings,13,14,6,0,14.0,0,0,High
+1529276,1,Chennai Super Kings,14,4,6,0,4.0,0,0,Low
+1529276,1,Chennai Super Kings,15,15,6,0,15.0,0,1,Very High
+1529276,1,Chennai Super Kings,16,2,6,1,2.0,1,0,Low
+1529276,1,Chennai Super Kings,17,15,6,1,15.0,1,1,Very High
+1529276,1,Chennai Super Kings,18,10,6,0,10.0,0,0,High
+1529276,1,Chennai Super Kings,19,16,6,0,16.0,0,1,Very High
+1529276,2,Mumbai Indians,0,7,6,1,7.0,1,0,Medium
+1529276,2,Mumbai Indians,1,4,6,1,4.0,1,0,Low
+1529276,2,Mumbai Indians,2,0,6,1,0.0,1,0,Low
+1529276,2,Mumbai Indians,3,6,6,0,6.0,0,0,Medium
+1529276,2,Mumbai Indians,4,7,6,0,7.0,0,0,Medium
+1529276,2,Mumbai Indians,5,4,6,0,4.0,0,0,Low
+1529276,2,Mumbai Indians,6,1,6,0,1.0,0,0,Low
+1529276,2,Mumbai Indians,7,16,6,0,16.0,0,1,Very High
+1529276,2,Mumbai Indians,8,10,6,0,10.0,0,0,High
+1529276,2,Mumbai Indians,9,13,6,0,13.0,0,0,High
+1529276,2,Mumbai Indians,10,9,6,0,9.0,0,0,Medium
+1529276,2,Mumbai Indians,11,7,6,1,7.0,1,0,Medium
+1529276,2,Mumbai Indians,12,2,6,2,2.0,1,0,Low
+1529276,2,Mumbai Indians,13,3,6,1,3.0,1,0,Low
+1529276,2,Mumbai Indians,14,4,6,0,4.0,0,0,Low
+1529276,2,Mumbai Indians,15,5,6,0,5.0,0,0,Low
+1529276,2,Mumbai Indians,16,1,6,1,1.0,1,0,Low
+1529276,2,Mumbai Indians,17,2,6,1,2.0,1,0,Low
+1529276,2,Mumbai Indians,18,2,6,1,2.0,1,0,Low
+1529277,1,Gujarat Titans,0,7,6,0,7.0,0,0,Medium
+1529277,1,Gujarat Titans,1,4,6,0,4.0,0,0,Low
+1529277,1,Gujarat Titans,2,9,6,0,9.0,0,0,Medium
+1529277,1,Gujarat Titans,3,11,6,0,11.0,0,0,High
+1529277,1,Gujarat Titans,4,14,6,0,14.0,0,0,High
+1529277,1,Gujarat Titans,5,12,6,0,12.0,0,0,High
+1529277,1,Gujarat Titans,6,4,6,0,4.0,0,0,Low
+1529277,1,Gujarat Titans,7,17,6,0,17.0,0,1,Very High
+1529277,1,Gujarat Titans,8,16,6,0,16.0,0,1,Very High
+1529277,1,Gujarat Titans,9,10,6,0,10.0,0,0,High
+1529277,1,Gujarat Titans,10,12,6,0,12.0,0,0,High
+1529277,1,Gujarat Titans,11,5,6,0,5.0,0,0,Low
+1529277,1,Gujarat Titans,12,10,6,1,10.0,1,0,High
+1529277,1,Gujarat Titans,13,10,6,0,10.0,0,0,High
+1529277,1,Gujarat Titans,14,14,6,0,14.0,0,0,High
+1529277,1,Gujarat Titans,15,15,6,1,15.0,1,1,Very High
+1529277,1,Gujarat Titans,16,4,6,0,4.0,0,0,Low
+1529277,1,Gujarat Titans,17,5,6,1,5.0,1,0,Low
+1529277,1,Gujarat Titans,18,8,6,0,8.0,0,0,Medium
+1529277,1,Gujarat Titans,19,18,6,0,18.0,0,1,Very High
+1529277,2,Royal Challengers Bengaluru,0,5,6,0,5.0,0,0,Low
+1529277,2,Royal Challengers Bengaluru,1,10,6,0,10.0,0,0,High
+1529277,2,Royal Challengers Bengaluru,2,11,6,1,11.0,1,0,High
+1529277,2,Royal Challengers Bengaluru,3,14,6,0,14.0,0,0,High
+1529277,2,Royal Challengers Bengaluru,4,10,6,0,10.0,0,0,High
+1529277,2,Royal Challengers Bengaluru,5,8,6,0,8.0,0,0,Medium
+1529277,2,Royal Challengers Bengaluru,6,12,6,0,12.0,0,0,High
+1529277,2,Royal Challengers Bengaluru,7,13,6,0,13.0,0,0,High
+1529277,2,Royal Challengers Bengaluru,8,19,6,0,19.0,0,1,Very High
+1529277,2,Royal Challengers Bengaluru,9,16,6,0,16.0,0,1,Very High
+1529277,2,Royal Challengers Bengaluru,10,13,6,0,13.0,0,0,High
+1529277,2,Royal Challengers Bengaluru,11,3,6,0,3.0,0,0,Low
+1529277,2,Royal Challengers Bengaluru,12,7,6,1,7.0,1,0,Medium
+1529277,2,Royal Challengers Bengaluru,13,17,6,1,17.0,1,1,Very High
+1529277,2,Royal Challengers Bengaluru,14,13,6,1,13.0,1,0,High
+1529277,2,Royal Challengers Bengaluru,15,4,6,1,4.0,1,0,Low
+1529277,2,Royal Challengers Bengaluru,16,9,6,0,9.0,0,0,Medium
+1529277,2,Royal Challengers Bengaluru,17,15,6,0,15.0,0,1,Very High
+1529277,2,Royal Challengers Bengaluru,18,7,5,0,8.4,0,0,Medium
+1529278,1,Delhi Capitals,0,8,6,0,8.0,0,0,Medium
+1529278,1,Delhi Capitals,1,15,6,0,15.0,0,1,Very High
+1529278,1,Delhi Capitals,2,12,6,1,12.0,1,0,High
+1529278,1,Delhi Capitals,3,10,6,0,10.0,0,0,High
+1529278,1,Delhi Capitals,4,16,6,0,16.0,0,1,Very High
+1529278,1,Delhi Capitals,5,7,6,0,7.0,0,0,Medium
+1529278,1,Delhi Capitals,6,10,6,0,10.0,0,0,High
+1529278,1,Delhi Capitals,7,9,6,0,9.0,0,0,Medium
+1529278,1,Delhi Capitals,8,7,6,0,7.0,0,0,Medium
+1529278,1,Delhi Capitals,9,8,6,0,8.0,0,0,Medium
+1529278,1,Delhi Capitals,10,12,6,0,12.0,0,0,High
+1529278,1,Delhi Capitals,11,28,6,0,28.0,0,1,Very High
+1529278,1,Delhi Capitals,12,11,6,0,11.0,0,0,High
+1529278,1,Delhi Capitals,13,20,6,0,20.0,0,1,Very High
+1529278,1,Delhi Capitals,14,16,6,0,16.0,0,1,Very High
+1529278,1,Delhi Capitals,15,24,6,0,24.0,0,1,Very High
+1529278,1,Delhi Capitals,16,13,6,0,13.0,0,0,High
+1529278,1,Delhi Capitals,17,12,6,0,12.0,0,0,High
+1529278,1,Delhi Capitals,18,17,6,1,17.0,1,1,Very High
+1529278,1,Delhi Capitals,19,9,6,0,9.0,0,0,Medium
+1529278,2,Punjab Kings,0,15,6,0,15.0,0,1,Very High
+1529278,2,Punjab Kings,1,21,6,0,21.0,0,1,Very High
+1529278,2,Punjab Kings,2,20,6,0,20.0,0,1,Very High
+1529278,2,Punjab Kings,3,27,6,0,27.0,0,1,Very High
+1529278,2,Punjab Kings,4,9,6,0,9.0,0,0,Medium
+1529278,2,Punjab Kings,5,24,6,0,24.0,0,1,Very High
+1529278,2,Punjab Kings,6,11,6,1,11.0,1,0,High
+1529278,2,Punjab Kings,7,7,6,1,7.0,1,0,Medium
+1529278,2,Punjab Kings,8,9,6,0,9.0,0,0,Medium
+1529278,2,Punjab Kings,9,4,6,1,4.0,1,0,Low
+1529278,2,Punjab Kings,10,14,6,0,14.0,0,0,High
+1529278,2,Punjab Kings,11,12,6,0,12.0,0,0,High
+1529278,2,Punjab Kings,12,4,6,0,4.0,0,0,Low
+1529278,2,Punjab Kings,13,15,6,0,15.0,0,1,Very High
+1529278,2,Punjab Kings,14,10,6,1,10.0,1,0,High
+1529278,2,Punjab Kings,15,23,6,0,23.0,0,1,Very High
+1529278,2,Punjab Kings,16,16,6,0,16.0,0,1,Very High
+1529278,2,Punjab Kings,17,10,6,0,10.0,0,0,High
+1529278,2,Punjab Kings,18,13,5,0,15.6,0,0,High
+1529279,1,Rajasthan Royals,0,25,6,0,25.0,0,1,Very High
+1529279,1,Rajasthan Royals,1,11,6,0,11.0,0,0,High
+1529279,1,Rajasthan Royals,2,6,6,1,6.0,1,0,Medium
+1529279,1,Rajasthan Royals,3,9,6,0,9.0,0,0,Medium
+1529279,1,Rajasthan Royals,4,12,6,0,12.0,0,0,High
+1529279,1,Rajasthan Royals,5,13,6,0,13.0,0,0,High
+1529279,1,Rajasthan Royals,6,16,6,0,16.0,0,1,Very High
+1529279,1,Rajasthan Royals,7,3,6,0,3.0,0,0,Low
+1529279,1,Rajasthan Royals,8,9,6,0,9.0,0,0,Medium
+1529279,1,Rajasthan Royals,9,8,6,0,8.0,0,0,Medium
+1529279,1,Rajasthan Royals,10,15,6,0,15.0,0,1,Very High
+1529279,1,Rajasthan Royals,11,15,6,0,15.0,0,1,Very High
+1529279,1,Rajasthan Royals,12,11,6,1,11.0,1,0,High
+1529279,1,Rajasthan Royals,13,22,6,1,22.0,1,1,Very High
+1529279,1,Rajasthan Royals,14,9,6,0,9.0,0,0,Medium
+1529279,1,Rajasthan Royals,15,7,6,0,7.0,0,0,Medium
+1529279,1,Rajasthan Royals,16,4,6,1,4.0,1,0,Low
+1529279,1,Rajasthan Royals,17,18,6,0,18.0,0,1,Very High
+1529279,1,Rajasthan Royals,18,5,6,1,5.0,1,0,Low
+1529279,1,Rajasthan Royals,19,10,6,1,10.0,1,0,High
+1529279,2,Sunrisers Hyderabad,0,13,6,1,13.0,1,0,High
+1529279,2,Sunrisers Hyderabad,1,13,6,0,13.0,0,0,High
+1529279,2,Sunrisers Hyderabad,2,12,6,0,12.0,0,0,High
+1529279,2,Sunrisers Hyderabad,3,19,6,0,19.0,0,1,Very High
+1529279,2,Sunrisers Hyderabad,4,13,6,0,13.0,0,0,High
+1529279,2,Sunrisers Hyderabad,5,19,6,0,19.0,0,1,Very High
+1529279,2,Sunrisers Hyderabad,6,12,6,0,12.0,0,0,High
+1529279,2,Sunrisers Hyderabad,7,11,6,0,11.0,0,0,High
+1529279,2,Sunrisers Hyderabad,8,13,6,0,13.0,0,0,High
+1529279,2,Sunrisers Hyderabad,9,14,6,1,14.0,1,0,High
+1529279,2,Sunrisers Hyderabad,10,16,6,0,16.0,0,1,Very High
+1529279,2,Sunrisers Hyderabad,11,11,6,0,11.0,0,0,High
+1529279,2,Sunrisers Hyderabad,12,1,6,1,1.0,1,0,Low
+1529279,2,Sunrisers Hyderabad,13,13,6,0,13.0,0,0,High
+1529279,2,Sunrisers Hyderabad,14,8,6,0,8.0,0,0,Medium
+1529279,2,Sunrisers Hyderabad,15,5,6,0,5.0,0,0,Low
+1529279,2,Sunrisers Hyderabad,16,20,6,0,20.0,0,1,Very High
+1529279,2,Sunrisers Hyderabad,17,7,6,2,7.0,1,0,Medium
+1529279,2,Sunrisers Hyderabad,18,9,3,0,18.0,0,0,Medium
+1529280,1,Chennai Super Kings,0,1,6,0,1.0,0,0,Low
+1529280,1,Chennai Super Kings,1,10,6,0,10.0,0,0,High
+1529280,1,Chennai Super Kings,2,10,6,0,10.0,0,0,High
+1529280,1,Chennai Super Kings,3,4,6,2,4.0,1,0,Low
+1529280,1,Chennai Super Kings,4,1,6,1,1.0,1,0,Low
+1529280,1,Chennai Super Kings,5,2,6,0,2.0,0,0,Low
+1529280,1,Chennai Super Kings,6,5,6,0,5.0,0,0,Low
+1529280,1,Chennai Super Kings,7,3,6,0,3.0,0,0,Low
+1529280,1,Chennai Super Kings,8,2,6,1,2.0,1,0,Low
+1529280,1,Chennai Super Kings,9,5,6,0,5.0,0,0,Low
+1529280,1,Chennai Super Kings,10,2,6,0,2.0,0,0,Low
+1529280,1,Chennai Super Kings,11,6,6,0,6.0,0,0,Medium
+1529280,1,Chennai Super Kings,12,15,6,0,15.0,0,1,Very High
+1529280,1,Chennai Super Kings,13,9,6,0,9.0,0,0,Medium
+1529280,1,Chennai Super Kings,14,21,6,0,21.0,0,1,Very High
+1529280,1,Chennai Super Kings,15,6,6,1,6.0,1,0,Medium
+1529280,1,Chennai Super Kings,16,11,6,0,11.0,0,0,High
+1529280,1,Chennai Super Kings,17,9,6,1,9.0,1,0,Medium
+1529280,1,Chennai Super Kings,18,20,6,1,20.0,1,1,Very High
+1529280,1,Chennai Super Kings,19,15,6,0,15.0,0,1,Very High
+1529280,2,Gujarat Titans,0,11,6,0,11.0,0,0,High
+1529280,2,Gujarat Titans,1,2,6,0,2.0,0,0,Low
+1529280,2,Gujarat Titans,2,17,6,0,17.0,0,1,Very High
+1529280,2,Gujarat Titans,3,1,6,0,1.0,0,0,Low
+1529280,2,Gujarat Titans,4,11,6,0,11.0,0,0,High
+1529280,2,Gujarat Titans,5,13,6,0,13.0,0,0,High
+1529280,2,Gujarat Titans,6,5,6,1,5.0,1,0,Low
+1529280,2,Gujarat Titans,7,9,6,0,9.0,0,0,Medium
+1529280,2,Gujarat Titans,8,6,6,0,6.0,0,0,Medium
+1529280,2,Gujarat Titans,9,7,6,0,7.0,0,0,Medium
+1529280,2,Gujarat Titans,10,11,6,0,11.0,0,0,High
+1529280,2,Gujarat Titans,11,9,6,0,9.0,0,0,Medium
+1529280,2,Gujarat Titans,12,16,6,0,16.0,0,1,Very High
+1529280,2,Gujarat Titans,13,11,6,0,11.0,0,0,High
+1529280,2,Gujarat Titans,14,9,6,0,9.0,0,0,Medium
+1529280,2,Gujarat Titans,15,16,6,0,16.0,0,1,Very High
+1529280,2,Gujarat Titans,16,8,4,1,12.0,1,0,Medium
+1529281,1,Kolkata Knight Riders,0,2,6,0,2.0,0,0,Low
+1529281,1,Kolkata Knight Riders,1,1,6,1,1.0,1,0,Low
+1529281,1,Kolkata Knight Riders,2,10,6,0,10.0,0,0,High
+1529281,1,Kolkata Knight Riders,3,8,6,1,8.0,1,0,Medium
+1529281,1,Kolkata Knight Riders,4,6,6,1,6.0,1,0,Medium
+1529281,1,Kolkata Knight Riders,5,4,6,0,4.0,0,0,Low
+1529281,1,Kolkata Knight Riders,6,6,6,1,6.0,1,0,Medium
+1529281,1,Kolkata Knight Riders,7,6,6,0,6.0,0,0,Medium
+1529281,1,Kolkata Knight Riders,8,16,6,0,16.0,0,1,Very High
+1529281,1,Kolkata Knight Riders,9,5,6,0,5.0,0,0,Low
+1529281,1,Kolkata Knight Riders,10,9,6,2,9.0,1,0,Medium
+1529281,1,Kolkata Knight Riders,11,4,6,0,4.0,0,0,Low
+1529281,1,Kolkata Knight Riders,12,3,6,0,3.0,0,0,Low
+1529281,1,Kolkata Knight Riders,13,10,6,0,10.0,0,0,High
+1529281,1,Kolkata Knight Riders,14,2,6,1,2.0,1,0,Low
+1529281,1,Kolkata Knight Riders,15,7,6,0,7.0,0,0,Medium
+1529281,1,Kolkata Knight Riders,16,5,6,0,5.0,0,0,Low
+1529281,1,Kolkata Knight Riders,17,7,6,0,7.0,0,0,Medium
+1529281,1,Kolkata Knight Riders,18,17,6,0,17.0,0,1,Very High
+1529281,1,Kolkata Knight Riders,19,26,6,0,26.0,0,1,Very High
+1529281,2,Lucknow Super Giants,0,8,6,0,8.0,0,0,Medium
+1529281,2,Lucknow Super Giants,1,1,6,1,1.0,1,0,Low
+1529281,2,Lucknow Super Giants,2,8,6,0,8.0,0,0,Medium
+1529281,2,Lucknow Super Giants,3,5,6,0,5.0,0,0,Low
+1529281,2,Lucknow Super Giants,4,8,6,0,8.0,0,0,Medium
+1529281,2,Lucknow Super Giants,5,7,6,0,7.0,0,0,Medium
+1529281,2,Lucknow Super Giants,6,5,6,0,5.0,0,0,Low
+1529281,2,Lucknow Super Giants,7,5,6,0,5.0,0,0,Low
+1529281,2,Lucknow Super Giants,8,10,6,0,10.0,0,0,High
+1529281,2,Lucknow Super Giants,9,6,6,0,6.0,0,0,Medium
+1529281,2,Lucknow Super Giants,10,4,6,1,4.0,1,0,Low
+1529281,2,Lucknow Super Giants,11,7,6,0,7.0,0,0,Medium
+1529281,2,Lucknow Super Giants,12,7,6,1,7.0,1,0,Medium
+1529281,2,Lucknow Super Giants,13,8,6,1,8.0,1,0,Medium
+1529281,2,Lucknow Super Giants,14,3,6,0,3.0,0,0,Low
+1529281,2,Lucknow Super Giants,15,12,6,1,12.0,1,0,High
+1529281,2,Lucknow Super Giants,16,14,6,0,14.0,0,0,High
+1529281,2,Lucknow Super Giants,17,10,6,1,10.0,1,0,High
+1529281,2,Lucknow Super Giants,18,11,6,1,11.0,1,0,High
+1529281,2,Lucknow Super Giants,19,16,6,1,16.0,1,1,Very High
+1529281,3,Lucknow Super Giants,0,1,3,2,2.0,1,0,Low
+1529281,4,Kolkata Knight Riders,0,4,1,0,24.0,0,0,Low
+1529282,1,Delhi Capitals,0,2,6,1,2.0,1,0,Low
+1529282,1,Delhi Capitals,1,5,6,2,5.0,1,0,Low
+1529282,1,Delhi Capitals,2,1,6,2,1.0,1,0,Low
+1529282,1,Delhi Capitals,3,1,6,1,1.0,1,0,Low
+1529282,1,Delhi Capitals,4,2,6,0,2.0,0,0,Low
+1529282,1,Delhi Capitals,5,2,6,0,2.0,0,0,Low
+1529282,1,Delhi Capitals,6,12,6,0,12.0,0,0,High
+1529282,1,Delhi Capitals,7,9,6,0,9.0,0,0,Medium
+1529282,1,Delhi Capitals,8,9,6,1,9.0,1,0,Medium
+1529282,1,Delhi Capitals,9,3,6,0,3.0,0,0,Low
+1529282,1,Delhi Capitals,10,12,6,0,12.0,0,0,High
+1529282,1,Delhi Capitals,11,1,6,0,1.0,0,0,Low
+1529282,1,Delhi Capitals,12,5,6,1,5.0,1,0,Low
+1529282,1,Delhi Capitals,13,3,6,0,3.0,0,0,Low
+1529282,1,Delhi Capitals,14,4,6,0,4.0,0,0,Low
+1529282,1,Delhi Capitals,15,0,6,1,0.0,1,0,Low
+1529282,1,Delhi Capitals,16,4,3,1,8.0,1,0,Low
+1529282,2,Royal Challengers Bengaluru,0,7,6,0,7.0,0,0,Medium
+1529282,2,Royal Challengers Bengaluru,1,6,6,0,6.0,0,0,Medium
+1529282,2,Royal Challengers Bengaluru,2,14,6,1,14.0,1,0,High
+1529282,2,Royal Challengers Bengaluru,3,12,6,0,12.0,0,0,High
+1529282,2,Royal Challengers Bengaluru,4,21,6,0,21.0,0,1,Very High
+1529282,2,Royal Challengers Bengaluru,5,5,6,0,5.0,0,0,Low
+1529282,2,Royal Challengers Bengaluru,6,12,3,0,24.0,0,0,High
+1529283,1,Punjab Kings,0,8,6,0,8.0,0,0,Medium
+1529283,1,Punjab Kings,1,21,6,0,21.0,0,1,Very High
+1529283,1,Punjab Kings,2,8,6,1,8.0,1,0,Medium
+1529283,1,Punjab Kings,3,11,6,0,11.0,0,0,High
+1529283,1,Punjab Kings,4,4,6,0,4.0,0,0,Low
+1529283,1,Punjab Kings,5,13,6,0,13.0,0,0,High
+1529283,1,Punjab Kings,6,15,6,0,15.0,0,1,Very High
+1529283,1,Punjab Kings,7,15,6,0,15.0,0,1,Very High
+1529283,1,Punjab Kings,8,6,6,1,6.0,1,0,Medium
+1529283,1,Punjab Kings,9,6,6,0,6.0,0,0,Medium
+1529283,1,Punjab Kings,10,11,6,0,11.0,0,0,High
+1529283,1,Punjab Kings,11,9,6,0,9.0,0,0,Medium
+1529283,1,Punjab Kings,12,7,6,0,7.0,0,0,Medium
+1529283,1,Punjab Kings,13,10,6,1,10.0,1,0,High
+1529283,1,Punjab Kings,14,6,6,0,6.0,0,0,Medium
+1529283,1,Punjab Kings,15,10,6,0,10.0,0,0,High
+1529283,1,Punjab Kings,16,7,6,0,7.0,0,0,Medium
+1529283,1,Punjab Kings,17,14,6,1,14.0,1,0,High
+1529283,1,Punjab Kings,18,17,6,0,17.0,0,1,Very High
+1529283,1,Punjab Kings,19,24,6,0,24.0,0,1,Very High
+1529283,2,Rajasthan Royals,0,15,6,0,15.0,0,1,Very High
+1529283,2,Rajasthan Royals,1,17,6,0,17.0,0,1,Very High
+1529283,2,Rajasthan Royals,2,12,6,0,12.0,0,0,High
+1529283,2,Rajasthan Royals,3,22,6,1,22.0,1,1,Very High
+1529283,2,Rajasthan Royals,4,2,6,0,2.0,0,0,Low
+1529283,2,Rajasthan Royals,5,16,6,0,16.0,0,1,Very High
+1529283,2,Rajasthan Royals,6,6,6,0,6.0,0,0,Medium
+1529283,2,Rajasthan Royals,7,5,6,0,5.0,0,0,Low
+1529283,2,Rajasthan Royals,8,8,6,0,8.0,0,0,Medium
+1529283,2,Rajasthan Royals,9,6,6,1,6.0,1,0,Medium
+1529283,2,Rajasthan Royals,10,9,6,0,9.0,0,0,Medium
+1529283,2,Rajasthan Royals,11,13,6,1,13.0,1,0,High
+1529283,2,Rajasthan Royals,12,8,6,0,8.0,0,0,Medium
+1529283,2,Rajasthan Royals,13,12,6,1,12.0,1,0,High
+1529283,2,Rajasthan Royals,14,14,6,0,14.0,0,0,High
+1529283,2,Rajasthan Royals,15,15,6,0,15.0,0,1,Very High
+1529283,2,Rajasthan Royals,16,8,6,0,8.0,0,0,Medium
+1529283,2,Rajasthan Royals,17,17,6,0,17.0,0,1,Very High
+1529283,2,Rajasthan Royals,18,16,6,0,16.0,0,1,Very High
+1529283,2,Rajasthan Royals,19,7,2,0,21.0,0,0,Medium
+1529284,1,Mumbai Indians,0,6,6,0,6.0,0,0,Medium
+1529284,1,Mumbai Indians,1,15,6,0,15.0,0,1,Very High
+1529284,1,Mumbai Indians,2,16,6,0,16.0,0,1,Very High
+1529284,1,Mumbai Indians,3,7,6,0,7.0,0,0,Medium
+1529284,1,Mumbai Indians,4,16,6,0,16.0,0,1,Very High
+1529284,1,Mumbai Indians,5,18,6,0,18.0,0,1,Very High
+1529284,1,Mumbai Indians,6,15,6,0,15.0,0,1,Very High
+1529284,1,Mumbai Indians,7,17,6,1,17.0,1,1,Very High
+1529284,1,Mumbai Indians,8,3,6,1,3.0,1,0,Low
+1529284,1,Mumbai Indians,9,11,6,0,11.0,0,0,High
+1529284,1,Mumbai Indians,10,13,6,0,13.0,0,0,High
+1529284,1,Mumbai Indians,11,19,6,0,19.0,0,1,Very High
+1529284,1,Mumbai Indians,12,7,6,0,7.0,0,0,Medium
+1529284,1,Mumbai Indians,13,4,6,1,4.0,1,0,Low
+1529284,1,Mumbai Indians,14,14,6,0,14.0,0,0,High
+1529284,1,Mumbai Indians,15,21,6,0,21.0,0,1,Very High
+1529284,1,Mumbai Indians,16,6,6,0,6.0,0,0,Medium
+1529284,1,Mumbai Indians,17,13,6,0,13.0,0,0,High
+1529284,1,Mumbai Indians,18,8,6,1,8.0,1,0,Medium
+1529284,1,Mumbai Indians,19,14,6,1,14.0,1,0,High
+1529284,2,Sunrisers Hyderabad,0,10,6,0,10.0,0,0,High
+1529284,2,Sunrisers Hyderabad,1,13,6,0,13.0,0,0,High
+1529284,2,Sunrisers Hyderabad,2,18,6,0,18.0,0,1,Very High
+1529284,2,Sunrisers Hyderabad,3,19,6,0,19.0,0,1,Very High
+1529284,2,Sunrisers Hyderabad,4,12,6,0,12.0,0,0,High
+1529284,2,Sunrisers Hyderabad,5,18,6,0,18.0,0,1,Very High
+1529284,2,Sunrisers Hyderabad,6,23,6,0,23.0,0,1,Very High
+1529284,2,Sunrisers Hyderabad,7,11,6,0,11.0,0,0,High
+1529284,2,Sunrisers Hyderabad,8,4,6,2,4.0,1,0,Low
+1529284,2,Sunrisers Hyderabad,9,4,6,1,4.0,1,0,Low
+1529284,2,Sunrisers Hyderabad,10,16,6,0,16.0,0,1,Very High
+1529284,2,Sunrisers Hyderabad,11,18,6,0,18.0,0,1,Very High
+1529284,2,Sunrisers Hyderabad,12,6,6,0,6.0,0,0,Medium
+1529284,2,Sunrisers Hyderabad,13,13,6,0,13.0,0,0,High
+1529284,2,Sunrisers Hyderabad,14,4,6,0,4.0,0,0,Low
+1529284,2,Sunrisers Hyderabad,15,19,6,0,19.0,0,1,Very High
+1529284,2,Sunrisers Hyderabad,16,8,6,1,8.0,1,0,Medium
+1529284,2,Sunrisers Hyderabad,17,13,6,0,13.0,0,0,High
+1529284,2,Sunrisers Hyderabad,18,16,4,0,24.0,0,1,Very High
+1529285,1,Royal Challengers Bengaluru,0,6,6,0,6.0,0,0,Medium
+1529285,1,Royal Challengers Bengaluru,1,21,6,0,21.0,0,1,Very High
+1529285,1,Royal Challengers Bengaluru,2,7,6,1,7.0,1,0,Medium
+1529285,1,Royal Challengers Bengaluru,3,5,6,1,5.0,1,0,Low
+1529285,1,Royal Challengers Bengaluru,4,14,6,0,14.0,0,0,High
+1529285,1,Royal Challengers Bengaluru,5,6,6,0,6.0,0,0,Medium
+1529285,1,Royal Challengers Bengaluru,6,12,6,0,12.0,0,0,High
+1529285,1,Royal Challengers Bengaluru,7,9,6,1,9.0,1,0,Medium
+1529285,1,Royal Challengers Bengaluru,8,9,6,1,9.0,1,0,Medium
+1529285,1,Royal Challengers Bengaluru,9,2,6,1,2.0,1,0,Low
+1529285,1,Royal Challengers Bengaluru,10,6,6,1,6.0,1,0,Medium
+1529285,1,Royal Challengers Bengaluru,11,3,6,0,3.0,0,0,Low
+1529285,1,Royal Challengers Bengaluru,12,13,6,0,13.0,0,0,High
+1529285,1,Royal Challengers Bengaluru,13,13,6,1,13.0,1,0,High
+1529285,1,Royal Challengers Bengaluru,14,6,6,1,6.0,1,0,Medium
+1529285,1,Royal Challengers Bengaluru,15,1,6,0,1.0,0,0,Low
+1529285,1,Royal Challengers Bengaluru,16,3,6,0,3.0,0,0,Low
+1529285,1,Royal Challengers Bengaluru,17,7,6,0,7.0,0,0,Medium
+1529285,1,Royal Challengers Bengaluru,18,12,6,0,12.0,0,0,High
+1529285,1,Royal Challengers Bengaluru,19,0,2,2,0.0,1,0,Low
+1529285,2,Gujarat Titans,0,12,6,0,12.0,0,0,High
+1529285,2,Gujarat Titans,1,24,6,0,24.0,0,1,Very High
+1529285,2,Gujarat Titans,2,6,6,1,6.0,1,0,Medium
+1529285,2,Gujarat Titans,3,13,6,0,13.0,0,0,High
+1529285,2,Gujarat Titans,4,2,6,1,2.0,1,0,Low
+1529285,2,Gujarat Titans,5,12,6,0,12.0,0,0,High
+1529285,2,Gujarat Titans,6,17,6,0,17.0,0,1,Very High
+1529285,2,Gujarat Titans,7,8,6,1,8.0,1,0,Medium
+1529285,2,Gujarat Titans,8,8,6,0,8.0,0,0,Medium
+1529285,2,Gujarat Titans,9,7,6,0,7.0,0,0,Medium
+1529285,2,Gujarat Titans,10,13,6,2,13.0,1,0,High
+1529285,2,Gujarat Titans,11,10,6,0,10.0,0,0,High
+1529285,2,Gujarat Titans,12,5,6,0,5.0,0,0,Low
+1529285,2,Gujarat Titans,13,4,6,1,4.0,1,0,Low
+1529285,2,Gujarat Titans,14,4,6,0,4.0,0,0,Low
+1529285,2,Gujarat Titans,15,13,5,0,15.6,0,0,High
+1529286,1,Rajasthan Royals,0,7,6,1,7.0,1,0,Medium
+1529286,1,Rajasthan Royals,1,5,6,1,5.0,1,0,Low
+1529286,1,Rajasthan Royals,2,9,6,0,9.0,0,0,Medium
+1529286,1,Rajasthan Royals,3,8,6,0,8.0,0,0,Medium
+1529286,1,Rajasthan Royals,4,7,6,0,7.0,0,0,Medium
+1529286,1,Rajasthan Royals,5,20,6,0,20.0,0,1,Very High
+1529286,1,Rajasthan Royals,6,8,6,0,8.0,0,0,Medium
+1529286,1,Rajasthan Royals,7,7,6,0,7.0,0,0,Medium
+1529286,1,Rajasthan Royals,8,14,6,0,14.0,0,0,High
+1529286,1,Rajasthan Royals,9,6,6,0,6.0,0,0,Medium
+1529286,1,Rajasthan Royals,10,15,6,0,15.0,0,1,Very High
+1529286,1,Rajasthan Royals,11,10,6,1,10.0,1,0,High
+1529286,1,Rajasthan Royals,12,5,6,0,5.0,0,0,Low
+1529286,1,Rajasthan Royals,13,9,6,0,9.0,0,0,Medium
+1529286,1,Rajasthan Royals,14,17,6,0,17.0,0,1,Very High
+1529286,1,Rajasthan Royals,15,15,6,0,15.0,0,1,Very High
+1529286,1,Rajasthan Royals,16,11,6,2,11.0,1,0,High
+1529286,1,Rajasthan Royals,17,20,6,0,20.0,0,1,Very High
+1529286,1,Rajasthan Royals,18,14,6,0,14.0,0,0,High
+1529286,1,Rajasthan Royals,19,18,6,1,18.0,1,1,Very High
+1529286,2,Delhi Capitals,0,11,6,0,11.0,0,0,High
+1529286,2,Delhi Capitals,1,8,6,0,8.0,0,0,Medium
+1529286,2,Delhi Capitals,2,15,6,0,15.0,0,1,Very High
+1529286,2,Delhi Capitals,3,15,6,0,15.0,0,1,Very High
+1529286,2,Delhi Capitals,4,10,6,0,10.0,0,0,High
+1529286,2,Delhi Capitals,5,11,6,0,11.0,0,0,High
+1529286,2,Delhi Capitals,6,8,6,0,8.0,0,0,Medium
+1529286,2,Delhi Capitals,7,10,6,0,10.0,0,0,High
+1529286,2,Delhi Capitals,8,20,6,0,20.0,0,1,Very High
+1529286,2,Delhi Capitals,9,5,6,1,5.0,1,0,Low
+1529286,2,Delhi Capitals,10,7,6,0,7.0,0,0,Medium
+1529286,2,Delhi Capitals,11,18,6,0,18.0,0,1,Very High
+1529286,2,Delhi Capitals,12,10,6,0,10.0,0,0,High
+1529286,2,Delhi Capitals,13,18,6,0,18.0,0,1,Very High
+1529286,2,Delhi Capitals,14,7,6,1,7.0,1,0,Medium
+1529286,2,Delhi Capitals,15,11,6,1,11.0,1,0,High
+1529286,2,Delhi Capitals,16,12,6,0,12.0,0,0,High
+1529286,2,Delhi Capitals,17,15,6,0,15.0,0,1,Very High
+1529286,2,Delhi Capitals,18,9,6,0,9.0,0,0,Medium
+1529286,2,Delhi Capitals,19,5,1,0,30.0,0,0,Low
+1529287,1,Mumbai Indians,0,1,6,0,1.0,0,0,Low
+1529287,1,Mumbai Indians,1,4,6,1,4.0,1,0,Low
+1529287,1,Mumbai Indians,2,15,6,0,15.0,0,1,Very High
+1529287,1,Mumbai Indians,3,9,6,0,9.0,0,0,Medium
+1529287,1,Mumbai Indians,4,18,6,0,18.0,0,1,Very High
+1529287,1,Mumbai Indians,5,10,6,0,10.0,0,0,High
+1529287,1,Mumbai Indians,6,6,6,1,6.0,1,0,Medium
+1529287,1,Mumbai Indians,7,7,6,0,7.0,0,0,Medium
+1529287,1,Mumbai Indians,8,7,6,0,7.0,0,0,Medium
+1529287,1,Mumbai Indians,9,13,6,0,13.0,0,0,High
+1529287,1,Mumbai Indians,10,10,6,1,10.0,1,0,High
+1529287,1,Mumbai Indians,11,6,6,0,6.0,0,0,Medium
+1529287,1,Mumbai Indians,12,4,6,1,4.0,1,0,Low
+1529287,1,Mumbai Indians,13,3,6,0,3.0,0,0,Low
+1529287,1,Mumbai Indians,14,7,6,0,7.0,0,0,Medium
+1529287,1,Mumbai Indians,15,4,6,0,4.0,0,0,Low
+1529287,1,Mumbai Indians,16,11,6,1,11.0,1,0,High
+1529287,1,Mumbai Indians,17,7,6,1,7.0,1,0,Medium
+1529287,1,Mumbai Indians,18,4,6,0,4.0,0,0,Low
+1529287,1,Mumbai Indians,19,13,6,1,13.0,1,0,High
+1529287,2,Chennai Super Kings,0,7,6,0,7.0,0,0,Medium
+1529287,2,Chennai Super Kings,1,6,6,1,6.0,1,0,Medium
+1529287,2,Chennai Super Kings,2,17,6,0,17.0,0,1,Very High
+1529287,2,Chennai Super Kings,3,7,6,0,7.0,0,0,Medium
+1529287,2,Chennai Super Kings,4,18,6,0,18.0,0,1,Very High
+1529287,2,Chennai Super Kings,5,7,6,1,7.0,1,0,Medium
+1529287,2,Chennai Super Kings,6,7,6,0,7.0,0,0,Medium
+1529287,2,Chennai Super Kings,7,11,6,0,11.0,0,0,High
+1529287,2,Chennai Super Kings,8,5,6,0,5.0,0,0,Low
+1529287,2,Chennai Super Kings,9,7,6,0,7.0,0,0,Medium
+1529287,2,Chennai Super Kings,10,5,6,0,5.0,0,0,Low
+1529287,2,Chennai Super Kings,11,10,6,0,10.0,0,0,High
+1529287,2,Chennai Super Kings,12,7,6,0,7.0,0,0,Medium
+1529287,2,Chennai Super Kings,13,8,6,0,8.0,0,0,Medium
+1529287,2,Chennai Super Kings,14,7,6,0,7.0,0,0,Medium
+1529287,2,Chennai Super Kings,15,9,6,0,9.0,0,0,Medium
+1529287,2,Chennai Super Kings,16,14,6,0,14.0,0,0,High
+1529287,2,Chennai Super Kings,17,4,6,0,4.0,0,0,Low
+1529287,2,Chennai Super Kings,18,4,1,0,24.0,0,0,Low
+1529288,1,Sunrisers Hyderabad,0,9,6,0,9.0,0,0,Medium
+1529288,1,Sunrisers Hyderabad,1,17,6,0,17.0,0,1,Very High
+1529288,1,Sunrisers Hyderabad,2,11,6,0,11.0,0,0,High
+1529288,1,Sunrisers Hyderabad,3,8,6,1,8.0,1,0,Medium
+1529288,1,Sunrisers Hyderabad,4,14,6,0,14.0,0,0,High
+1529288,1,Sunrisers Hyderabad,5,12,6,0,12.0,0,0,High
+1529288,1,Sunrisers Hyderabad,6,13,6,0,13.0,0,0,High
+1529288,1,Sunrisers Hyderabad,7,5,6,0,5.0,0,0,Low
+1529288,1,Sunrisers Hyderabad,8,16,6,1,16.0,1,1,Very High
+1529288,1,Sunrisers Hyderabad,9,2,6,0,2.0,0,0,Low
+1529288,1,Sunrisers Hyderabad,10,14,6,1,14.0,1,0,High
+1529288,1,Sunrisers Hyderabad,11,4,6,1,4.0,1,0,Low
+1529288,1,Sunrisers Hyderabad,12,6,6,0,6.0,0,0,Medium
+1529288,1,Sunrisers Hyderabad,13,4,6,1,4.0,1,0,Low
+1529288,1,Sunrisers Hyderabad,14,4,6,0,4.0,0,0,Low
+1529288,1,Sunrisers Hyderabad,15,9,6,2,9.0,1,0,Medium
+1529288,1,Sunrisers Hyderabad,16,8,6,1,8.0,1,0,Medium
+1529288,1,Sunrisers Hyderabad,17,3,6,1,3.0,1,0,Low
+1529288,1,Sunrisers Hyderabad,18,6,6,1,6.0,1,0,Medium
+1529288,2,Kolkata Knight Riders,0,8,6,0,8.0,0,0,Medium
+1529288,2,Kolkata Knight Riders,1,6,6,0,6.0,0,0,Medium
+1529288,2,Kolkata Knight Riders,2,8,6,0,8.0,0,0,Medium
+1529288,2,Kolkata Knight Riders,3,27,6,1,27.0,1,1,Very High
+1529288,2,Kolkata Knight Riders,4,6,6,0,6.0,0,0,Medium
+1529288,2,Kolkata Knight Riders,5,16,6,0,16.0,0,1,Very High
+1529288,2,Kolkata Knight Riders,6,8,6,0,8.0,0,0,Medium
+1529288,2,Kolkata Knight Riders,7,10,6,0,10.0,0,0,High
+1529288,2,Kolkata Knight Riders,8,10,6,0,10.0,0,0,High
+1529288,2,Kolkata Knight Riders,9,6,6,0,6.0,0,0,Medium
+1529288,2,Kolkata Knight Riders,10,5,6,0,5.0,0,0,Low
+1529288,2,Kolkata Knight Riders,11,9,6,0,9.0,0,0,Medium
+1529288,2,Kolkata Knight Riders,12,3,6,0,3.0,0,0,Low
+1529288,2,Kolkata Knight Riders,13,7,6,0,7.0,0,0,Medium
+1529288,2,Kolkata Knight Riders,14,4,6,1,4.0,1,0,Low
+1529288,2,Kolkata Knight Riders,15,10,6,0,10.0,0,0,High
+1529288,2,Kolkata Knight Riders,16,10,6,1,10.0,1,0,High
+1529288,2,Kolkata Knight Riders,17,7,6,0,7.0,0,0,Medium
+1529288,2,Kolkata Knight Riders,18,9,2,0,27.0,0,0,Medium
+1529289,1,Punjab Kings,0,6,6,2,6.0,1,0,Medium
+1529289,1,Punjab Kings,1,11,6,0,11.0,0,0,High
+1529289,1,Punjab Kings,2,6,6,0,6.0,0,0,Medium
+1529289,1,Punjab Kings,3,4,6,0,4.0,0,0,Low
+1529289,1,Punjab Kings,4,8,6,0,8.0,0,0,Medium
+1529289,1,Punjab Kings,5,0,6,1,0.0,1,0,Low
+1529289,1,Punjab Kings,6,4,6,1,4.0,1,0,Low
+1529289,1,Punjab Kings,7,6,6,0,6.0,0,0,Medium
+1529289,1,Punjab Kings,8,2,6,1,2.0,1,0,Low
+1529289,1,Punjab Kings,9,4,6,0,4.0,0,0,Low
+1529289,1,Punjab Kings,10,11,6,0,11.0,0,0,High
+1529289,1,Punjab Kings,11,4,6,0,4.0,0,0,Low
+1529289,1,Punjab Kings,12,15,6,0,15.0,0,1,Very High
+1529289,1,Punjab Kings,13,27,6,0,27.0,0,1,Very High
+1529289,1,Punjab Kings,14,10,6,0,10.0,0,0,High
+1529289,1,Punjab Kings,15,8,6,1,8.0,1,0,Medium
+1529289,1,Punjab Kings,16,8,6,0,8.0,0,0,Medium
+1529289,1,Punjab Kings,17,7,6,2,7.0,1,0,Medium
+1529289,1,Punjab Kings,18,8,6,0,8.0,0,0,Medium
+1529289,1,Punjab Kings,19,14,6,1,14.0,1,0,High
+1529289,2,Gujarat Titans,0,12,6,0,12.0,0,0,High
+1529289,2,Gujarat Titans,1,6,6,1,6.0,1,0,Medium
+1529289,2,Gujarat Titans,2,7,6,0,7.0,0,0,Medium
+1529289,2,Gujarat Titans,3,8,6,0,8.0,0,0,Medium
+1529289,2,Gujarat Titans,4,16,6,0,16.0,0,1,Very High
+1529289,2,Gujarat Titans,5,9,6,0,9.0,0,0,Medium
+1529289,2,Gujarat Titans,6,6,6,0,6.0,0,0,Medium
+1529289,2,Gujarat Titans,7,5,6,0,5.0,0,0,Low
+1529289,2,Gujarat Titans,8,4,6,1,4.0,1,0,Low
+1529289,2,Gujarat Titans,9,5,6,0,5.0,0,0,Low
+1529289,2,Gujarat Titans,10,14,6,0,14.0,0,0,High
+1529289,2,Gujarat Titans,11,7,6,1,7.0,1,0,Medium
+1529289,2,Gujarat Titans,12,4,6,0,4.0,0,0,Low
+1529289,2,Gujarat Titans,13,13,6,0,13.0,0,0,High
+1529289,2,Gujarat Titans,14,8,6,1,8.0,1,0,Medium
+1529289,2,Gujarat Titans,15,4,6,0,4.0,0,0,Low
+1529289,2,Gujarat Titans,16,12,6,1,12.0,1,0,High
+1529289,2,Gujarat Titans,17,7,6,0,7.0,0,0,Medium
+1529289,2,Gujarat Titans,18,6,6,1,6.0,1,0,Medium
+1529289,2,Gujarat Titans,19,14,5,0,16.8,0,0,High
+1529290,1,Lucknow Super Giants,0,11,6,0,11.0,0,0,High
+1529290,1,Lucknow Super Giants,1,10,6,0,10.0,0,0,High
+1529290,1,Lucknow Super Giants,2,9,6,1,9.0,1,0,Medium
+1529290,1,Lucknow Super Giants,3,21,6,0,21.0,0,1,Very High
+1529290,1,Lucknow Super Giants,4,20,6,0,20.0,0,1,Very High
+1529290,1,Lucknow Super Giants,5,19,6,0,19.0,0,1,Very High
+1529290,1,Lucknow Super Giants,6,16,6,0,16.0,0,1,Very High
+1529290,1,Lucknow Super Giants,7,17,6,0,17.0,0,1,Very High
+1529290,1,Lucknow Super Giants,8,4,6,2,4.0,1,0,Low
+1529290,1,Lucknow Super Giants,9,14,6,0,14.0,0,0,High
+1529290,1,Lucknow Super Giants,10,14,6,1,14.0,1,0,High
+1529290,1,Lucknow Super Giants,11,5,6,0,5.0,0,0,Low
+1529290,1,Lucknow Super Giants,12,4,6,1,4.0,1,0,Low
+1529290,1,Lucknow Super Giants,13,7,6,0,7.0,0,0,Medium
+1529290,1,Lucknow Super Giants,14,4,6,0,4.0,0,0,Low
+1529290,1,Lucknow Super Giants,15,17,6,0,17.0,0,1,Very High
+1529290,1,Lucknow Super Giants,16,14,6,0,14.0,0,0,High
+1529290,1,Lucknow Super Giants,17,9,6,0,9.0,0,0,Medium
+1529290,1,Lucknow Super Giants,18,7,6,0,7.0,0,0,Medium
+1529290,1,Lucknow Super Giants,19,6,6,0,6.0,0,0,Medium
+1529290,2,Mumbai Indians,0,10,6,0,10.0,0,0,High
+1529290,2,Mumbai Indians,1,11,6,0,11.0,0,0,High
+1529290,2,Mumbai Indians,2,14,6,0,14.0,0,0,High
+1529290,2,Mumbai Indians,3,9,6,0,9.0,0,0,Medium
+1529290,2,Mumbai Indians,4,6,6,0,6.0,0,0,Medium
+1529290,2,Mumbai Indians,5,21,6,0,21.0,0,1,Very High
+1529290,2,Mumbai Indians,6,16,6,0,16.0,0,1,Very High
+1529290,2,Mumbai Indians,7,11,6,0,11.0,0,0,High
+1529290,2,Mumbai Indians,8,23,6,0,23.0,0,1,Very High
+1529290,2,Mumbai Indians,9,6,6,0,6.0,0,0,Medium
+1529290,2,Mumbai Indians,10,17,6,1,17.0,1,1,Very High
+1529290,2,Mumbai Indians,11,14,6,0,14.0,0,0,High
+1529290,2,Mumbai Indians,12,14,6,0,14.0,0,0,High
+1529290,2,Mumbai Indians,13,5,6,1,5.0,1,0,Low
+1529290,2,Mumbai Indians,14,10,6,0,10.0,0,0,High
+1529290,2,Mumbai Indians,15,3,6,1,3.0,1,0,Low
+1529290,2,Mumbai Indians,16,12,6,0,12.0,0,0,High
+1529290,2,Mumbai Indians,17,16,6,1,16.0,1,1,Very High
+1529290,2,Mumbai Indians,18,11,4,0,16.5,0,0,High
+1529291,1,Delhi Capitals,0,8,6,0,8.0,0,0,Medium
+1529291,1,Delhi Capitals,1,5,6,0,5.0,0,0,Low
+1529291,1,Delhi Capitals,2,6,6,0,6.0,0,0,Medium
+1529291,1,Delhi Capitals,3,10,6,1,10.0,1,0,High
+1529291,1,Delhi Capitals,4,7,6,0,7.0,0,0,Medium
+1529291,1,Delhi Capitals,5,1,6,1,1.0,1,0,Low
+1529291,1,Delhi Capitals,6,8,6,0,8.0,0,0,Medium
+1529291,1,Delhi Capitals,7,7,6,1,7.0,1,0,Medium
+1529291,1,Delhi Capitals,8,5,6,0,5.0,0,0,Low
+1529291,1,Delhi Capitals,9,5,6,1,5.0,1,0,Low
+1529291,1,Delhi Capitals,10,7,6,1,7.0,1,0,Medium
+1529291,1,Delhi Capitals,11,4,6,0,4.0,0,0,Low
+1529291,1,Delhi Capitals,12,4,6,0,4.0,0,0,Low
+1529291,1,Delhi Capitals,13,10,6,0,10.0,0,0,High
+1529291,1,Delhi Capitals,14,10,6,0,10.0,0,0,High
+1529291,1,Delhi Capitals,15,12,6,0,12.0,0,0,High
+1529291,1,Delhi Capitals,16,7,6,0,7.0,0,0,Medium
+1529291,1,Delhi Capitals,17,14,6,0,14.0,0,0,High
+1529291,1,Delhi Capitals,18,5,6,1,5.0,1,0,Low
+1529291,1,Delhi Capitals,19,20,6,1,20.0,1,1,Very High
+1529291,2,Chennai Super Kings,0,3,6,0,3.0,0,0,Low
+1529291,2,Chennai Super Kings,1,12,6,0,12.0,0,0,High
+1529291,2,Chennai Super Kings,2,7,6,0,7.0,0,0,Medium
+1529291,2,Chennai Super Kings,3,2,6,1,2.0,1,0,Low
+1529291,2,Chennai Super Kings,4,4,6,0,4.0,0,0,Low
+1529291,2,Chennai Super Kings,5,16,6,0,16.0,0,1,Very High
+1529291,2,Chennai Super Kings,6,5,6,1,5.0,1,0,Low
+1529291,2,Chennai Super Kings,7,8,6,0,8.0,0,0,Medium
+1529291,2,Chennai Super Kings,8,9,6,0,9.0,0,0,Medium
+1529291,2,Chennai Super Kings,9,8,6,0,8.0,0,0,Medium
+1529291,2,Chennai Super Kings,10,4,6,0,4.0,0,0,Low
+1529291,2,Chennai Super Kings,11,18,6,0,18.0,0,1,Very High
+1529291,2,Chennai Super Kings,12,9,6,0,9.0,0,0,Medium
+1529291,2,Chennai Super Kings,13,1,6,0,1.0,0,0,Low
+1529291,2,Chennai Super Kings,14,20,6,0,20.0,0,1,Very High
+1529291,2,Chennai Super Kings,15,12,6,0,12.0,0,0,High
+1529291,2,Chennai Super Kings,16,11,6,0,11.0,0,0,High
+1529291,2,Chennai Super Kings,17,10,3,0,20.0,0,0,High
+1529292,1,Sunrisers Hyderabad,0,11,6,0,11.0,0,0,High
+1529292,1,Sunrisers Hyderabad,1,21,6,0,21.0,0,1,Very High
+1529292,1,Sunrisers Hyderabad,2,16,6,0,16.0,0,1,Very High
+1529292,1,Sunrisers Hyderabad,3,6,6,1,6.0,1,0,Medium
+1529292,1,Sunrisers Hyderabad,4,11,6,0,11.0,0,0,High
+1529292,1,Sunrisers Hyderabad,5,14,6,0,14.0,0,0,High
+1529292,1,Sunrisers Hyderabad,6,7,6,1,7.0,1,0,Medium
+1529292,1,Sunrisers Hyderabad,7,8,6,0,8.0,0,0,Medium
+1529292,1,Sunrisers Hyderabad,8,13,6,0,13.0,0,0,High
+1529292,1,Sunrisers Hyderabad,9,11,6,0,11.0,0,0,High
+1529292,1,Sunrisers Hyderabad,10,6,6,0,6.0,0,0,Medium
+1529292,1,Sunrisers Hyderabad,11,10,6,0,10.0,0,0,High
+1529292,1,Sunrisers Hyderabad,12,13,6,0,13.0,0,0,High
+1529292,1,Sunrisers Hyderabad,13,21,6,0,21.0,0,1,Very High
+1529292,1,Sunrisers Hyderabad,14,6,6,1,6.0,1,0,Medium
+1529292,1,Sunrisers Hyderabad,15,8,6,0,8.0,0,0,Medium
+1529292,1,Sunrisers Hyderabad,16,17,6,0,17.0,0,1,Very High
+1529292,1,Sunrisers Hyderabad,17,13,6,0,13.0,0,0,High
+1529292,1,Sunrisers Hyderabad,18,10,6,0,10.0,0,0,High
+1529292,1,Sunrisers Hyderabad,19,13,6,1,13.0,1,0,High
+1529292,2,Punjab Kings,0,4,6,1,4.0,1,0,Low
+1529292,2,Punjab Kings,1,6,6,1,6.0,1,0,Medium
+1529292,2,Punjab Kings,2,13,6,0,13.0,0,0,High
+1529292,2,Punjab Kings,3,6,6,1,6.0,1,0,Medium
+1529292,2,Punjab Kings,4,19,6,0,19.0,0,1,Very High
+1529292,2,Punjab Kings,5,9,6,0,9.0,0,0,Medium
+1529292,2,Punjab Kings,6,7,6,1,7.0,1,0,Medium
+1529292,2,Punjab Kings,7,5,6,0,5.0,0,0,Low
+1529292,2,Punjab Kings,8,5,6,0,5.0,0,0,Low
+1529292,2,Punjab Kings,9,16,6,0,16.0,0,1,Very High
+1529292,2,Punjab Kings,10,18,6,0,18.0,0,1,Very High
+1529292,2,Punjab Kings,11,5,6,1,5.0,1,0,Low
+1529292,2,Punjab Kings,12,7,6,1,7.0,1,0,Medium
+1529292,2,Punjab Kings,13,5,6,0,5.0,0,0,Low
+1529292,2,Punjab Kings,14,4,6,0,4.0,0,0,Low
+1529292,2,Punjab Kings,15,12,6,0,12.0,0,0,High
+1529292,2,Punjab Kings,16,16,6,0,16.0,0,1,Very High
+1529292,2,Punjab Kings,17,10,6,0,10.0,0,0,High
+1529292,2,Punjab Kings,18,19,6,0,19.0,0,1,Very High
+1529292,2,Punjab Kings,19,15,6,1,15.0,1,1,Very High
+1529293,1,Lucknow Super Giants,0,5,6,0,5.0,0,0,Low
+1529293,1,Lucknow Super Giants,1,13,6,0,13.0,0,0,High
+1529293,1,Lucknow Super Giants,2,9,6,0,9.0,0,0,Medium
+1529293,1,Lucknow Super Giants,3,12,6,0,12.0,0,0,High
+1529293,1,Lucknow Super Giants,4,17,6,0,17.0,0,1,Very High
+1529293,1,Lucknow Super Giants,5,12,6,0,12.0,0,0,High
+1529293,1,Lucknow Super Giants,6,12,6,0,12.0,0,0,High
+1529293,1,Lucknow Super Giants,7,6,6,0,6.0,0,0,Medium
+1529293,1,Lucknow Super Giants,8,9,6,0,9.0,0,0,Medium
+1529293,1,Lucknow Super Giants,9,3,6,1,3.0,1,0,Low
+1529293,1,Lucknow Super Giants,10,11,6,0,11.0,0,0,High
+1529293,1,Lucknow Super Giants,11,6,6,0,6.0,0,0,Medium
+1529293,1,Lucknow Super Giants,12,10,6,0,10.0,0,0,High
+1529293,1,Lucknow Super Giants,13,20,6,0,20.0,0,1,Very High
+1529293,1,Lucknow Super Giants,14,10,6,0,10.0,0,0,High
+1529293,1,Lucknow Super Giants,15,10,6,0,10.0,0,0,High
+1529293,1,Lucknow Super Giants,16,18,6,1,18.0,1,1,Very High
+1529293,1,Lucknow Super Giants,17,10,6,0,10.0,0,0,High
+1529293,1,Lucknow Super Giants,18,16,6,1,16.0,1,1,Very High
+1529293,2,Royal Challengers Bengaluru,0,9,6,1,9.0,1,0,Medium
+1529293,2,Royal Challengers Bengaluru,1,8,6,1,8.0,1,0,Medium
+1529293,2,Royal Challengers Bengaluru,2,3,6,0,3.0,0,0,Low
+1529293,2,Royal Challengers Bengaluru,3,6,6,0,6.0,0,0,Medium
+1529293,2,Royal Challengers Bengaluru,4,9,6,0,9.0,0,0,Medium
+1529293,2,Royal Challengers Bengaluru,5,10,6,0,10.0,0,0,High
+1529293,2,Royal Challengers Bengaluru,6,15,6,0,15.0,0,1,Very High
+1529293,2,Royal Challengers Bengaluru,7,9,6,0,9.0,0,0,Medium
+1529293,2,Royal Challengers Bengaluru,8,17,6,0,17.0,0,1,Very High
+1529293,2,Royal Challengers Bengaluru,9,18,6,0,18.0,0,1,Very High
+1529293,2,Royal Challengers Bengaluru,10,3,6,2,3.0,1,0,Low
+1529293,2,Royal Challengers Bengaluru,11,6,6,1,6.0,1,0,Medium
+1529293,2,Royal Challengers Bengaluru,12,9,6,0,9.0,0,0,Medium
+1529293,2,Royal Challengers Bengaluru,13,11,6,0,11.0,0,0,High
+1529293,2,Royal Challengers Bengaluru,14,17,6,0,17.0,0,1,Very High
+1529293,2,Royal Challengers Bengaluru,15,15,6,1,15.0,1,1,Very High
+1529293,2,Royal Challengers Bengaluru,16,14,6,0,14.0,0,0,High
+1529293,2,Royal Challengers Bengaluru,17,13,6,0,13.0,0,0,High
+1529293,2,Royal Challengers Bengaluru,18,10,6,0,10.0,0,0,High
+1529294,1,Delhi Capitals,0,7,6,0,7.0,0,0,Medium
+1529294,1,Delhi Capitals,1,10,6,0,10.0,0,0,High
+1529294,1,Delhi Capitals,2,11,6,0,11.0,0,0,High
+1529294,1,Delhi Capitals,3,11,6,0,11.0,0,0,High
+1529294,1,Delhi Capitals,4,10,6,1,10.0,1,0,High
+1529294,1,Delhi Capitals,5,6,6,0,6.0,0,0,Medium
+1529294,1,Delhi Capitals,6,7,6,0,7.0,0,0,Medium
+1529294,1,Delhi Capitals,7,12,6,1,12.0,1,0,High
+1529294,1,Delhi Capitals,8,3,6,0,3.0,0,0,Low
+1529294,1,Delhi Capitals,9,3,6,1,3.0,1,0,Low
+1529294,1,Delhi Capitals,10,9,6,2,9.0,1,0,Medium
+1529294,1,Delhi Capitals,11,1,6,0,1.0,0,0,Low
+1529294,1,Delhi Capitals,12,4,6,0,4.0,0,0,Low
+1529294,1,Delhi Capitals,13,2,6,0,2.0,0,0,Low
+1529294,1,Delhi Capitals,14,2,6,0,2.0,0,0,Low
+1529294,1,Delhi Capitals,15,2,6,0,2.0,0,0,Low
+1529294,1,Delhi Capitals,16,16,6,0,16.0,0,1,Very High
+1529294,1,Delhi Capitals,17,10,6,0,10.0,0,0,High
+1529294,1,Delhi Capitals,18,13,6,1,13.0,1,0,High
+1529294,1,Delhi Capitals,19,3,6,2,3.0,1,0,Low
+1529294,2,Kolkata Knight Riders,0,6,6,0,6.0,0,0,Medium
+1529294,2,Kolkata Knight Riders,1,11,6,0,11.0,0,0,High
+1529294,2,Kolkata Knight Riders,2,12,6,1,12.0,1,0,High
+1529294,2,Kolkata Knight Riders,3,3,6,1,3.0,1,0,Low
+1529294,2,Kolkata Knight Riders,4,2,6,0,2.0,0,0,Low
+1529294,2,Kolkata Knight Riders,5,9,6,0,9.0,0,0,Medium
+1529294,2,Kolkata Knight Riders,6,13,6,0,13.0,0,0,High
+1529294,2,Kolkata Knight Riders,7,10,6,0,10.0,0,0,High
+1529294,2,Kolkata Knight Riders,8,5,6,0,5.0,0,0,Low
+1529294,2,Kolkata Knight Riders,9,4,6,0,4.0,0,0,Low
+1529294,2,Kolkata Knight Riders,10,13,6,0,13.0,0,0,High
+1529294,2,Kolkata Knight Riders,11,16,6,0,16.0,0,1,Very High
+1529294,2,Kolkata Knight Riders,12,21,6,0,21.0,0,1,Very High
+1529294,2,Kolkata Knight Riders,13,15,6,0,15.0,0,1,Very High
+1529294,2,Kolkata Knight Riders,14,7,2,0,21.0,0,0,Medium
+1529295,1,Gujarat Titans,0,17,6,0,17.0,0,1,Very High
+1529295,1,Gujarat Titans,1,8,6,0,8.0,0,0,Medium
+1529295,1,Gujarat Titans,2,11,6,0,11.0,0,0,High
+1529295,1,Gujarat Titans,3,15,6,0,15.0,0,1,Very High
+1529295,1,Gujarat Titans,4,15,6,0,15.0,0,1,Very High
+1529295,1,Gujarat Titans,5,15,6,0,15.0,0,1,Very High
+1529295,1,Gujarat Titans,6,10,6,0,10.0,0,0,High
+1529295,1,Gujarat Titans,7,6,6,0,6.0,0,0,Medium
+1529295,1,Gujarat Titans,8,10,6,0,10.0,0,0,High
+1529295,1,Gujarat Titans,9,6,6,0,6.0,0,0,Medium
+1529295,1,Gujarat Titans,10,5,6,1,5.0,1,0,Low
+1529295,1,Gujarat Titans,11,17,6,0,17.0,0,1,Very High
+1529295,1,Gujarat Titans,12,14,6,0,14.0,0,0,High
+1529295,1,Gujarat Titans,13,5,6,1,5.0,1,0,Low
+1529295,1,Gujarat Titans,14,11,6,0,11.0,0,0,High
+1529295,1,Gujarat Titans,15,13,6,0,13.0,0,0,High
+1529295,1,Gujarat Titans,16,17,6,1,17.0,1,1,Very High
+1529295,1,Gujarat Titans,17,8,6,0,8.0,0,0,Medium
+1529295,1,Gujarat Titans,18,4,6,1,4.0,1,0,Low
+1529295,1,Gujarat Titans,19,21,6,0,21.0,0,1,Very High
+1529295,2,Rajasthan Royals,0,11,6,0,11.0,0,0,High
+1529295,2,Rajasthan Royals,1,15,6,0,15.0,0,1,Very High
+1529295,2,Rajasthan Royals,2,12,6,1,12.0,1,0,High
+1529295,2,Rajasthan Royals,3,2,6,1,2.0,1,0,Low
+1529295,2,Rajasthan Royals,4,22,6,0,22.0,0,1,Very High
+1529295,2,Rajasthan Royals,5,16,6,1,16.0,1,1,Very High
+1529295,2,Rajasthan Royals,6,8,6,0,8.0,0,0,Medium
+1529295,2,Rajasthan Royals,7,5,6,2,5.0,1,0,Low
+1529295,2,Rajasthan Royals,8,2,6,0,2.0,0,0,Low
+1529295,2,Rajasthan Royals,9,6,6,0,6.0,0,0,Medium
+1529295,2,Rajasthan Royals,10,8,6,0,8.0,0,0,Medium
+1529295,2,Rajasthan Royals,11,14,6,1,14.0,1,0,High
+1529295,2,Rajasthan Royals,12,7,6,0,7.0,0,0,Medium
+1529295,2,Rajasthan Royals,13,9,6,1,9.0,1,0,Medium
+1529295,2,Rajasthan Royals,14,4,6,1,4.0,1,0,Low
+1529295,2,Rajasthan Royals,15,10,6,0,10.0,0,0,High
+1529295,2,Rajasthan Royals,16,1,3,2,2.0,1,0,Low
+1529296,1,Lucknow Super Giants,0,16,6,0,16.0,0,1,Very High
+1529296,1,Lucknow Super Giants,1,8,6,0,8.0,0,0,Medium
+1529296,1,Lucknow Super Giants,2,16,6,0,16.0,0,1,Very High
+1529296,1,Lucknow Super Giants,3,18,6,0,18.0,0,1,Very High
+1529296,1,Lucknow Super Giants,4,19,6,0,19.0,0,1,Very High
+1529296,1,Lucknow Super Giants,5,14,6,1,14.0,1,0,High
+1529296,1,Lucknow Super Giants,6,3,6,1,3.0,1,0,Low
+1529296,1,Lucknow Super Giants,7,7,6,0,7.0,0,0,Medium
+1529296,1,Lucknow Super Giants,8,11,6,0,11.0,0,0,High
+1529296,1,Lucknow Super Giants,9,5,6,2,5.0,1,0,Low
+1529296,1,Lucknow Super Giants,10,6,6,0,6.0,0,0,Medium
+1529296,1,Lucknow Super Giants,11,6,6,0,6.0,0,0,Medium
+1529296,1,Lucknow Super Giants,12,8,6,1,8.0,1,0,Medium
+1529296,1,Lucknow Super Giants,13,9,6,0,9.0,0,0,Medium
+1529296,1,Lucknow Super Giants,14,8,6,1,8.0,1,0,Medium
+1529296,1,Lucknow Super Giants,15,5,6,0,5.0,0,0,Low
+1529296,1,Lucknow Super Giants,16,8,6,0,8.0,0,0,Medium
+1529296,1,Lucknow Super Giants,17,10,6,0,10.0,0,0,High
+1529296,1,Lucknow Super Giants,18,17,6,0,17.0,0,1,Very High
+1529296,1,Lucknow Super Giants,19,9,6,2,9.0,1,0,Medium
+1529296,2,Chennai Super Kings,0,11,6,0,11.0,0,0,High
+1529296,2,Chennai Super Kings,1,15,6,0,15.0,0,1,Very High
+1529296,2,Chennai Super Kings,2,9,6,0,9.0,0,0,Medium
+1529296,2,Chennai Super Kings,3,12,6,1,12.0,1,0,High
+1529296,2,Chennai Super Kings,4,25,6,0,25.0,0,1,Very High
+1529296,2,Chennai Super Kings,5,25,6,0,25.0,0,1,Very High
+1529296,2,Chennai Super Kings,6,11,6,0,11.0,0,0,High
+1529296,2,Chennai Super Kings,7,13,6,0,13.0,0,0,High
+1529296,2,Chennai Super Kings,8,4,6,0,4.0,0,0,Low
+1529296,2,Chennai Super Kings,9,6,6,1,6.0,1,0,Medium
+1529296,2,Chennai Super Kings,10,5,6,0,5.0,0,0,Low
+1529296,2,Chennai Super Kings,11,6,6,0,6.0,0,0,Medium
+1529296,2,Chennai Super Kings,12,11,6,1,11.0,1,0,High
+1529296,2,Chennai Super Kings,13,4,6,0,4.0,0,0,Low
+1529296,2,Chennai Super Kings,14,8,6,0,8.0,0,0,Medium
+1529296,2,Chennai Super Kings,15,4,6,1,4.0,1,0,Low
+1529296,2,Chennai Super Kings,16,5,6,1,5.0,1,0,Low
+1529296,2,Chennai Super Kings,17,9,6,0,9.0,0,0,Medium
+1529296,2,Chennai Super Kings,18,11,6,0,11.0,0,0,High
+1529296,2,Chennai Super Kings,19,13,2,0,39.0,0,0,High
+1529297,1,Mumbai Indians,0,4,6,1,4.0,1,0,Low
+1529297,1,Mumbai Indians,1,18,6,0,18.0,0,1,Very High
+1529297,1,Mumbai Indians,2,6,6,2,6.0,1,0,Medium
+1529297,1,Mumbai Indians,3,6,6,0,6.0,0,0,Medium
+1529297,1,Mumbai Indians,4,7,6,0,7.0,0,0,Medium
+1529297,1,Mumbai Indians,5,12,6,0,12.0,0,0,High
+1529297,1,Mumbai Indians,6,4,6,0,4.0,0,0,Low
+1529297,1,Mumbai Indians,7,8,6,0,8.0,0,0,Medium
+1529297,1,Mumbai Indians,8,10,6,0,10.0,0,0,High
+1529297,1,Mumbai Indians,9,7,6,0,7.0,0,0,Medium
+1529297,1,Mumbai Indians,10,9,6,0,9.0,0,0,Medium
+1529297,1,Mumbai Indians,11,11,6,0,11.0,0,0,High
+1529297,1,Mumbai Indians,12,12,6,1,12.0,1,0,High
+1529297,1,Mumbai Indians,13,11,6,0,11.0,0,0,High
+1529297,1,Mumbai Indians,14,6,6,0,6.0,0,0,Medium
+1529297,1,Mumbai Indians,15,5,6,1,5.0,1,0,Low
+1529297,1,Mumbai Indians,16,13,6,0,13.0,0,0,High
+1529297,1,Mumbai Indians,17,6,6,1,6.0,1,0,Medium
+1529297,1,Mumbai Indians,18,6,6,1,6.0,1,0,Medium
+1529297,1,Mumbai Indians,19,5,6,0,5.0,0,0,Low
+1529297,2,Royal Challengers Bengaluru,0,14,6,1,14.0,1,0,High
+1529297,2,Royal Challengers Bengaluru,1,4,6,0,4.0,0,0,Low
+1529297,2,Royal Challengers Bengaluru,2,6,6,1,6.0,1,0,Medium
+1529297,2,Royal Challengers Bengaluru,3,8,6,0,8.0,0,0,Medium
+1529297,2,Royal Challengers Bengaluru,4,7,6,0,7.0,0,0,Medium
+1529297,2,Royal Challengers Bengaluru,5,8,6,1,8.0,1,0,Medium
+1529297,2,Royal Challengers Bengaluru,6,4,6,0,4.0,0,0,Low
+1529297,2,Royal Challengers Bengaluru,7,5,6,0,5.0,0,0,Low
+1529297,2,Royal Challengers Bengaluru,8,9,6,0,9.0,0,0,Medium
+1529297,2,Royal Challengers Bengaluru,9,9,6,0,9.0,0,0,Medium
+1529297,2,Royal Challengers Bengaluru,10,8,6,0,8.0,0,0,Medium
+1529297,2,Royal Challengers Bengaluru,11,12,6,0,12.0,0,0,High
+1529297,2,Royal Challengers Bengaluru,12,0,6,1,0.0,1,0,Low
+1529297,2,Royal Challengers Bengaluru,13,15,6,0,15.0,0,1,Very High
+1529297,2,Royal Challengers Bengaluru,14,8,6,0,8.0,0,0,Medium
+1529297,2,Royal Challengers Bengaluru,15,13,6,2,13.0,1,0,High
+1529297,2,Royal Challengers Bengaluru,16,6,6,0,6.0,0,0,Medium
+1529297,2,Royal Challengers Bengaluru,17,12,6,1,12.0,1,0,High
+1529297,2,Royal Challengers Bengaluru,18,3,6,0,3.0,0,0,Low
+1529297,2,Royal Challengers Bengaluru,19,15,6,1,15.0,1,1,Very High
+1529298,1,Punjab Kings,0,22,6,0,22.0,0,1,Very High
+1529298,1,Punjab Kings,1,12,6,0,12.0,0,0,High
+1529298,1,Punjab Kings,2,17,6,0,17.0,0,1,Very High
+1529298,1,Punjab Kings,3,8,6,0,8.0,0,0,Medium
+1529298,1,Punjab Kings,4,11,6,0,11.0,0,0,High
+1529298,1,Punjab Kings,5,2,6,0,2.0,0,0,Low
+1529298,1,Punjab Kings,6,5,6,1,5.0,1,0,Low
+1529298,1,Punjab Kings,7,10,6,0,10.0,0,0,High
+1529298,1,Punjab Kings,8,9,6,1,9.0,1,0,Medium
+1529298,1,Punjab Kings,9,9,6,0,9.0,0,0,Medium
+1529298,1,Punjab Kings,10,9,6,0,9.0,0,0,Medium
+1529298,1,Punjab Kings,11,9,6,0,9.0,0,0,Medium
+1529298,1,Punjab Kings,12,8,6,0,8.0,0,0,Medium
+1529298,1,Punjab Kings,13,7,6,0,7.0,0,0,Medium
+1529298,1,Punjab Kings,14,9,6,0,9.0,0,0,Medium
+1529298,1,Punjab Kings,15,13,6,0,13.0,0,0,High
+1529298,1,Punjab Kings,16,6,6,0,6.0,0,0,Medium
+1529298,1,Punjab Kings,17,19,6,1,19.0,1,1,Very High
+1529298,1,Punjab Kings,18,16,6,2,16.0,1,1,Very High
+1529298,1,Punjab Kings,19,7,6,0,7.0,0,0,Medium
+1529298,2,Delhi Capitals,0,6,6,0,6.0,0,0,Medium
+1529298,2,Delhi Capitals,1,4,6,1,4.0,1,0,Low
+1529298,2,Delhi Capitals,2,4,6,1,4.0,1,0,Low
+1529298,2,Delhi Capitals,3,18,6,0,18.0,0,1,Very High
+1529298,2,Delhi Capitals,4,6,6,1,6.0,1,0,Medium
+1529298,2,Delhi Capitals,5,9,6,0,9.0,0,0,Medium
+1529298,2,Delhi Capitals,6,16,6,0,16.0,0,1,Very High
+1529298,2,Delhi Capitals,7,10,6,0,10.0,0,0,High
+1529298,2,Delhi Capitals,8,3,6,1,3.0,1,0,Low
+1529298,2,Delhi Capitals,9,11,6,0,11.0,0,0,High
+1529298,2,Delhi Capitals,10,11,6,0,11.0,0,0,High
+1529298,2,Delhi Capitals,11,15,6,0,15.0,0,1,Very High
+1529298,2,Delhi Capitals,12,11,6,0,11.0,0,0,High
+1529298,2,Delhi Capitals,13,14,6,1,14.0,1,0,High
+1529298,2,Delhi Capitals,14,5,6,0,5.0,0,0,Low
+1529298,2,Delhi Capitals,15,15,6,0,15.0,0,1,Very High
+1529298,2,Delhi Capitals,16,17,6,1,17.0,1,1,Very High
+1529298,2,Delhi Capitals,17,19,6,0,19.0,0,1,Very High
+1529298,2,Delhi Capitals,18,22,6,1,22.0,1,1,Very High
+1529299,1,Gujarat Titans,0,5,6,0,5.0,0,0,Low
+1529299,1,Gujarat Titans,1,10,6,0,10.0,0,0,High
+1529299,1,Gujarat Titans,2,2,6,1,2.0,1,0,Low
+1529299,1,Gujarat Titans,3,4,6,0,4.0,0,0,Low
+1529299,1,Gujarat Titans,4,5,6,0,5.0,0,0,Low
+1529299,1,Gujarat Titans,5,8,6,1,8.0,1,0,Medium
+1529299,1,Gujarat Titans,6,13,6,0,13.0,0,0,High
+1529299,1,Gujarat Titans,7,9,6,0,9.0,0,0,Medium
+1529299,1,Gujarat Titans,8,7,6,0,7.0,0,0,Medium
+1529299,1,Gujarat Titans,9,5,6,1,5.0,1,0,Low
+1529299,1,Gujarat Titans,10,10,6,0,10.0,0,0,High
+1529299,1,Gujarat Titans,11,5,6,0,5.0,0,0,Low
+1529299,1,Gujarat Titans,12,10,6,0,10.0,0,0,High
+1529299,1,Gujarat Titans,13,13,6,0,13.0,0,0,High
+1529299,1,Gujarat Titans,14,7,6,0,7.0,0,0,Medium
+1529299,1,Gujarat Titans,15,9,6,0,9.0,0,0,Medium
+1529299,1,Gujarat Titans,16,9,6,1,9.0,1,0,Medium
+1529299,1,Gujarat Titans,17,7,6,0,7.0,0,0,Medium
+1529299,1,Gujarat Titans,18,18,6,0,18.0,0,1,Very High
+1529299,1,Gujarat Titans,19,10,6,1,10.0,1,0,High
+1529299,2,Sunrisers Hyderabad,0,0,6,1,0.0,1,0,Low
+1529299,2,Sunrisers Hyderabad,1,13,6,1,13.0,1,0,High
+1529299,2,Sunrisers Hyderabad,2,10,6,0,10.0,0,0,High
+1529299,2,Sunrisers Hyderabad,3,6,6,1,6.0,1,0,Medium
+1529299,2,Sunrisers Hyderabad,4,1,6,0,1.0,0,0,Low
+1529299,2,Sunrisers Hyderabad,5,4,6,1,4.0,1,0,Low
+1529299,2,Sunrisers Hyderabad,6,9,6,0,9.0,0,0,Medium
+1529299,2,Sunrisers Hyderabad,7,5,6,0,5.0,0,0,Low
+1529299,2,Sunrisers Hyderabad,8,6,6,0,6.0,0,0,Medium
+1529299,2,Sunrisers Hyderabad,9,2,6,1,2.0,1,0,Low
+1529299,2,Sunrisers Hyderabad,10,4,6,2,4.0,1,0,Low
+1529299,2,Sunrisers Hyderabad,11,11,6,0,11.0,0,0,High
+1529299,2,Sunrisers Hyderabad,12,1,6,1,1.0,1,0,Low
+1529299,2,Sunrisers Hyderabad,13,10,6,1,10.0,1,0,High
+1529299,2,Sunrisers Hyderabad,14,4,5,1,4.8,1,0,Low
+1529300,1,Kolkata Knight Riders,0,4,6,0,4.0,0,0,Low
+1529300,1,Kolkata Knight Riders,1,14,6,0,14.0,0,0,High
+1529300,1,Kolkata Knight Riders,2,8,6,1,8.0,1,0,Medium
+1529300,1,Kolkata Knight Riders,3,17,6,0,17.0,0,1,Very High
+1529300,1,Kolkata Knight Riders,4,6,6,1,6.0,1,0,Medium
+1529300,1,Kolkata Knight Riders,5,7,6,0,7.0,0,0,Medium
+1529300,1,Kolkata Knight Riders,6,8,6,0,8.0,0,0,Medium
+1529300,1,Kolkata Knight Riders,7,5,6,0,5.0,0,0,Low
+1529300,1,Kolkata Knight Riders,8,7,6,0,7.0,0,0,Medium
+1529300,1,Kolkata Knight Riders,9,10,6,0,10.0,0,0,High
+1529300,1,Kolkata Knight Riders,10,11,6,0,11.0,0,0,High
+1529300,1,Kolkata Knight Riders,11,14,6,0,14.0,0,0,High
+1529300,1,Kolkata Knight Riders,12,10,6,1,10.0,1,0,High
+1529300,1,Kolkata Knight Riders,13,10,6,0,10.0,0,0,High
+1529300,1,Kolkata Knight Riders,14,10,6,0,10.0,0,0,High
+1529300,1,Kolkata Knight Riders,15,12,6,0,12.0,0,0,High
+1529300,1,Kolkata Knight Riders,16,12,6,0,12.0,0,0,High
+1529300,1,Kolkata Knight Riders,17,7,6,0,7.0,0,0,Medium
+1529300,1,Kolkata Knight Riders,18,10,6,0,10.0,0,0,High
+1529300,1,Kolkata Knight Riders,19,10,6,1,10.0,1,0,High
+1529300,2,Royal Challengers Bengaluru,0,2,6,0,2.0,0,0,Low
+1529300,2,Royal Challengers Bengaluru,1,18,6,0,18.0,0,1,Very High
+1529300,2,Royal Challengers Bengaluru,2,16,6,0,16.0,0,1,Very High
+1529300,2,Royal Challengers Bengaluru,3,9,6,1,9.0,1,0,Medium
+1529300,2,Royal Challengers Bengaluru,4,11,6,0,11.0,0,0,High
+1529300,2,Royal Challengers Bengaluru,5,10,6,0,10.0,0,0,High
+1529300,2,Royal Challengers Bengaluru,6,5,6,0,5.0,0,0,Low
+1529300,2,Royal Challengers Bengaluru,7,10,6,0,10.0,0,0,High
+1529300,2,Royal Challengers Bengaluru,8,8,6,0,8.0,0,0,Medium
+1529300,2,Royal Challengers Bengaluru,9,12,6,0,12.0,0,0,High
+1529300,2,Royal Challengers Bengaluru,10,13,6,0,13.0,0,0,High
+1529300,2,Royal Challengers Bengaluru,11,4,6,0,4.0,0,0,Low
+1529300,2,Royal Challengers Bengaluru,12,11,6,0,11.0,0,0,High
+1529300,2,Royal Challengers Bengaluru,13,4,6,1,4.0,1,0,Low
+1529300,2,Royal Challengers Bengaluru,14,12,6,0,12.0,0,0,High
+1529300,2,Royal Challengers Bengaluru,15,12,6,1,12.0,1,0,High
+1529300,2,Royal Challengers Bengaluru,16,15,6,0,15.0,0,1,Very High
+1529300,2,Royal Challengers Bengaluru,17,9,6,1,9.0,1,0,Medium
+1529300,2,Royal Challengers Bengaluru,18,9,6,0,9.0,0,0,Medium
+1529300,2,Royal Challengers Bengaluru,19,4,1,0,24.0,0,0,Low
+1529301,1,Punjab Kings,0,7,6,0,7.0,0,0,Medium
+1529301,1,Punjab Kings,1,9,6,0,9.0,0,0,Medium
+1529301,1,Punjab Kings,2,5,6,0,5.0,0,0,Low
+1529301,1,Punjab Kings,3,10,6,0,10.0,0,0,High
+1529301,1,Punjab Kings,4,15,6,0,15.0,0,1,Very High
+1529301,1,Punjab Kings,5,9,6,1,9.0,1,0,Medium
+1529301,1,Punjab Kings,6,3,6,0,3.0,0,0,Low
+1529301,1,Punjab Kings,7,9,6,0,9.0,0,0,Medium
+1529301,1,Punjab Kings,8,9,6,0,9.0,0,0,Medium
+1529301,1,Punjab Kings,9,13,6,0,13.0,0,0,High
+1529301,1,Punjab Kings,10,11,6,0,11.0,0,0,High
+1529301,1,Punjab Kings,11,11,6,2,11.0,1,0,High
+1529301,1,Punjab Kings,12,10,6,1,10.0,1,0,High
+1529301,1,Punjab Kings,13,6,6,1,6.0,1,0,Medium
+1529301,1,Punjab Kings,14,7,6,1,7.0,1,0,Medium
+1529301,1,Punjab Kings,15,5,6,0,5.0,0,0,Low
+1529301,1,Punjab Kings,16,7,6,1,7.0,1,0,Medium
+1529301,1,Punjab Kings,17,19,6,1,19.0,1,1,Very High
+1529301,1,Punjab Kings,18,22,6,0,22.0,0,1,Very High
+1529301,1,Punjab Kings,19,12,6,0,12.0,0,0,High
+1529301,2,Mumbai Indians,0,2,6,0,2.0,0,0,Low
+1529301,2,Mumbai Indians,1,11,6,0,11.0,0,0,High
+1529301,2,Mumbai Indians,2,15,6,0,15.0,0,1,Very High
+1529301,2,Mumbai Indians,3,12,6,0,12.0,0,0,High
+1529301,2,Mumbai Indians,4,6,6,0,6.0,0,0,Medium
+1529301,2,Mumbai Indians,5,13,6,0,13.0,0,0,High
+1529301,2,Mumbai Indians,6,10,6,1,10.0,1,0,High
+1529301,2,Mumbai Indians,7,3,6,0,3.0,0,0,Low
+1529301,2,Mumbai Indians,8,13,6,1,13.0,1,0,High
+1529301,2,Mumbai Indians,9,4,6,1,4.0,1,0,Low
+1529301,2,Mumbai Indians,10,9,6,0,9.0,0,0,Medium
+1529301,2,Mumbai Indians,11,5,6,0,5.0,0,0,Low
+1529301,2,Mumbai Indians,12,13,6,0,13.0,0,0,High
+1529301,2,Mumbai Indians,13,5,6,0,5.0,0,0,Low
+1529301,2,Mumbai Indians,14,8,6,0,8.0,0,0,Medium
+1529301,2,Mumbai Indians,15,20,6,0,20.0,0,1,Very High
+1529301,2,Mumbai Indians,16,2,6,1,2.0,1,0,Low
+1529301,2,Mumbai Indians,17,22,6,0,22.0,0,1,Very High
+1529301,2,Mumbai Indians,18,13,6,0,13.0,0,0,High
+1529301,2,Mumbai Indians,19,19,5,0,22.8,0,1,Very High
+1529302,1,Chennai Super Kings,0,13,6,0,13.0,0,0,High
+1529302,1,Chennai Super Kings,1,7,6,0,7.0,0,0,Medium
+1529302,1,Chennai Super Kings,2,5,6,0,5.0,0,0,Low
+1529302,1,Chennai Super Kings,3,6,6,1,6.0,1,0,Medium
+1529302,1,Chennai Super Kings,4,3,6,0,3.0,0,0,Low
+1529302,1,Chennai Super Kings,5,3,6,1,3.0,1,0,Low
+1529302,1,Chennai Super Kings,6,13,6,0,13.0,0,0,High
+1529302,1,Chennai Super Kings,7,10,6,1,10.0,1,0,High
+1529302,1,Chennai Super Kings,8,8,6,0,8.0,0,0,Medium
+1529302,1,Chennai Super Kings,9,2,6,0,2.0,0,0,Low
+1529302,1,Chennai Super Kings,10,15,6,0,15.0,0,1,Very High
+1529302,1,Chennai Super Kings,11,6,6,0,6.0,0,0,Medium
+1529302,1,Chennai Super Kings,12,16,6,0,16.0,0,1,Very High
+1529302,1,Chennai Super Kings,13,7,6,0,7.0,0,0,Medium
+1529302,1,Chennai Super Kings,14,12,6,1,12.0,1,0,High
+1529302,1,Chennai Super Kings,15,15,6,1,15.0,1,1,Very High
+1529302,1,Chennai Super Kings,16,7,6,0,7.0,0,0,Medium
+1529302,1,Chennai Super Kings,17,4,6,0,4.0,0,0,Low
+1529302,1,Chennai Super Kings,18,11,6,0,11.0,0,0,High
+1529302,1,Chennai Super Kings,19,23,6,0,23.0,0,1,Very High
+1529302,2,Lucknow Super Giants,0,15,6,0,15.0,0,1,Very High
+1529302,2,Lucknow Super Giants,1,5,6,0,5.0,0,0,Low
+1529302,2,Lucknow Super Giants,2,11,6,0,11.0,0,0,High
+1529302,2,Lucknow Super Giants,3,8,6,0,8.0,0,0,Medium
+1529302,2,Lucknow Super Giants,4,28,6,0,28.0,0,1,Very High
+1529302,2,Lucknow Super Giants,5,19,6,0,19.0,0,1,Very High
+1529302,2,Lucknow Super Giants,6,9,6,0,9.0,0,0,Medium
+1529302,2,Lucknow Super Giants,7,14,6,0,14.0,0,0,High
+1529302,2,Lucknow Super Giants,8,5,6,0,5.0,0,0,Low
+1529302,2,Lucknow Super Giants,9,10,6,0,10.0,0,0,High
+1529302,2,Lucknow Super Giants,10,5,6,0,5.0,0,0,Low
+1529302,2,Lucknow Super Giants,11,7,6,2,7.0,1,0,Medium
+1529302,2,Lucknow Super Giants,12,2,6,0,2.0,0,0,Low
+1529302,2,Lucknow Super Giants,13,8,6,1,8.0,1,0,Medium
+1529302,2,Lucknow Super Giants,14,10,6,0,10.0,0,0,High
+1529302,2,Lucknow Super Giants,15,8,6,0,8.0,0,0,Medium
+1529302,2,Lucknow Super Giants,16,24,4,0,36.0,0,1,Very High
+1529303,1,Kolkata Knight Riders,0,5,6,0,5.0,0,0,Low
+1529303,1,Kolkata Knight Riders,1,8,6,0,8.0,0,0,Medium
+1529303,1,Kolkata Knight Riders,2,12,6,0,12.0,0,0,High
+1529303,1,Kolkata Knight Riders,3,14,6,0,14.0,0,0,High
+1529303,1,Kolkata Knight Riders,4,7,6,1,7.0,1,0,Medium
+1529303,1,Kolkata Knight Riders,5,9,6,0,9.0,0,0,Medium
+1529303,1,Kolkata Knight Riders,6,11,6,0,11.0,0,0,High
+1529303,1,Kolkata Knight Riders,7,18,6,0,18.0,0,1,Very High
+1529303,1,Kolkata Knight Riders,8,15,6,0,15.0,0,1,Very High
+1529303,1,Kolkata Knight Riders,9,16,6,0,16.0,0,1,Very High
+1529303,1,Kolkata Knight Riders,10,22,6,0,22.0,0,1,Very High
+1529303,1,Kolkata Knight Riders,11,5,6,1,5.0,1,0,Low
+1529303,1,Kolkata Knight Riders,12,14,6,0,14.0,0,0,High
+1529303,1,Kolkata Knight Riders,13,17,6,0,17.0,0,1,Very High
+1529303,1,Kolkata Knight Riders,14,5,6,0,5.0,0,0,Low
+1529303,1,Kolkata Knight Riders,15,13,6,0,13.0,0,0,High
+1529303,1,Kolkata Knight Riders,16,8,6,0,8.0,0,0,Medium
+1529303,1,Kolkata Knight Riders,17,10,6,0,10.0,0,0,High
+1529303,1,Kolkata Knight Riders,18,25,6,0,25.0,0,1,Very High
+1529303,1,Kolkata Knight Riders,19,12,6,0,12.0,0,0,High
+1529303,2,Gujarat Titans,0,14,6,0,14.0,0,0,High
+1529303,2,Gujarat Titans,1,12,6,0,12.0,0,0,High
+1529303,2,Gujarat Titans,2,15,6,0,15.0,0,1,Very High
+1529303,2,Gujarat Titans,3,7,6,0,7.0,0,0,Medium
+1529303,2,Gujarat Titans,4,2,6,1,2.0,1,0,Low
+1529303,2,Gujarat Titans,5,5,6,0,5.0,0,0,Low
+1529303,2,Gujarat Titans,6,13,6,0,13.0,0,0,High
+1529303,2,Gujarat Titans,7,5,6,0,5.0,0,0,Low
+1529303,2,Gujarat Titans,8,18,6,0,18.0,0,1,Very High
+1529303,2,Gujarat Titans,9,9,6,0,9.0,0,0,Medium
+1529303,2,Gujarat Titans,10,10,6,0,10.0,0,0,High
+1529303,2,Gujarat Titans,11,11,6,0,11.0,0,0,High
+1529303,2,Gujarat Titans,12,8,6,0,8.0,0,0,Medium
+1529303,2,Gujarat Titans,13,22,6,0,22.0,0,1,Very High
+1529303,2,Gujarat Titans,14,11,6,0,11.0,0,0,High
+1529303,2,Gujarat Titans,15,14,6,0,14.0,0,0,High
+1529303,2,Gujarat Titans,16,5,6,1,5.0,1,0,Low
+1529303,2,Gujarat Titans,17,21,6,0,21.0,0,1,Very High
+1529303,2,Gujarat Titans,18,5,6,1,5.0,1,0,Low
+1529303,2,Gujarat Titans,19,10,6,1,10.0,1,0,High
+1529304,1,Royal Challengers Bengaluru,0,4,6,0,4.0,0,0,Low
+1529304,1,Royal Challengers Bengaluru,1,13,6,0,13.0,0,0,High
+1529304,1,Royal Challengers Bengaluru,2,10,6,1,10.0,1,0,High
+1529304,1,Royal Challengers Bengaluru,3,13,6,0,13.0,0,0,High
+1529304,1,Royal Challengers Bengaluru,4,9,6,0,9.0,0,0,Medium
+1529304,1,Royal Challengers Bengaluru,5,12,6,0,12.0,0,0,High
+1529304,1,Royal Challengers Bengaluru,6,21,6,0,21.0,0,1,Very High
+1529304,1,Royal Challengers Bengaluru,7,9,6,0,9.0,0,0,Medium
+1529304,1,Royal Challengers Bengaluru,8,6,6,0,6.0,0,0,Medium
+1529304,1,Royal Challengers Bengaluru,9,4,6,1,4.0,1,0,Low
+1529304,1,Royal Challengers Bengaluru,10,7,6,0,7.0,0,0,Medium
+1529304,1,Royal Challengers Bengaluru,11,12,6,0,12.0,0,0,High
+1529304,1,Royal Challengers Bengaluru,12,11,6,0,11.0,0,0,High
+1529304,1,Royal Challengers Bengaluru,13,12,6,0,12.0,0,0,High
+1529304,1,Royal Challengers Bengaluru,14,14,6,1,14.0,1,0,High
+1529304,1,Royal Challengers Bengaluru,15,11,6,0,11.0,0,0,High
+1529304,1,Royal Challengers Bengaluru,16,19,6,0,19.0,0,1,Very High
+1529304,1,Royal Challengers Bengaluru,17,13,6,0,13.0,0,0,High
+1529304,1,Royal Challengers Bengaluru,18,8,6,0,8.0,0,0,Medium
+1529304,1,Royal Challengers Bengaluru,19,14,6,1,14.0,1,0,High
+1529304,2,Punjab Kings,0,5,6,1,5.0,1,0,Low
+1529304,2,Punjab Kings,1,11,6,0,11.0,0,0,High
+1529304,2,Punjab Kings,2,3,6,1,3.0,1,0,Low
+1529304,2,Punjab Kings,3,4,6,1,4.0,1,0,Low
+1529304,2,Punjab Kings,4,15,6,0,15.0,0,1,Very High
+1529304,2,Punjab Kings,5,11,6,0,11.0,0,0,High
+1529304,2,Punjab Kings,6,11,6,0,11.0,0,0,High
+1529304,2,Punjab Kings,7,8,6,1,8.0,1,0,Medium
+1529304,2,Punjab Kings,8,12,6,0,12.0,0,0,High
+1529304,2,Punjab Kings,9,6,6,0,6.0,0,0,Medium
+1529304,2,Punjab Kings,10,7,6,1,7.0,1,0,Medium
+1529304,2,Punjab Kings,11,9,6,0,9.0,0,0,Medium
+1529304,2,Punjab Kings,12,20,6,0,20.0,0,1,Very High
+1529304,2,Punjab Kings,13,12,6,0,12.0,0,0,High
+1529304,2,Punjab Kings,14,12,6,0,12.0,0,0,High
+1529304,2,Punjab Kings,15,14,6,0,14.0,0,0,High
+1529304,2,Punjab Kings,16,7,6,1,7.0,1,0,Medium
+1529304,2,Punjab Kings,17,16,6,0,16.0,0,1,Very High
+1529304,2,Punjab Kings,18,7,6,0,7.0,0,0,Medium
+1529304,2,Punjab Kings,19,9,6,2,9.0,1,0,Medium
+1529305,1,Rajasthan Royals,0,12,6,0,12.0,0,0,High
+1529305,1,Rajasthan Royals,1,7,6,1,7.0,1,0,Medium
+1529305,1,Rajasthan Royals,2,16,6,0,16.0,0,1,Very High
+1529305,1,Rajasthan Royals,3,5,6,0,5.0,0,0,Low
+1529305,1,Rajasthan Royals,4,18,6,0,18.0,0,1,Very High
+1529305,1,Rajasthan Royals,5,17,6,0,17.0,0,1,Very High
+1529305,1,Rajasthan Royals,6,11,6,0,11.0,0,0,High
+1529305,1,Rajasthan Royals,7,6,6,1,6.0,1,0,Medium
+1529305,1,Rajasthan Royals,8,6,6,0,6.0,0,0,Medium
+1529305,1,Rajasthan Royals,9,5,6,0,5.0,0,0,Low
+1529305,1,Rajasthan Royals,10,13,6,0,13.0,0,0,High
+1529305,1,Rajasthan Royals,11,23,6,0,23.0,0,1,Very High
+1529305,1,Rajasthan Royals,12,12,6,0,12.0,0,0,High
+1529305,1,Rajasthan Royals,13,8,6,0,8.0,0,0,Medium
+1529305,1,Rajasthan Royals,14,6,6,3,6.0,1,0,Medium
+1529305,1,Rajasthan Royals,15,5,6,0,5.0,0,0,Low
+1529305,1,Rajasthan Royals,16,3,6,1,3.0,1,0,Low
+1529305,1,Rajasthan Royals,17,8,6,0,8.0,0,0,Medium
+1529305,1,Rajasthan Royals,18,6,6,1,6.0,1,0,Medium
+1529305,1,Rajasthan Royals,19,5,6,1,5.0,1,0,Low
+1529305,2,Delhi Capitals,0,14,6,0,14.0,0,0,High
+1529305,2,Delhi Capitals,1,13,6,0,13.0,0,0,High
+1529305,2,Delhi Capitals,2,11,6,0,11.0,0,0,High
+1529305,2,Delhi Capitals,3,12,6,0,12.0,0,0,High
+1529305,2,Delhi Capitals,4,10,6,0,10.0,0,0,High
+1529305,2,Delhi Capitals,5,12,6,0,12.0,0,0,High
+1529305,2,Delhi Capitals,6,13,6,0,13.0,0,0,High
+1529305,2,Delhi Capitals,7,4,6,0,4.0,0,0,Low
+1529305,2,Delhi Capitals,8,6,6,0,6.0,0,0,Medium
+1529305,2,Delhi Capitals,9,10,6,0,10.0,0,0,High
+1529305,2,Delhi Capitals,10,8,6,1,8.0,1,0,Medium
+1529305,2,Delhi Capitals,11,8,6,0,8.0,0,0,Medium
+1529305,2,Delhi Capitals,12,2,6,1,2.0,1,0,Low
+1529305,2,Delhi Capitals,13,7,6,0,7.0,0,0,Medium
+1529305,2,Delhi Capitals,14,12,6,1,12.0,1,0,High
+1529305,2,Delhi Capitals,15,9,6,0,9.0,0,0,Medium
+1529305,2,Delhi Capitals,16,8,6,1,8.0,1,0,Medium
+1529305,2,Delhi Capitals,17,16,6,0,16.0,0,1,Very High
+1529305,2,Delhi Capitals,18,12,6,1,12.0,1,0,High
+1529305,2,Delhi Capitals,19,10,2,0,30.0,0,0,High
+1529306,1,Chennai Super Kings,0,17,6,0,17.0,0,1,Very High
+1529306,1,Chennai Super Kings,1,13,6,0,13.0,0,0,High
+1529306,1,Chennai Super Kings,2,13,6,1,13.0,1,0,High
+1529306,1,Chennai Super Kings,3,3,6,0,3.0,0,0,Low
+1529306,1,Chennai Super Kings,4,6,6,1,6.0,1,0,Medium
+1529306,1,Chennai Super Kings,5,5,6,0,5.0,0,0,Low
+1529306,1,Chennai Super Kings,6,6,6,0,6.0,0,0,Medium
+1529306,1,Chennai Super Kings,7,16,6,0,16.0,0,1,Very High
+1529306,1,Chennai Super Kings,8,10,6,0,10.0,0,0,High
+1529306,1,Chennai Super Kings,9,2,6,1,2.0,1,0,Low
+1529306,1,Chennai Super Kings,10,8,6,0,8.0,0,0,Medium
+1529306,1,Chennai Super Kings,11,1,6,1,1.0,1,0,Low
+1529306,1,Chennai Super Kings,12,4,6,0,4.0,0,0,Low
+1529306,1,Chennai Super Kings,13,18,6,0,18.0,0,1,Very High
+1529306,1,Chennai Super Kings,14,10,6,0,10.0,0,0,High
+1529306,1,Chennai Super Kings,15,12,6,0,12.0,0,0,High
+1529306,1,Chennai Super Kings,16,7,6,0,7.0,0,0,Medium
+1529306,1,Chennai Super Kings,17,8,6,1,8.0,1,0,Medium
+1529306,1,Chennai Super Kings,18,13,6,1,13.0,1,0,High
+1529306,1,Chennai Super Kings,19,7,6,1,7.0,1,0,Medium
+1529306,2,Sunrisers Hyderabad,0,10,6,0,10.0,0,0,High
+1529306,2,Sunrisers Hyderabad,1,5,6,0,5.0,0,0,Low
+1529306,2,Sunrisers Hyderabad,2,4,6,1,4.0,1,0,Low
+1529306,2,Sunrisers Hyderabad,3,12,6,0,12.0,0,0,High
+1529306,2,Sunrisers Hyderabad,4,7,6,0,7.0,0,0,Medium
+1529306,2,Sunrisers Hyderabad,5,7,6,0,7.0,0,0,Medium
+1529306,2,Sunrisers Hyderabad,6,8,6,0,8.0,0,0,Medium
+1529306,2,Sunrisers Hyderabad,7,4,6,1,4.0,1,0,Low
+1529306,2,Sunrisers Hyderabad,8,7,6,0,7.0,0,0,Medium
+1529306,2,Sunrisers Hyderabad,9,11,6,0,11.0,0,0,High
+1529306,2,Sunrisers Hyderabad,10,14,6,0,14.0,0,0,High
+1529306,2,Sunrisers Hyderabad,11,9,6,0,9.0,0,0,Medium
+1529306,2,Sunrisers Hyderabad,12,16,6,0,16.0,0,1,Very High
+1529306,2,Sunrisers Hyderabad,13,12,6,0,12.0,0,0,High
+1529306,2,Sunrisers Hyderabad,14,11,6,1,11.0,1,0,High
+1529306,2,Sunrisers Hyderabad,15,6,6,0,6.0,0,0,Medium
+1529306,2,Sunrisers Hyderabad,16,10,6,0,10.0,0,0,High
+1529306,2,Sunrisers Hyderabad,17,14,6,1,14.0,1,0,High
+1529306,2,Sunrisers Hyderabad,18,13,6,1,13.0,1,0,High
+1529307,1,Lucknow Super Giants,0,12,6,0,12.0,0,0,High
+1529307,1,Lucknow Super Giants,1,13,6,0,13.0,0,0,High
+1529307,1,Lucknow Super Giants,2,13,6,0,13.0,0,0,High
+1529307,1,Lucknow Super Giants,3,16,6,0,16.0,0,1,Very High
+1529307,1,Lucknow Super Giants,4,14,6,0,14.0,0,0,High
+1529307,1,Lucknow Super Giants,5,15,6,0,15.0,0,1,Very High
+1529307,1,Lucknow Super Giants,6,12,6,0,12.0,0,0,High
+1529307,1,Lucknow Super Giants,7,10,6,0,10.0,0,0,High
+1529307,1,Lucknow Super Giants,8,11,6,1,11.0,1,0,High
+1529307,1,Lucknow Super Giants,9,9,6,0,9.0,0,0,Medium
+1529307,1,Lucknow Super Giants,10,10,6,0,10.0,0,0,High
+1529307,1,Lucknow Super Giants,11,12,6,0,12.0,0,0,High
+1529307,1,Lucknow Super Giants,12,7,6,1,7.0,1,0,Medium
+1529307,1,Lucknow Super Giants,13,4,6,0,4.0,0,0,Low
+1529307,1,Lucknow Super Giants,14,5,6,0,5.0,0,0,Low
+1529307,1,Lucknow Super Giants,15,17,6,0,17.0,0,1,Very High
+1529307,1,Lucknow Super Giants,16,12,6,0,12.0,0,0,High
+1529307,1,Lucknow Super Giants,17,10,6,0,10.0,0,0,High
+1529307,1,Lucknow Super Giants,18,11,6,0,11.0,0,0,High
+1529307,1,Lucknow Super Giants,19,5,6,3,5.0,1,0,Low
+1529307,2,Rajasthan Royals,0,23,6,0,23.0,0,1,Very High
+1529307,2,Rajasthan Royals,1,2,6,0,2.0,0,0,Low
+1529307,2,Rajasthan Royals,2,5,6,0,5.0,0,0,Low
+1529307,2,Rajasthan Royals,3,19,6,0,19.0,0,1,Very High
+1529307,2,Rajasthan Royals,4,7,6,0,7.0,0,0,Medium
+1529307,2,Rajasthan Royals,5,15,6,0,15.0,0,1,Very High
+1529307,2,Rajasthan Royals,6,5,6,1,5.0,1,0,Low
+1529307,2,Rajasthan Royals,7,8,6,0,8.0,0,0,Medium
+1529307,2,Rajasthan Royals,8,25,6,0,25.0,0,1,Very High
+1529307,2,Rajasthan Royals,9,11,6,0,11.0,0,0,High
+1529307,2,Rajasthan Royals,10,16,6,0,16.0,0,1,Very High
+1529307,2,Rajasthan Royals,11,29,6,0,29.0,0,1,Very High
+1529307,2,Rajasthan Royals,12,11,6,0,11.0,0,0,High
+1529307,2,Rajasthan Royals,13,3,6,1,3.0,1,0,Low
+1529307,2,Rajasthan Royals,14,8,6,0,8.0,0,0,Medium
+1529307,2,Rajasthan Royals,15,8,6,0,8.0,0,0,Medium
+1529307,2,Rajasthan Royals,16,5,6,1,5.0,1,0,Low
+1529307,2,Rajasthan Royals,17,10,6,0,10.0,0,0,High
+1529307,2,Rajasthan Royals,18,8,6,0,8.0,0,0,Medium
+1529307,2,Rajasthan Royals,19,6,1,0,36.0,0,0,Medium
+1529308,1,Mumbai Indians,0,6,6,0,6.0,0,0,Medium
+1529308,1,Mumbai Indians,1,4,6,0,4.0,0,0,Low
+1529308,1,Mumbai Indians,2,7,6,2,7.0,1,0,Medium
+1529308,1,Mumbai Indians,3,7,6,1,7.0,1,0,Medium
+1529308,1,Mumbai Indians,4,10,6,0,10.0,0,0,High
+1529308,1,Mumbai Indians,5,12,6,1,12.0,1,0,High
+1529308,1,Mumbai Indians,6,4,6,0,4.0,0,0,Low
+1529308,1,Mumbai Indians,7,7,6,0,7.0,0,0,Medium
+1529308,1,Mumbai Indians,8,4,6,0,4.0,0,0,Low
+1529308,1,Mumbai Indians,9,3,6,0,3.0,0,0,Low
+1529308,1,Mumbai Indians,10,4,6,0,4.0,0,0,Low
+1529308,1,Mumbai Indians,11,6,6,0,6.0,0,0,Medium
+1529308,1,Mumbai Indians,12,9,6,0,9.0,0,0,Medium
+1529308,1,Mumbai Indians,13,5,6,1,5.0,1,0,Low
+1529308,1,Mumbai Indians,14,6,6,0,6.0,0,0,Medium
+1529308,1,Mumbai Indians,15,1,6,1,1.0,1,0,Low
+1529308,1,Mumbai Indians,16,11,6,1,11.0,1,0,High
+1529308,1,Mumbai Indians,17,9,6,0,9.0,0,0,Medium
+1529308,1,Mumbai Indians,18,13,6,0,13.0,0,0,High
+1529308,1,Mumbai Indians,19,19,6,1,19.0,1,1,Very High
+1529308,2,Kolkata Knight Riders,0,10,6,1,10.0,1,0,High
+1529308,2,Kolkata Knight Riders,1,2,6,0,2.0,0,0,Low
+1529308,2,Kolkata Knight Riders,2,5,6,0,5.0,0,0,Low
+1529308,2,Kolkata Knight Riders,3,14,6,0,14.0,0,0,High
+1529308,2,Kolkata Knight Riders,4,8,6,0,8.0,0,0,Medium
+1529308,2,Kolkata Knight Riders,5,12,6,1,12.0,1,0,High
+1529308,2,Kolkata Knight Riders,6,3,6,0,3.0,0,0,Low
+1529308,2,Kolkata Knight Riders,7,13,6,1,13.0,1,0,High
+1529308,2,Kolkata Knight Riders,8,6,6,0,6.0,0,0,Medium
+1529308,2,Kolkata Knight Riders,9,11,6,0,11.0,0,0,High
+1529308,2,Kolkata Knight Riders,10,8,6,0,8.0,0,0,Medium
+1529308,2,Kolkata Knight Riders,11,5,6,0,5.0,0,0,Low
+1529308,2,Kolkata Knight Riders,12,15,6,0,15.0,0,1,Very High
+1529308,2,Kolkata Knight Riders,13,3,6,0,3.0,0,0,Low
+1529308,2,Kolkata Knight Riders,14,3,6,1,3.0,1,0,Low
+1529308,2,Kolkata Knight Riders,15,11,6,1,11.0,1,0,High
+1529308,2,Kolkata Knight Riders,16,7,6,0,7.0,0,0,Medium
+1529308,2,Kolkata Knight Riders,17,5,6,1,5.0,1,0,Low
+1529308,2,Kolkata Knight Riders,18,7,5,0,8.4,0,0,Medium
+1529309,1,Gujarat Titans,0,8,6,0,8.0,0,0,Medium
+1529309,1,Gujarat Titans,1,15,6,0,15.0,0,1,Very High
+1529309,1,Gujarat Titans,2,7,6,0,7.0,0,0,Medium
+1529309,1,Gujarat Titans,3,15,6,0,15.0,0,1,Very High
+1529309,1,Gujarat Titans,4,3,6,0,3.0,0,0,Low
+1529309,1,Gujarat Titans,5,14,6,0,14.0,0,0,High
+1529309,1,Gujarat Titans,6,16,6,0,16.0,0,1,Very High
+1529309,1,Gujarat Titans,7,3,6,0,3.0,0,0,Low
+1529309,1,Gujarat Titans,8,15,6,0,15.0,0,1,Very High
+1529309,1,Gujarat Titans,9,15,6,0,15.0,0,1,Very High
+1529309,1,Gujarat Titans,10,9,6,0,9.0,0,0,Medium
+1529309,1,Gujarat Titans,11,3,6,0,3.0,0,0,Low
+1529309,1,Gujarat Titans,12,5,6,1,5.0,1,0,Low
+1529309,1,Gujarat Titans,13,22,6,0,22.0,0,1,Very High
+1529309,1,Gujarat Titans,14,8,6,0,8.0,0,0,Medium
+1529309,1,Gujarat Titans,15,14,6,0,14.0,0,0,High
+1529309,1,Gujarat Titans,16,13,6,0,13.0,0,0,High
+1529309,1,Gujarat Titans,17,15,6,0,15.0,0,1,Very High
+1529309,1,Gujarat Titans,18,15,6,2,15.0,1,1,Very High
+1529309,1,Gujarat Titans,19,13,6,1,13.0,1,0,High
+1529309,2,Chennai Super Kings,0,10,6,1,10.0,1,0,High
+1529309,2,Chennai Super Kings,1,13,6,0,13.0,0,0,High
+1529309,2,Chennai Super Kings,2,8,6,2,8.0,1,0,Medium
+1529309,2,Chennai Super Kings,3,12,6,0,12.0,0,0,High
+1529309,2,Chennai Super Kings,4,8,6,0,8.0,0,0,Medium
+1529309,2,Chennai Super Kings,5,7,6,1,7.0,1,0,Medium
+1529309,2,Chennai Super Kings,6,5,6,1,5.0,1,0,Low
+1529309,2,Chennai Super Kings,7,9,6,0,9.0,0,0,Medium
+1529309,2,Chennai Super Kings,8,19,6,0,19.0,0,1,Very High
+1529309,2,Chennai Super Kings,9,18,6,0,18.0,0,1,Very High
+1529309,2,Chennai Super Kings,10,14,6,1,14.0,1,0,High
+1529309,2,Chennai Super Kings,11,13,6,0,13.0,0,0,High
+1529309,2,Chennai Super Kings,12,4,6,2,4.0,1,0,Low
+1529309,2,Chennai Super Kings,13,0,4,2,0.0,1,0,Low
+1529310,1,Sunrisers Hyderabad,0,13,6,0,13.0,0,0,High
+1529310,1,Sunrisers Hyderabad,1,8,6,0,8.0,0,0,Medium
+1529310,1,Sunrisers Hyderabad,2,12,6,0,12.0,0,0,High
+1529310,1,Sunrisers Hyderabad,3,12,6,1,12.0,1,0,High
+1529310,1,Sunrisers Hyderabad,4,7,6,0,7.0,0,0,Medium
+1529310,1,Sunrisers Hyderabad,5,11,6,0,11.0,0,0,High
+1529310,1,Sunrisers Hyderabad,6,14,6,0,14.0,0,0,High
+1529310,1,Sunrisers Hyderabad,7,19,6,0,19.0,0,1,Very High
+1529310,1,Sunrisers Hyderabad,8,7,6,1,7.0,1,0,Medium
+1529310,1,Sunrisers Hyderabad,9,13,6,0,13.0,0,0,High
+1529310,1,Sunrisers Hyderabad,10,8,6,0,8.0,0,0,Medium
+1529310,1,Sunrisers Hyderabad,11,5,6,0,5.0,0,0,Low
+1529310,1,Sunrisers Hyderabad,12,26,6,0,26.0,0,1,Very High
+1529310,1,Sunrisers Hyderabad,13,15,6,0,15.0,0,1,Very High
+1529310,1,Sunrisers Hyderabad,14,18,6,0,18.0,0,1,Very High
+1529310,1,Sunrisers Hyderabad,15,20,6,0,20.0,0,1,Very High
+1529310,1,Sunrisers Hyderabad,16,16,6,1,16.0,1,1,Very High
+1529310,1,Sunrisers Hyderabad,17,13,6,0,13.0,0,0,High
+1529310,1,Sunrisers Hyderabad,18,8,6,0,8.0,0,0,Medium
+1529310,1,Sunrisers Hyderabad,19,8,6,1,8.0,1,0,Medium
+1529310,2,Royal Challengers Bengaluru,0,14,6,0,14.0,0,0,High
+1529310,2,Royal Challengers Bengaluru,1,5,6,0,5.0,0,0,Low
+1529310,2,Royal Challengers Bengaluru,2,15,6,0,15.0,0,1,Very High
+1529310,2,Royal Challengers Bengaluru,3,23,6,0,23.0,0,1,Very High
+1529310,2,Royal Challengers Bengaluru,4,14,6,1,14.0,1,0,High
+1529310,2,Royal Challengers Bengaluru,5,4,6,1,4.0,1,0,Low
+1529310,2,Royal Challengers Bengaluru,6,10,6,0,10.0,0,0,High
+1529310,2,Royal Challengers Bengaluru,7,6,6,0,6.0,0,0,Medium
+1529310,2,Royal Challengers Bengaluru,8,3,6,1,3.0,1,0,Low
+1529310,2,Royal Challengers Bengaluru,9,6,6,0,6.0,0,0,Medium
+1529310,2,Royal Challengers Bengaluru,10,12,6,0,12.0,0,0,High
+1529310,2,Royal Challengers Bengaluru,11,9,6,0,9.0,0,0,Medium
+1529310,2,Royal Challengers Bengaluru,12,6,6,0,6.0,0,0,Medium
+1529310,2,Royal Challengers Bengaluru,13,12,6,0,12.0,0,0,High
+1529310,2,Royal Challengers Bengaluru,14,10,6,0,10.0,0,0,High
+1529310,2,Royal Challengers Bengaluru,15,11,6,0,11.0,0,0,High
+1529310,2,Royal Challengers Bengaluru,16,8,6,0,8.0,0,0,Medium
+1529310,2,Royal Challengers Bengaluru,17,9,6,0,9.0,0,0,Medium
+1529310,2,Royal Challengers Bengaluru,18,8,6,1,8.0,1,0,Medium
+1529310,2,Royal Challengers Bengaluru,19,15,6,0,15.0,0,1,Very High
+1529311,1,Lucknow Super Giants,0,16,6,0,16.0,0,1,Very High
+1529311,1,Lucknow Super Giants,1,1,6,1,1.0,1,0,Low
+1529311,1,Lucknow Super Giants,2,3,6,1,3.0,1,0,Low
+1529311,1,Lucknow Super Giants,3,4,6,0,4.0,0,0,Low
+1529311,1,Lucknow Super Giants,4,18,6,0,18.0,0,1,Very High
+1529311,1,Lucknow Super Giants,5,24,6,0,24.0,0,1,Very High
+1529311,1,Lucknow Super Giants,6,5,6,1,5.0,1,0,Low
+1529311,1,Lucknow Super Giants,7,8,6,0,8.0,0,0,Medium
+1529311,1,Lucknow Super Giants,8,9,6,0,9.0,0,0,Medium
+1529311,1,Lucknow Super Giants,9,12,6,0,12.0,0,0,High
+1529311,1,Lucknow Super Giants,10,3,6,0,3.0,0,0,Low
+1529311,1,Lucknow Super Giants,11,19,6,0,19.0,0,1,Very High
+1529311,1,Lucknow Super Giants,12,4,6,0,4.0,0,0,Low
+1529311,1,Lucknow Super Giants,13,8,6,1,8.0,1,0,Medium
+1529311,1,Lucknow Super Giants,14,13,6,0,13.0,0,0,High
+1529311,1,Lucknow Super Giants,15,10,6,0,10.0,0,0,High
+1529311,1,Lucknow Super Giants,16,12,6,1,12.0,1,0,High
+1529311,1,Lucknow Super Giants,17,4,6,1,4.0,1,0,Low
+1529311,1,Lucknow Super Giants,18,6,6,0,6.0,0,0,Medium
+1529311,1,Lucknow Super Giants,19,16,6,0,16.0,0,1,Very High
+1529311,2,Punjab Kings,0,10,6,1,10.0,1,0,High
+1529311,2,Punjab Kings,1,11,6,0,11.0,0,0,High
+1529311,2,Punjab Kings,2,9,6,1,9.0,1,0,Medium
+1529311,2,Punjab Kings,3,11,6,0,11.0,0,0,High
+1529311,2,Punjab Kings,4,14,6,0,14.0,0,0,High
+1529311,2,Punjab Kings,5,10,6,0,10.0,0,0,High
+1529311,2,Punjab Kings,6,4,6,0,4.0,0,0,Low
+1529311,2,Punjab Kings,7,10,6,0,10.0,0,0,High
+1529311,2,Punjab Kings,8,15,6,0,15.0,0,1,Very High
+1529311,2,Punjab Kings,9,11,6,0,11.0,0,0,High
+1529311,2,Punjab Kings,10,6,6,0,6.0,0,0,Medium
+1529311,2,Punjab Kings,11,14,6,0,14.0,0,0,High
+1529311,2,Punjab Kings,12,14,6,0,14.0,0,0,High
+1529311,2,Punjab Kings,13,11,6,0,11.0,0,0,High
+1529311,2,Punjab Kings,14,12,6,1,12.0,1,0,High
+1529311,2,Punjab Kings,15,20,6,0,20.0,0,1,Very High
+1529311,2,Punjab Kings,16,5,6,0,5.0,0,0,Low
+1529311,2,Punjab Kings,17,13,6,0,13.0,0,0,High
+1529312,1,Rajasthan Royals,0,9,6,0,9.0,0,0,Medium
+1529312,1,Rajasthan Royals,1,4,6,0,4.0,0,0,Low
+1529312,1,Rajasthan Royals,2,12,6,0,12.0,0,0,High
+1529312,1,Rajasthan Royals,3,8,6,1,8.0,1,0,Medium
+1529312,1,Rajasthan Royals,4,6,6,1,6.0,1,0,Medium
+1529312,1,Rajasthan Royals,5,15,6,1,15.0,1,1,Very High
+1529312,1,Rajasthan Royals,6,6,6,0,6.0,0,0,Medium
+1529312,1,Rajasthan Royals,7,15,6,0,15.0,0,1,Very High
+1529312,1,Rajasthan Royals,8,9,6,0,9.0,0,0,Medium
+1529312,1,Rajasthan Royals,9,10,6,0,10.0,0,0,High
+1529312,1,Rajasthan Royals,10,6,6,1,6.0,1,0,Medium
+1529312,1,Rajasthan Royals,11,15,6,0,15.0,0,1,Very High
+1529312,1,Rajasthan Royals,12,4,6,1,4.0,1,0,Low
+1529312,1,Rajasthan Royals,13,3,6,0,3.0,0,0,Low
+1529312,1,Rajasthan Royals,14,10,6,0,10.0,0,0,High
+1529312,1,Rajasthan Royals,15,16,6,1,16.0,1,1,Very High
+1529312,1,Rajasthan Royals,16,13,6,0,13.0,0,0,High
+1529312,1,Rajasthan Royals,17,14,6,2,14.0,1,0,High
+1529312,1,Rajasthan Royals,18,16,6,0,16.0,0,1,Very High
+1529312,1,Rajasthan Royals,19,14,6,0,14.0,0,0,High
+1529312,2,Mumbai Indians,0,1,6,1,1.0,1,0,Low
+1529312,2,Mumbai Indians,1,12,6,0,12.0,0,0,High
+1529312,2,Mumbai Indians,2,10,6,1,10.0,1,0,High
+1529312,2,Mumbai Indians,3,12,6,1,12.0,1,0,High
+1529312,2,Mumbai Indians,4,3,6,0,3.0,0,0,Low
+1529312,2,Mumbai Indians,5,11,6,1,11.0,1,0,High
+1529312,2,Mumbai Indians,6,10,6,0,10.0,0,0,High
+1529312,2,Mumbai Indians,7,8,6,0,8.0,0,0,Medium
+1529312,2,Mumbai Indians,8,14,6,0,14.0,0,0,High
+1529312,2,Mumbai Indians,9,9,6,0,9.0,0,0,Medium
+1529312,2,Mumbai Indians,10,4,6,0,4.0,0,0,Low
+1529312,2,Mumbai Indians,11,22,6,1,22.0,1,1,Very High
+1529312,2,Mumbai Indians,12,15,6,0,15.0,0,1,Very High
+1529312,2,Mumbai Indians,13,8,6,0,8.0,0,0,Medium
+1529312,2,Mumbai Indians,14,8,6,0,8.0,0,0,Medium
+1529312,2,Mumbai Indians,15,3,6,1,3.0,1,0,Low
+1529312,2,Mumbai Indians,16,5,6,1,5.0,1,0,Low
+1529312,2,Mumbai Indians,17,11,6,1,11.0,1,0,High
+1529312,2,Mumbai Indians,18,3,6,1,3.0,1,0,Low
+1529312,2,Mumbai Indians,19,6,6,0,6.0,0,0,Medium
+1529313,1,Delhi Capitals,0,10,6,0,10.0,0,0,High
+1529313,1,Delhi Capitals,1,2,6,0,2.0,0,0,Low
+1529313,1,Delhi Capitals,2,14,6,0,14.0,0,0,High
+1529313,1,Delhi Capitals,3,13,6,0,13.0,0,0,High
+1529313,1,Delhi Capitals,4,3,6,1,3.0,1,0,Low
+1529313,1,Delhi Capitals,5,11,6,0,11.0,0,0,High
+1529313,1,Delhi Capitals,6,4,6,0,4.0,0,0,Low
+1529313,1,Delhi Capitals,7,13,6,0,13.0,0,0,High
+1529313,1,Delhi Capitals,8,10,6,0,10.0,0,0,High
+1529313,1,Delhi Capitals,9,8,6,1,8.0,1,0,Medium
+1529313,1,Delhi Capitals,10,20,6,0,20.0,0,1,Very High
+1529313,1,Delhi Capitals,11,6,6,0,6.0,0,0,Medium
+1529313,1,Delhi Capitals,12,13,6,1,13.0,1,0,High
+1529313,1,Delhi Capitals,13,8,6,0,8.0,0,0,Medium
+1529313,1,Delhi Capitals,14,5,6,0,5.0,0,0,Low
+1529313,1,Delhi Capitals,15,10,6,0,10.0,0,0,High
+1529313,1,Delhi Capitals,16,16,6,1,16.0,1,1,Very High
+1529313,1,Delhi Capitals,17,8,6,0,8.0,0,0,Medium
+1529313,1,Delhi Capitals,18,12,6,0,12.0,0,0,High
+1529313,1,Delhi Capitals,19,15,6,1,15.0,1,1,Very High
+1529313,2,Kolkata Knight Riders,0,5,6,0,5.0,0,0,Low
+1529313,2,Kolkata Knight Riders,1,6,6,0,6.0,0,0,Medium
+1529313,2,Kolkata Knight Riders,2,15,6,0,15.0,0,1,Very High
+1529313,2,Kolkata Knight Riders,3,17,6,0,17.0,0,1,Very High
+1529313,2,Kolkata Knight Riders,4,4,6,1,4.0,1,0,Low
+1529313,2,Kolkata Knight Riders,5,8,6,0,8.0,0,0,Medium
+1529313,2,Kolkata Knight Riders,6,9,6,0,9.0,0,0,Medium
+1529313,2,Kolkata Knight Riders,7,21,6,0,21.0,0,1,Very High
+1529313,2,Kolkata Knight Riders,8,8,6,1,8.0,1,0,Medium
+1529313,2,Kolkata Knight Riders,9,5,6,1,5.0,1,0,Low
+1529313,2,Kolkata Knight Riders,10,5,6,0,5.0,0,0,Low
+1529313,2,Kolkata Knight Riders,11,12,6,0,12.0,0,0,High
+1529313,2,Kolkata Knight Riders,12,11,6,0,11.0,0,0,High
+1529313,2,Kolkata Knight Riders,13,3,6,2,3.0,1,0,Low
+1529313,2,Kolkata Knight Riders,14,4,6,1,4.0,1,0,Low
+1529313,2,Kolkata Knight Riders,15,9,6,0,9.0,0,0,Medium
+1529313,2,Kolkata Knight Riders,16,11,6,0,11.0,0,0,High
+1529313,2,Kolkata Knight Riders,17,6,6,3,6.0,1,0,Medium
+1529313,2,Kolkata Knight Riders,18,4,4,1,6.0,1,0,Low
+1535462,1,Royal Challengers Bengaluru,0,14,6,0,14.0,0,0,High
+1535462,1,Royal Challengers Bengaluru,1,7,6,1,7.0,1,0,Medium
+1535462,1,Royal Challengers Bengaluru,2,11,6,0,11.0,0,0,High
+1535462,1,Royal Challengers Bengaluru,3,18,6,0,18.0,0,1,Very High
+1535462,1,Royal Challengers Bengaluru,4,12,6,0,12.0,0,0,High
+1535462,1,Royal Challengers Bengaluru,5,14,6,0,14.0,0,0,High
+1535462,1,Royal Challengers Bengaluru,6,10,6,0,10.0,0,0,High
+1535462,1,Royal Challengers Bengaluru,7,6,6,0,6.0,0,0,Medium
+1535462,1,Royal Challengers Bengaluru,8,4,6,2,4.0,1,0,Low
+1535462,1,Royal Challengers Bengaluru,9,3,6,0,3.0,0,0,Low
+1535462,1,Royal Challengers Bengaluru,10,13,6,0,13.0,0,0,High
+1535462,1,Royal Challengers Bengaluru,11,13,6,0,13.0,0,0,High
+1535462,1,Royal Challengers Bengaluru,12,3,6,0,3.0,0,0,Low
+1535462,1,Royal Challengers Bengaluru,13,12,6,0,12.0,0,0,High
+1535462,1,Royal Challengers Bengaluru,14,28,6,0,28.0,0,1,Very High
+1535462,1,Royal Challengers Bengaluru,15,21,6,0,21.0,0,1,Very High
+1535462,1,Royal Challengers Bengaluru,16,15,6,1,15.0,1,1,Very High
+1535462,1,Royal Challengers Bengaluru,17,10,6,1,10.0,1,0,High
+1535462,1,Royal Challengers Bengaluru,18,21,6,0,21.0,0,1,Very High
+1535462,1,Royal Challengers Bengaluru,19,19,6,0,19.0,0,1,Very High
+1535462,2,Gujarat Titans,0,11,6,0,11.0,0,0,High
+1535462,2,Gujarat Titans,1,2,6,0,2.0,0,0,Low
+1535462,2,Gujarat Titans,2,14,6,1,14.0,1,0,High
+1535462,2,Gujarat Titans,3,10,6,1,10.0,1,0,High
+1535462,2,Gujarat Titans,4,14,6,1,14.0,1,0,High
+1535462,2,Gujarat Titans,5,0,6,2,0.0,1,0,Low
+1535462,2,Gujarat Titans,6,2,6,0,2.0,0,0,Low
+1535462,2,Gujarat Titans,7,11,6,0,11.0,0,0,High
+1535462,2,Gujarat Titans,8,2,6,1,2.0,1,0,Low
+1535462,2,Gujarat Titans,9,4,6,0,4.0,0,0,Low
+1535462,2,Gujarat Titans,10,13,6,1,13.0,1,0,High
+1535462,2,Gujarat Titans,11,9,6,1,9.0,1,0,Medium
+1535462,2,Gujarat Titans,12,15,6,0,15.0,0,1,Very High
+1535462,2,Gujarat Titans,13,14,6,0,14.0,0,0,High
+1535462,2,Gujarat Titans,14,2,6,0,2.0,0,0,Low
+1535462,2,Gujarat Titans,15,11,6,0,11.0,0,0,High
+1535462,2,Gujarat Titans,16,9,6,0,9.0,0,0,Medium
+1535462,2,Gujarat Titans,17,13,6,0,13.0,0,0,High
+1535462,2,Gujarat Titans,18,5,6,1,5.0,1,0,Low
+1535462,2,Gujarat Titans,19,1,3,1,2.0,1,0,Low
+1535463,1,Rajasthan Royals,0,9,6,0,9.0,0,0,Medium
+1535463,1,Rajasthan Royals,1,11,6,0,11.0,0,0,High
+1535463,1,Rajasthan Royals,2,25,6,0,25.0,0,1,Very High
+1535463,1,Rajasthan Royals,3,18,6,0,18.0,0,1,Very High
+1535463,1,Rajasthan Royals,4,11,6,0,11.0,0,0,High
+1535463,1,Rajasthan Royals,5,6,6,0,6.0,0,0,Medium
+1535463,1,Rajasthan Royals,6,16,6,0,16.0,0,1,Very High
+1535463,1,Rajasthan Royals,7,29,6,1,29.0,1,1,Very High
+1535463,1,Rajasthan Royals,8,4,6,0,4.0,0,0,Low
+1535463,1,Rajasthan Royals,9,7,6,0,7.0,0,0,Medium
+1535463,1,Rajasthan Royals,10,15,6,1,15.0,1,1,Very High
+1535463,1,Rajasthan Royals,11,17,6,0,17.0,0,1,Very High
+1535463,1,Rajasthan Royals,12,12,6,0,12.0,0,0,High
+1535463,1,Rajasthan Royals,13,12,6,1,12.0,1,0,High
+1535463,1,Rajasthan Royals,14,15,6,0,15.0,0,1,Very High
+1535463,1,Rajasthan Royals,15,7,6,1,7.0,1,0,Medium
+1535463,1,Rajasthan Royals,16,6,6,1,6.0,1,0,Medium
+1535463,1,Rajasthan Royals,17,13,6,0,13.0,0,0,High
+1535463,1,Rajasthan Royals,18,5,6,2,5.0,1,0,Low
+1535463,1,Rajasthan Royals,19,5,6,1,5.0,1,0,Low
+1535463,2,Sunrisers Hyderabad,0,16,6,1,16.0,1,1,Very High
+1535463,2,Sunrisers Hyderabad,1,19,6,0,19.0,0,1,Very High
+1535463,2,Sunrisers Hyderabad,2,17,6,1,17.0,1,1,Very High
+1535463,2,Sunrisers Hyderabad,3,1,6,1,1.0,1,0,Low
+1535463,2,Sunrisers Hyderabad,4,9,6,1,9.0,1,0,Medium
+1535463,2,Sunrisers Hyderabad,5,9,6,0,9.0,0,0,Medium
+1535463,2,Sunrisers Hyderabad,6,12,6,1,12.0,1,0,High
+1535463,2,Sunrisers Hyderabad,7,13,6,0,13.0,0,0,High
+1535463,2,Sunrisers Hyderabad,8,18,6,0,18.0,0,1,Very High
+1535463,2,Sunrisers Hyderabad,9,18,6,0,18.0,0,1,Very High
+1535463,2,Sunrisers Hyderabad,10,6,6,1,6.0,1,0,Medium
+1535463,2,Sunrisers Hyderabad,11,7,6,1,7.0,1,0,Medium
+1535463,2,Sunrisers Hyderabad,12,3,6,0,3.0,0,0,Low
+1535463,2,Sunrisers Hyderabad,13,5,6,0,5.0,0,0,Low
+1535463,2,Sunrisers Hyderabad,14,12,6,1,12.0,1,0,High
+1535463,2,Sunrisers Hyderabad,15,4,6,0,4.0,0,0,Low
+1535463,2,Sunrisers Hyderabad,16,16,6,0,16.0,0,1,Very High
+1535463,2,Sunrisers Hyderabad,17,6,6,1,6.0,1,0,Medium
+1535463,2,Sunrisers Hyderabad,18,4,6,0,4.0,0,0,Low
+1535463,2,Sunrisers Hyderabad,19,1,2,1,3.0,1,0,Low
+1535464,1,Rajasthan Royals,0,3,6,1,3.0,1,0,Low
+1535464,1,Rajasthan Royals,1,10,6,1,10.0,1,0,High
+1535464,1,Rajasthan Royals,2,21,6,0,21.0,0,1,Very High
+1535464,1,Rajasthan Royals,3,11,6,0,11.0,0,0,High
+1535464,1,Rajasthan Royals,4,9,6,0,9.0,0,0,Medium
+1535464,1,Rajasthan Royals,5,16,6,0,16.0,0,1,Very High
+1535464,1,Rajasthan Royals,6,6,6,0,6.0,0,0,Medium
+1535464,1,Rajasthan Royals,7,6,6,0,6.0,0,0,Medium
+1535464,1,Rajasthan Royals,8,18,6,0,18.0,0,1,Very High
+1535464,1,Rajasthan Royals,9,3,6,1,3.0,1,0,Low
+1535464,1,Rajasthan Royals,10,6,6,0,6.0,0,0,Medium
+1535464,1,Rajasthan Royals,11,2,6,1,2.0,1,0,Low
+1535464,1,Rajasthan Royals,12,9,6,1,9.0,1,0,Medium
+1535464,1,Rajasthan Royals,13,9,6,0,9.0,0,0,Medium
+1535464,1,Rajasthan Royals,14,9,6,0,9.0,0,0,Medium
+1535464,1,Rajasthan Royals,15,16,6,0,16.0,0,1,Very High
+1535464,1,Rajasthan Royals,16,17,6,0,17.0,0,1,Very High
+1535464,1,Rajasthan Royals,17,5,6,1,5.0,1,0,Low
+1535464,1,Rajasthan Royals,18,11,6,0,11.0,0,0,High
+1535464,1,Rajasthan Royals,19,27,6,0,27.0,0,1,Very High
+1535464,2,Gujarat Titans,0,19,6,0,19.0,0,1,Very High
+1535464,2,Gujarat Titans,1,12,6,0,12.0,0,0,High
+1535464,2,Gujarat Titans,2,10,6,0,10.0,0,0,High
+1535464,2,Gujarat Titans,3,11,6,0,11.0,0,0,High
+1535464,2,Gujarat Titans,4,7,6,0,7.0,0,0,Medium
+1535464,2,Gujarat Titans,5,10,6,0,10.0,0,0,High
+1535464,2,Gujarat Titans,6,10,6,0,10.0,0,0,High
+1535464,2,Gujarat Titans,7,12,6,0,12.0,0,0,High
+1535464,2,Gujarat Titans,8,17,6,0,17.0,0,1,Very High
+1535464,2,Gujarat Titans,9,19,6,0,19.0,0,1,Very High
+1535464,2,Gujarat Titans,10,17,6,0,17.0,0,1,Very High
+1535464,2,Gujarat Titans,11,12,6,0,12.0,0,0,High
+1535464,2,Gujarat Titans,12,13,6,1,13.0,1,0,High
+1535464,2,Gujarat Titans,13,9,6,0,9.0,0,0,Medium
+1535464,2,Gujarat Titans,14,4,6,1,4.0,1,0,Low
+1535464,2,Gujarat Titans,15,7,6,0,7.0,0,0,Medium
+1535464,2,Gujarat Titans,16,12,6,0,12.0,0,0,High
+1535464,2,Gujarat Titans,17,4,6,1,4.0,1,0,Low
+1535464,2,Gujarat Titans,18,14,4,0,21.0,0,0,High
+1535465,1,Gujarat Titans,0,12,6,0,12.0,0,0,High
+1535465,1,Gujarat Titans,1,5,6,0,5.0,0,0,Low
+1535465,1,Gujarat Titans,2,6,6,1,6.0,1,0,Medium
+1535465,1,Gujarat Titans,3,6,6,1,6.0,1,0,Medium
+1535465,1,Gujarat Titans,4,9,6,0,9.0,0,0,Medium
+1535465,1,Gujarat Titans,5,6,6,0,6.0,0,0,Medium
+1535465,1,Gujarat Titans,6,5,6,0,5.0,0,0,Low
+1535465,1,Gujarat Titans,7,5,6,1,5.0,1,0,Low
+1535465,1,Gujarat Titans,8,4,6,0,4.0,0,0,Low
+1535465,1,Gujarat Titans,9,4,6,0,4.0,0,0,Low
+1535465,1,Gujarat Titans,10,4,6,0,4.0,0,0,Low
+1535465,1,Gujarat Titans,11,6,6,0,6.0,0,0,Medium
+1535465,1,Gujarat Titans,12,10,6,1,10.0,1,0,High
+1535465,1,Gujarat Titans,13,16,6,0,16.0,0,1,Very High
+1535465,1,Gujarat Titans,14,6,6,1,6.0,1,0,Medium
+1535465,1,Gujarat Titans,15,10,6,0,10.0,0,0,High
+1535465,1,Gujarat Titans,16,6,6,1,6.0,1,0,Medium
+1535465,1,Gujarat Titans,17,16,6,0,16.0,0,1,Very High
+1535465,1,Gujarat Titans,18,8,6,1,8.0,1,0,Medium
+1535465,1,Gujarat Titans,19,10,6,1,10.0,1,0,High
+1535465,2,Royal Challengers Bengaluru,0,5,6,0,5.0,0,0,Low
+1535465,2,Royal Challengers Bengaluru,1,18,6,0,18.0,0,1,Very High
+1535465,2,Royal Challengers Bengaluru,2,13,6,0,13.0,0,0,High
+1535465,2,Royal Challengers Bengaluru,3,19,6,0,19.0,0,1,Very High
+1535465,2,Royal Challengers Bengaluru,4,8,6,1,8.0,1,0,Medium
+1535465,2,Royal Challengers Bengaluru,5,7,6,1,7.0,1,0,Medium
+1535465,2,Royal Challengers Bengaluru,6,11,6,0,11.0,0,0,High
+1535465,2,Royal Challengers Bengaluru,7,7,6,0,7.0,0,0,Medium
+1535465,2,Royal Challengers Bengaluru,8,3,6,2,3.0,1,0,Low
+1535465,2,Royal Challengers Bengaluru,9,9,6,0,9.0,0,0,Medium
+1535465,2,Royal Challengers Bengaluru,10,9,6,0,9.0,0,0,Medium
+1535465,2,Royal Challengers Bengaluru,11,7,6,0,7.0,0,0,Medium
+1535465,2,Royal Challengers Bengaluru,12,10,6,0,10.0,0,0,High
+1535465,2,Royal Challengers Bengaluru,13,6,6,1,6.0,1,0,Medium
+1535465,2,Royal Challengers Bengaluru,14,7,6,0,7.0,0,0,Medium
+1535465,2,Royal Challengers Bengaluru,15,6,6,0,6.0,0,0,Medium
+1535465,2,Royal Challengers Bengaluru,16,3,6,0,3.0,0,0,Low
+1535465,2,Royal Challengers Bengaluru,17,13,6,0,13.0,0,0,High
