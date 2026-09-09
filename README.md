@@ -555,6 +555,26 @@ The team slicer allows interactive filtering of the dashboard.
 
 ---
 
+## Streamlit Web Application
+
+The project includes an interactive Streamlit web application that brings the analytics, machine learning, and AI components together in a single interface.
+
+### Streamlit Features
+
+- Team performance analysis
+- Team explorer
+- Top run scorers and wicket takers
+- Player analysis
+- Venue analysis
+- Match explorer
+- AI-powered analytics insights
+- ML-based match winner prediction
+
+### Run the Application Locally
+
+```bash
+streamlit run streamlit/app.py
+
 ## 12. Machine Learning – Match Prediction
 
 ### Objective
