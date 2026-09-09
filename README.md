@@ -42,30 +42,37 @@ Python Analytics & Feature Engineering
        ├──────────────► Excel Business Analysis
        │
        └──────────────► Power BI Dashboard
+                             
+       Analytics + ML + AI
+              │
+              ▼
+       Streamlit Web Application
+              │
+       ├── Interactive Analytics
+       ├── ML Match Prediction
+       └── AI Analytics Assistant
 
-       Historical Match Data
-              │
-              ▼
-       Feature Engineering
-              │
-              ▼
-       Random Forest
-              │
-              ▼
-       Match Prediction
+Historical Match Data
+       │
+       ▼
+Feature Engineering
+       │
+       ▼
+Random Forest
+       │
+       ▼
+Match Prediction
 
-       Analytics CSVs
-              │
-              ▼
-       Retrieval Layer
-              │
-              ▼
-       Grounded Context
-              │
-              ▼
-       Local RAG Analytics Assistant
-```
-
+Analytics CSVs
+       │
+       ▼
+Retrieval Layer
+       │
+       ▼
+Grounded Context
+       │
+       ▼
+Local RAG Analytics Assistant
 ---
 
 ## 2. Business Objective
@@ -136,11 +143,13 @@ For match-outcome ML, the dataset contains **72 usable completed matches**.
 - CTEs
 - Window Functions
 
-### Business Intelligence
+### Business Intelligence & Application
+
 - Microsoft Excel
 - Power BI
 - Power BI slicers and visualizations
-- DAX knowledge can be extended with additional measures if required
+- Streamlit
+- Interactive analytics dashboard
 
 ### Machine Learning
 - Scikit-learn
@@ -161,7 +170,7 @@ For match-outcome ML, the dataset contains **72 usable completed matches**.
 ## 5. Project Folder Structure
 
 ```text
-IPL DATASET/
+IPL-2026-Cricket-Analytics-AI/
 │
 ├── cricsheet_json/
 │   └── IPL JSON source files
@@ -220,9 +229,20 @@ IPL DATASET/
 │   ├── 22_rag_retrieval.py
 │   └── 23_rag_ai_assistant.py
 │
-├── IPL_2026_Analytics.xlsx
-└── powerbi/
-    └── IPL_2026_Analytics_Dashboard.pbix
+├── streamlit/
+│   └── app.py
+│
+├── MS EXCEL/
+│   └── IPL_2026_Analytics.xlsx
+│
+├── POWERBI/
+│   └── POWERBI/IPL_2026_Analytics_Dashboard.pbix
+│
+├── DATA_DICTIONARY.md
+├── PROJECT_SUMMARY.md
+├── README.md
+├── requirements.txt
+└── .gitignore
 ```
 
 ---
