@@ -2,10 +2,10 @@ pandas
 numpy
 matplotlib
 seaborn
-scikit-learn
+scikit-learn==1.6.1
 openpyxl
 sqlalchemy
 pymysql
 python-dotenv
 openai
-streamlit
+streamlit==1.45.1
