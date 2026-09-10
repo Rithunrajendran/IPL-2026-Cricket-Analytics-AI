@@ -236,7 +236,7 @@ IPL-2026-Cricket-Analytics-AI/
 │   └── IPL_2026_Analytics.xlsx
 │
 ├── POWERBI/
-│   └── POWERBI/IPL_2026_Analytics_Dashboard.pbix
+│   └──  IPL_2026_Analytics_Dashboard.pbix
 │
 ├── DATA_DICTIONARY.md
 ├── PROJECT_SUMMARY.md
@@ -531,7 +531,7 @@ A window function can rank batters by total runs.
 
 Workbook:
 
-`IPL_2026_Analytics.xlsx`
+`MS EXCEL/IPL_2026_Analytics.xlsx`
 
 Sheets:
 1. Team Performance
@@ -557,7 +557,7 @@ The Excel workbook provides a business-friendly analytical layer before visualiz
 
 Dashboard file:
 
-`powerbi/IPL_2026_Analytics_Dashboard.pbix`
+`IPL_2026_Analytics_Dashboard.pbix`
 
 Dashboard components:
 - Total Matches KPI
@@ -575,7 +575,11 @@ The team slicer allows interactive filtering of the dashboard.
 
 ---
 
+<<<<<<< HEAD
 ## Streamlit Web Application
+=======
+## 12. Streamlit Web Application
+>>>>>>> 7d0e609 (Update README with Streamlit application)
 
 The project includes an interactive Streamlit web application that brings the analytics, machine learning, and AI components together in a single interface.
 
@@ -587,15 +591,103 @@ The project includes an interactive Streamlit web application that brings the an
 - Player analysis
 - Venue analysis
 - Match explorer
+<<<<<<< HEAD
 - AI-powered analytics insights
 - ML-based match winner prediction
 
+=======
+- AI analytics insights
+- ML-based match winner prediction
+
+### Application Modules
+
+#### Team Performance
+
+Provides team-level performance metrics including:
+
+- Matches played
+- Wins
+- Losses
+- Win percentage
+- Runs scored
+- Runs conceded
+
+#### Team Explorer
+
+Allows users to select a team and explore its IPL 2026 performance.
+
+#### Batting Analysis
+
+Provides:
+
+- Top run scorers
+- Player statistics
+- Runs
+- Strike rate
+- Fours
+- Sixes
+
+#### Bowling Analysis
+
+Provides:
+
+- Top wicket takers
+- Wickets
+- Economy rate
+- Bowling strike rate
+
+#### Venue Analysis
+
+Provides:
+
+- Average match scores
+- Highest match scores
+- Chase success
+- Venue-level performance
+
+#### Match Explorer
+
+Allows users to explore match-level IPL 2026 statistics and results.
+
+#### AI Analytics Assistant
+
+The application includes a controlled analytics assistant that retrieves information from the project's analytical datasets and generates natural-language insights.
+
+Users can select:
+
+- Analysis category
+- Question
+- Team
+- Player
+- Teams for comparison
+
+Supported analysis areas include:
+
+- Team Performance
+- Batting
+- Bowling
+- Phase Analysis
+- Venue Analysis
+- Match Analysis
+- Team Comparison
+
+#### ML Match Prediction
+
+The application also provides a match prediction interface using the trained Random Forest model.
+
+>>>>>>> 7d0e609 (Update README with Streamlit application)
 ### Run the Application Locally
 
 ```bash
 streamlit run streamlit/app.py
+<<<<<<< HEAD
 
 ## 12. Machine Learning – Match Prediction
+=======
+```
+
+## 13. Machine Learning – Match Prediction
+>>>>>>> 7d0e609 (Update README with Streamlit application)
 
 ### Objective
 
@@ -668,7 +760,7 @@ The 57.62% cross-validation accuracy should therefore be treated as an experimen
 
 ---
 
-## 13. RAG / AI Analytics Layer
+## 14. RAG / AI Analytics Layer
 
 The project includes a local RAG-style analytics assistant.
 
@@ -716,25 +808,46 @@ The retrieval layer is intentionally separated from answer generation so an LLM 
 
 ---
 
-## 14. How to Run
+## 15. How to Run
 
-### Activate the environment
+### 1. Clone the Repository
 
-```powershell
-& "C:\Users\rithu\venv\Scripts\Activate.ps1"
+```bash
+git clone https://github.com/Rithunrajendran/IPL-2026-Cricket-Analytics-AI.git
+cd IPL-2026-Cricket-Analytics-AI
 ```
 
-### Go to the project
+### 2. Create a Virtual Environment
 
-```powershell
-cd "C:\Users\rithu\Videos\AnyDesk\files\ipl dataset"
+```bash
+python -m venv venv
 ```
 
-### Run scripts from project root
+### 3. Activate the Environment
+
+#### Windows PowerShell
+
+```powershell
+.\venv\Scripts\Activate.ps1
+```
+
+### 4. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 5. Run the Streamlit Application
+
+```bash
+streamlit run streamlit/app.py
+```
+
+### 6. Run Individual Python Scripts
 
 Example:
 
-```powershell
+```bash
 python python\01_inspect_data.py
 python python\03_find_2026.py
 python python\04_create_matches.py
@@ -757,9 +870,29 @@ python python\22_rag_retrieval.py
 python python\23_rag_ai_assistant.py
 ```
 
+### MySQL
+
+The SQL layer can be recreated using the SQL scripts and views documented in the project.
+
+### Power BI
+
+Open:
+
+```text
+POWERBI/IPL_2026_Analytics_Dashboard.pbix
+```
+
+### Excel
+
+Open:
+
+```text
+MS EXCEL/IPL_2026_Analytics.xlsx
+```
+
 ---
 
-## 15. Data-to-Decision Flow
+## 16. Data-to-Decision Flow
 
 The project demonstrates a complete analytics workflow:
 
@@ -792,7 +925,7 @@ The project demonstrates a complete analytics workflow:
 
 ---
 
-## 16. Key Project Outcomes
+## 17. Key Project Outcomes
 
 The completed project demonstrates practical experience with:
 
