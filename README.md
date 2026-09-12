@@ -2,7 +2,7 @@
 
 A full-stack cricket analytics project built on IPL 2026 ball-by-ball data. Covers the complete data pipeline from raw JSON through Python analytics, SQL, Excel, Power BI, machine learning, and a live interactive Streamlit web application.
 
-**Live App:** [IPL 2026 Cricket Analytics Platform](https://rithunrajendran-ipl-2026-cricket-analytics-platform-streamlit-app.streamlit.app)
+**Live App:** [IPL 2026 Cricket Analytics Platform](https://rithunrajendran-ipl-2026-cricket-analytics--streamlitapp-1d4wzs.streamlit.app/)
 
 ---
 
