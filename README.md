@@ -169,7 +169,7 @@ Concepts demonstrated: JOINs, GROUP BY, CASE, CTEs, aggregations, window functio
 ## Project Structure
 
 ```text
-IPL-2026-Cricket-Analytics-AI/
+IPL-2026-Cricket-Analytics-Platform/
 │
 ├── cricsheet_json/          # Raw IPL 2026 source JSON files
 ├── processed/               # Generated CSV analytics datasets
