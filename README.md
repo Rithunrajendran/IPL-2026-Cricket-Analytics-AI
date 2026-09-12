@@ -1,8 +1,8 @@
-# IPL 2026 — End-to-End Cricket Analytics Platform
+# IPL 2026 Cricket Analytics Platform
 
 A full-stack cricket analytics project built on IPL 2026 ball-by-ball data. Covers the complete data pipeline from raw JSON through Python analytics, SQL, Excel, Power BI, machine learning, and a live interactive Streamlit web application.
 
-**Live App:** [IPL 2026 Analytics on Streamlit](https://rithunrajendran-ipl-2026-cricket-analytics-ai-streamlit-app.streamlit.app)
+**Live App:** [IPL 2026 Cricket Analytics Platform](https://rithunrajendran-ipl-2026-cricket-analytics-platform-streamlit-app.streamlit.app)
 
 ---
 
@@ -97,8 +97,8 @@ Select two teams and predict the winner using the trained Random Forest model. S
 ### Run Locally
 
 ```bash
-git clone https://github.com/Rithunrajendran/IPL-2026-Cricket-Analytics-AI.git
-cd IPL-2026-Cricket-Analytics-AI
+git clone https://github.com/rithunrajendran/IPL-2026-Cricket-Analytics-Platform.git
+cd IPL-2026-Cricket-Analytics-Platform
 pip install -r requirements.txt
 streamlit run streamlit/app.py
 ```
