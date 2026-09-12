@@ -8,6 +8,7 @@ import pandas as pd
 DELIVERIES_PATH = "../processed/deliveries_2026.csv"
 BATTING_PATH = "../processed/batting_metrics_2026.csv"
 MILESTONES_PATH = "../processed/player_milestones_2026.csv"
+BOWLING_IMPACT_PATH = "../processed/bowling_impact_2026.csv"
 OUTPUT_PATH = "../processed/player_impact_2026.csv"
 
 
@@ -18,6 +19,7 @@ OUTPUT_PATH = "../processed/player_impact_2026.csv"
 deliveries = pd.read_csv(DELIVERIES_PATH)
 batting = pd.read_csv(BATTING_PATH)
 milestones = pd.read_csv(MILESTONES_PATH)
+bowling_impact = pd.read_csv(BOWLING_IMPACT_PATH)
 
 
 # ==========================================
@@ -105,6 +107,47 @@ player_impact["30_plus_percentage"] = (
 
 
 # ==========================================
+# MERGE BOWLING STATS
+# ==========================================
+
+bowling_cols = [
+    "bowler",
+    "matches_bowled",
+    "legal_balls",
+    "wickets",
+    "runs_conceded",
+    "economy",
+    "bowling_average",
+    "bowling_strike_rate",
+    "dot_balls",
+    "dot_ball_percentage",
+    "three_plus_wickets",
+    "four_plus_wickets",
+    "five_plus_wickets",
+    "best_match_wickets"
+]
+
+# Rename bowling dot_ball_percentage to avoid clash with batting one
+bowling_merge = bowling_impact[bowling_cols].copy()
+bowling_merge = bowling_merge.rename(
+    columns={
+        "dot_ball_percentage": "bowling_dot_pct",
+        "dot_balls": "bowling_dot_balls"
+    }
+)
+
+player_impact = player_impact.merge(
+    bowling_merge,
+    left_on="batter",
+    right_on="bowler",
+    how="left"
+)
+
+# Drop redundant bowler name column
+player_impact = player_impact.drop(columns=["bowler"])
+
+
+# ==========================================
 # SORT BY TOTAL RUNS
 # ==========================================
 
@@ -131,7 +174,7 @@ player_impact.to_csv(
 print("Player impact analytics created successfully!")
 print("Total players:", len(player_impact))
 
-print("\nTop 10 players by runs:")
+print("\nTop 10 players by runs (batting stats):")
 
 print(
     player_impact[
@@ -149,6 +192,35 @@ print(
             "30_plus_percentage"
         ]
     ]
+    .head(10)
+    .to_string(index=False)
+)
+
+# Bowlers in the dataset (those who also bowled)
+bowler_mask = player_impact["wickets"].notna()
+print(
+    f"\nPlayers with bowling stats: "
+    f"{bowler_mask.sum()} / {len(player_impact)}"
+)
+
+print("\nTop 10 wicket-takers (bowling stats):")
+
+print(
+    player_impact[bowler_mask][
+        [
+            "batter",
+            "matches_bowled",
+            "wickets",
+            "runs_conceded",
+            "economy",
+            "bowling_average",
+            "bowling_strike_rate",
+            "bowling_dot_pct",
+            "three_plus_wickets",
+            "best_match_wickets"
+        ]
+    ]
+    .sort_values("wickets", ascending=False)
     .head(10)
     .to_string(index=False)
 )
