@@ -1,11 +1,7 @@
+streamlit==1.45.1
 pandas
 numpy
-matplotlib
-seaborn
+plotly
 scikit-learn==1.6.1
+joblib
 openpyxl
-sqlalchemy
-pymysql
-python-dotenv
-openai
-streamlit==1.45.1
